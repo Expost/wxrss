@@ -1,2 +1,30 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>越女事务所</title><description>越女事务所 的文章更新</description><item><title>巨鳄来抢饭了...</title><pubDate>2025年08月14日 22:22</pubDate><link>https://mp.weixin.qq.com/s/_R19N8dNtVh9MwBG3oCU4g</link></item><item><title>不爽，老板要砍薪水</title><pubDate>2025年08月13日 21:51</pubDate><link>https://mp.weixin.qq.com/s/K1gjnh-FTv2fEg-BQL6fNQ</link></item><item><title>疯牛顶，快到了</title><pubDate>2025年08月12日 21:36</pubDate><link>https://mp.weixin.qq.com/s/HoYdYR-9Jm310HW_qK15VQ</link></item></channel></rss>
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>越女事务所</title>
+    <link>https://mp.weixin.qq.com</link>
+    <description>越女事务所</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Aug 2025 12:50:13 +0000</lastBuildDate>
+    <item>
+      <title>疯牛顶，快到了</title>
+      <link>https://mp.weixin.qq.com/s/HoYdYR-9Jm310HW_qK15VQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HoYdYR-9Jm310HW_qK15VQ</guid>
+      <pubDate>Tue, 12 Aug 2025 21:36:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>不爽，老板要砍薪水</title>
+      <link>https://mp.weixin.qq.com/s/K1gjnh-FTv2fEg-BQL6fNQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/K1gjnh-FTv2fEg-BQL6fNQ</guid>
+      <pubDate>Wed, 13 Aug 2025 21:51:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>巨鳄来抢饭了...</title>
+      <link>https://mp.weixin.qq.com/s/_R19N8dNtVh9MwBG3oCU4g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_R19N8dNtVh9MwBG3oCU4g</guid>
+      <pubDate>Thu, 14 Aug 2025 22:22:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
