@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>吾爱破解论坛</title>
+    <link>https://mp.weixin.qq.com</link>
+    <description>吾爱破解论坛</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Aug 2025 14:14:45 +0000</lastBuildDate>
+    <item>
+      <title>WebAssembly 逆向工程挑战赛</title>
+      <link>https://mp.weixin.qq.com/s/ADFdYMXTqbdg4CRJu09cMg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ADFdYMXTqbdg4CRJu09cMg</guid>
+      <pubDate>Fri, 25 Jul 2025 11:52:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>某米无线键鼠2逆向初探</title>
+      <link>https://mp.weixin.qq.com/s/5zT1Wnex0uOKiuiI-2DYlg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5zT1Wnex0uOKiuiI-2DYlg</guid>
+      <pubDate>Mon, 28 Jul 2025 18:13:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>获取windbgx离线安装包</title>
+      <link>https://mp.weixin.qq.com/s/O9H8jOiEexhKTgA5Zru8IA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/O9H8jOiEexhKTgA5Zru8IA</guid>
+      <pubDate>Thu, 07 Aug 2025 15:16:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
