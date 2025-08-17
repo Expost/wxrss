@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>caoz的梦呓</title>
+    <link>https://mp.weixin.qq.com</link>
+    <description>caoz的梦呓</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Aug 2025 13:42:38 +0000</lastBuildDate>
+    <item>
+      <title>抠门精出游 - 欧洲街溜子记录</title>
+      <link>https://mp.weixin.qq.com/s/lV9bVn_Pv0Lt9-dd3YUFzg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/lV9bVn_Pv0Lt9-dd3YUFzg</guid>
+      <pubDate>Tue, 05 Aug 2025 00:42:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>旅游中的一些感悟</title>
+      <link>https://mp.weixin.qq.com/s/SA5IdPvW2bV6ukhlc7xwAA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/SA5IdPvW2bV6ukhlc7xwAA</guid>
+      <pubDate>Mon, 11 Aug 2025 17:14:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>讲一百次正确，不如试一次错。</title>
+      <link>https://mp.weixin.qq.com/s/JO_gFi_JYu7WV12NYMUf1A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/JO_gFi_JYu7WV12NYMUf1A</guid>
+      <pubDate>Sat, 16 Aug 2025 21:03:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
