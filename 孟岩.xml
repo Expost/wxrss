@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>孟岩</title>
+    <link>https://mp.weixin.qq.com</link>
+    <description>孟岩</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Aug 2025 14:07:39 +0000</lastBuildDate>
+    <item>
+      <title>你不容易看到的东西</title>
+      <link>https://mp.weixin.qq.com/s/HEpyvzgK1kyt4d2YAhf-nQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HEpyvzgK1kyt4d2YAhf-nQ</guid>
+      <pubDate>Thu, 12 Jun 2025 13:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「基金 CT」的一些说明（一）</title>
+      <link>https://mp.weixin.qq.com/s/5qJ7oo1HzoYtIJFrbaucTQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5qJ7oo1HzoYtIJFrbaucTQ</guid>
+      <pubDate>Wed, 18 Jun 2025 14:56:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>够与多</title>
+      <link>https://mp.weixin.qq.com/s/gxSf03IS60yZRDdu6Tr82g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/gxSf03IS60yZRDdu6Tr82g</guid>
+      <pubDate>Wed, 18 Jun 2025 14:56:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
