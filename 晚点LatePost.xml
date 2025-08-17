@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>晚点LatePost</title>
+    <link>https://mp.weixin.qq.com</link>
+    <description>晚点LatePost</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Aug 2025 14:08:50 +0000</lastBuildDate>
+    <item>
+      <title>理想的七大流程、小鹏的四条横线：车企 IPD 建设热潮下的管理焦虑</title>
+      <link>https://mp.weixin.qq.com/s/01rZUndTGG_6NN6CMfWT2g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/01rZUndTGG_6NN6CMfWT2g</guid>
+      <pubDate>Fri, 15 Aug 2025 12:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>车企承诺 “60天内付款” 满期调查：兑现有限，压力仍在转移</title>
+      <link>https://mp.weixin.qq.com/s/kvRRsMZmxnQwMW2Gsn3oqg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/kvRRsMZmxnQwMW2Gsn3oqg</guid>
+      <pubDate>Fri, 15 Aug 2025 18:57:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>取消 KPI、放暑假，凯乐石从上班开始重塑品牌丨晚点周末</title>
+      <link>https://mp.weixin.qq.com/s/t_FVqdKWPSc_UegYLgbXGA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/t_FVqdKWPSc_UegYLgbXGA</guid>
+      <pubDate>Sun, 17 Aug 2025 20:22:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
