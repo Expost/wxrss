@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>机器之心</title>
+    <link>https://mp.weixin.qq.com</link>
+    <description>机器之心</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Aug 2025 14:05:24 +0000</lastBuildDate>
+    <item>
+      <title>SEAgent：开启从实战经验中自我进化的GUI智能体新纪元</title>
+      <link>https://mp.weixin.qq.com/s/3eD-2Y6hzE3kdy_i-5WmeQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/3eD-2Y6hzE3kdy_i-5WmeQ</guid>
+      <pubDate>Sun, 17 Aug 2025 12:26:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CoRL 2025｜隐空间扩散世界模型LaDi-WM大幅提升机器人操作策略的成功率和跨场景泛化能力</title>
+      <link>https://mp.weixin.qq.com/s/TNRZJ1NJDpvq1zGnmWFnOg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/TNRZJ1NJDpvq1zGnmWFnOg</guid>
+      <pubDate>Sun, 17 Aug 2025 12:26:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>400万人围观的分层推理模型，「分层架构」竟不起作用？性能提升另有隐情？</title>
+      <link>https://mp.weixin.qq.com/s/7q5LhAnsfA2ePpAC5yxV3w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/7q5LhAnsfA2ePpAC5yxV3w</guid>
+      <pubDate>Sun, 17 Aug 2025 12:26:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
