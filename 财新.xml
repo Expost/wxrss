@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>财新</title>
+    <link>https://mp.weixin.qq.com</link>
+    <description>财新</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Aug 2025 13:42:06 +0000</lastBuildDate>
+    <item>
+      <title>掌舵重庆两大传媒集团前后22年 牟丰京被移送司法</title>
+      <link>https://mp.weixin.qq.com/s/6uooWgus-w4vMyzfuDlVPw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/6uooWgus-w4vMyzfuDlVPw</guid>
+      <pubDate>Sun, 17 Aug 2025 17:53:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>清华劳东燕：MaskPark事件比韩国“N号房”事件更恶劣</title>
+      <link>https://mp.weixin.qq.com/s/DpDbN8aeBTQNWIPjpB3DbQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/DpDbN8aeBTQNWIPjpB3DbQ</guid>
+      <pubDate>Sun, 17 Aug 2025 17:53:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>矛盾的“牛市”：实体企业偏凉，资本市场炙热</title>
+      <link>https://mp.weixin.qq.com/s/8lfifNRbFX4x6LdmR9FDdQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8lfifNRbFX4x6LdmR9FDdQ</guid>
+      <pubDate>Sun, 17 Aug 2025 17:53:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
