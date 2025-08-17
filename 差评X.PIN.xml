@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>差评X.PIN</title>
+    <link>https://mp.weixin.qq.com</link>
+    <description>差评X.PIN</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Aug 2025 14:03:29 +0000</lastBuildDate>
+    <item>
+      <title>信AI排行榜，不如信它们的游戏排位分数。</title>
+      <link>https://mp.weixin.qq.com/s/fZhVkVkkS7etzaYxhzFHkg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/fZhVkVkkS7etzaYxhzFHkg</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>股价暴涨300%的美图，在海外乱杀了。</title>
+      <link>https://mp.weixin.qq.com/s/VUXkPNmqFBKEC88Tced_FQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/VUXkPNmqFBKEC88Tced_FQ</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>微信推出打开新功能，杭州地铁充电宝自燃，传微软Win11将补全深色模式，沈海高速出现严禁使用辅助驾驶路牌，这是今天的其他大新闻！</title>
+      <link>https://mp.weixin.qq.com/s/v1VhATHMTBIhDVgadTnrYw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/v1VhATHMTBIhDVgadTnrYw</guid>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
