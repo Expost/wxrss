@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>全民较真-腾讯新闻</title>
+    <link>https://mp.weixin.qq.com</link>
+    <description>全民较真-腾讯新闻</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 Aug 2025 14:08:11 +0000</lastBuildDate>
+    <item>
+      <title>杨某某“缴纳了7000万澳元的保释金”？澳方：“并未设立任何金钱条件”丨今日较真合集</title>
+      <link>https://mp.weixin.qq.com/s/yj-cjBqQD_CgJCvSCAFYrw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/yj-cjBqQD_CgJCvSCAFYrw</guid>
+      <pubDate>Tue, 12 Aug 2025 18:58:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>景区百米蹦极台坍塌？李国庆再婚门票售价上万元？云南某小区草坪发现遇害者遗体？丨今日较真合集</title>
+      <link>https://mp.weixin.qq.com/s/KztME40qQ5Axjkvv5j9DVg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/KztME40qQ5Axjkvv5j9DVg</guid>
+      <pubDate>Wed, 13 Aug 2025 19:41:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>湖南可以领取医疗补助金？落马女官员挖出327枚比特币，价值约1.5亿元？丨今日较真合集</title>
+      <link>https://mp.weixin.qq.com/s/r70vW6E8OdJrNcAhyHv8-w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/r70vW6E8OdJrNcAhyHv8-w</guid>
+      <pubDate>Thu, 14 Aug 2025 20:00:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
