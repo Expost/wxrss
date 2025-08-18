@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 17 Aug 2025 14:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 14:26:32 +0000</lastBuildDate>
     <item>
       <title>Gepys木马分析与还原C代码</title>
       <link>https://mp.weixin.qq.com/s/KCIIHHMG6NnhjXZhR98bKQ</link>
@@ -25,6 +25,24 @@
       <link>https://mp.weixin.qq.com/s/JMWMADD8bAPYkMy4ca6fXw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/JMWMADD8bAPYkMy4ca6fXw</guid>
       <pubDate>Sat, 16 Aug 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>最强代码审计课程！掌握高危漏洞挖掘技巧，达到企业中级用人水平</title>
+      <link>https://mp.weixin.qq.com/s/mCutqT5aFAQSOywjGP-E0g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/mCutqT5aFAQSOywjGP-E0g</guid>
+      <pubDate>Mon, 18 Aug 2025 18:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>实时定位+驾驶习惯全暴露！特斯拉车主数据大规模泄漏</title>
+      <link>https://mp.weixin.qq.com/s/cGJYZaZ07v5-KddauCsXtg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cGJYZaZ07v5-KddauCsXtg</guid>
+      <pubDate>Mon, 18 Aug 2025 18:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025 KCTF | 第二题《初窥门径》设计思路及解析</title>
+      <link>https://mp.weixin.qq.com/s/0XCGfCJp20At4pqIngkMsw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0XCGfCJp20At4pqIngkMsw</guid>
+      <pubDate>Mon, 18 Aug 2025 18:15:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
