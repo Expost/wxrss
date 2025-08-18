@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 17 Aug 2025 14:25:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 15:41:58 +0000</lastBuildDate>
     <item>
       <title>SEAgent：开启从实战经验中自我进化的GUI智能体新纪元</title>
       <link>https://mp.weixin.qq.com/s/3eD-2Y6hzE3kdy_i-5WmeQ</link>
@@ -25,6 +25,48 @@
       <link>https://mp.weixin.qq.com/s/7q5LhAnsfA2ePpAC5yxV3w</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/7q5LhAnsfA2ePpAC5yxV3w</guid>
       <pubDate>Sun, 17 Aug 2025 12:26:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>一张图，开启四维时空：4DNeX让动态世界 「活」起来</title>
+      <link>https://mp.weixin.qq.com/s/_e4C5H6JzqlA1SHKip4USg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_e4C5H6JzqlA1SHKip4USg</guid>
+      <pubDate>Mon, 18 Aug 2025 11:22:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>开源扩散大模型首次跑赢自回归！上交大联手UCSD推出D2F，吞吐量达LLaMA3的2.5倍</title>
+      <link>https://mp.weixin.qq.com/s/zmZYKl0f9kdoYpO-99IQjg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/zmZYKl0f9kdoYpO-99IQjg</guid>
+      <pubDate>Mon, 18 Aug 2025 11:22:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>KDD 2025 | UoMo来了，首个无线网络流量预测模型，一个框架搞定三类任务</title>
+      <link>https://mp.weixin.qq.com/s/h0Vpc8b4PnUsJd8OXlCrmQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/h0Vpc8b4PnUsJd8OXlCrmQ</guid>
+      <pubDate>Mon, 18 Aug 2025 13:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>NextStep-1：一次在图像生成上自回归范式的探索</title>
+      <link>https://mp.weixin.qq.com/s/657IObYGa3PoM3ivpqLBHg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/657IObYGa3PoM3ivpqLBHg</guid>
+      <pubDate>Mon, 18 Aug 2025 13:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>从GPT-2到gpt-oss，深度详解OpenAI开放模型的进化之路</title>
+      <link>https://mp.weixin.qq.com/s/A0qFBiiohKxe2mT_hU46Ow</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/A0qFBiiohKxe2mT_hU46Ow</guid>
+      <pubDate>Mon, 18 Aug 2025 13:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>机器人也会「摸鱼」了？宇树G1赛后葛优瘫刷美女视频，网友：比人还懂享受生活</title>
+      <link>https://mp.weixin.qq.com/s/AGfOfVYKijQ4AyIq0YhWkA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AGfOfVYKijQ4AyIq0YhWkA</guid>
+      <pubDate>Mon, 18 Aug 2025 13:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Dario Amodei：账面亏损？大模型照样生钱！</title>
+      <link>https://mp.weixin.qq.com/s/AZ4602UMOnVZHTGJrIi4fA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AZ4602UMOnVZHTGJrIi4fA</guid>
+      <pubDate>Mon, 18 Aug 2025 17:21:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
