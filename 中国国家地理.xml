@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 17 Aug 2025 14:30:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 14:29:30 +0000</lastBuildDate>
     <item>
       <title>东极岛，碧海雕琢的浪漫之地</title>
       <link>https://mp.weixin.qq.com/s/sQFJ2MYxjqgUIIEmjYAveA</link>
@@ -25,6 +25,18 @@
       <link>https://mp.weixin.qq.com/s/8NRyxM7SZviyvREH1dkWpA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/8NRyxM7SZviyvREH1dkWpA</guid>
       <pubDate>Sun, 17 Aug 2025 22:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>去理塘，把心交给雪山与湖泊</title>
+      <link>https://mp.weixin.qq.com/s/8uFNATUH9eMauoG9nS40LQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8uFNATUH9eMauoG9nS40LQ</guid>
+      <pubDate>Mon, 18 Aug 2025 18:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>中国最好吃的夜市，在哪里？</title>
+      <link>https://mp.weixin.qq.com/s/HWeDsz33mlyPM-vB9hZ3Iw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HWeDsz33mlyPM-vB9hZ3Iw</guid>
+      <pubDate>Mon, 18 Aug 2025 18:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
