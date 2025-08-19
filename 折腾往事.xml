@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>折腾往事</title>
+    <link>https://mp.weixin.qq.com</link>
+    <description>折腾往事</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 19 Aug 2025 15:50:26 +0000</lastBuildDate>
+    <item>
+      <title>Obsidian笔记自动发布到Hugo博客</title>
+      <link>https://mp.weixin.qq.com/s/T4EPLpTHn3GFse_dF7ScEw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/T4EPLpTHn3GFse_dF7ScEw</guid>
+      <pubDate>Mon, 27 May 2024 00:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>配置acme自动更新群晖和服务器证书</title>
+      <link>https://mp.weixin.qq.com/s/V2b-Wru2dyCsRN6XqJQgkQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/V2b-Wru2dyCsRN6XqJQgkQ</guid>
+      <pubDate>Wed, 09 Oct 2024 00:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>解决IOS端少数派RSS图片加载失败问题</title>
+      <link>https://mp.weixin.qq.com/s/ix2Slqhb35lWSTZsqK-lRg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ix2Slqhb35lWSTZsqK-lRg</guid>
+      <pubDate>Sun, 13 Oct 2024 23:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>KPW3刷机安卓安装微信读书</title>
+      <link>https://mp.weixin.qq.com/s/o1TjXtmpb9xf47dpPGmTpw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/o1TjXtmpb9xf47dpPGmTpw</guid>
+      <pubDate>Wed, 05 Feb 2025 23:08:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>游戏外挂之连连看外挂实现</title>
+      <link>https://mp.weixin.qq.com/s/AX9Pz3RZBDZhDJQCzlHv5g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AX9Pz3RZBDZhDJQCzlHv5g</guid>
+      <pubDate>Mon, 02 Jun 2025 22:34:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>游戏外挂之ShooterGame外挂实现</title>
+      <link>https://mp.weixin.qq.com/s/Jtt4MhCBehWjk0oJGELu1Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Jtt4MhCBehWjk0oJGELu1Q</guid>
+      <pubDate>Tue, 03 Jun 2025 00:42:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>旧 Android 手机改电源直供电</title>
+      <link>https://mp.weixin.qq.com/s/HXHFy2W07usTRRaOEzyllg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HXHFy2W07usTRRaOEzyllg</guid>
+      <pubDate>Sun, 29 Jun 2025 17:56:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>借助 AI， 我用 3 晚实现了一个Hacker News 中文站</title>
+      <link>https://mp.weixin.qq.com/s/yRamFfmvePOvGEjNHq8EwA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/yRamFfmvePOvGEjNHq8EwA</guid>
+      <pubDate>Mon, 07 Jul 2025 23:43:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>我的家庭观影方案</title>
+      <link>https://mp.weixin.qq.com/s/Cmnv4TxBciqpsvwXwPIU5A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Cmnv4TxBciqpsvwXwPIU5A</guid>
+      <pubDate>Mon, 28 Jul 2025 23:43:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>车机流量过期导致的随身 WiFi 折腾记</title>
+      <link>https://mp.weixin.qq.com/s/2J0FxuLNyxPWMfy8WKATpw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2J0FxuLNyxPWMfy8WKATpw</guid>
+      <pubDate>Thu, 07 Aug 2025 00:06:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
