@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 19 Aug 2025 14:34:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 14:59:35 +0000</lastBuildDate>
     <item>
       <title>中国正在南海大规模“种田”，富了上百万人</title>
       <link>https://mp.weixin.qq.com/s/gm40INbnAAA_KSq5lvCV8A</link>
@@ -49,6 +49,12 @@
       <link>https://mp.weixin.qq.com/s/fll5WiofaGgxlxg8GYkS7Q</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/fll5WiofaGgxlxg8GYkS7Q</guid>
       <pubDate>Tue, 19 Aug 2025 20:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，中国和印度要恢复边境贸易了，这是一个重要表态！</title>
+      <link>https://mp.weixin.qq.com/s/oTiljGubM2cys6jPlfL7Cg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/oTiljGubM2cys6jPlfL7Cg</guid>
+      <pubDate>Wed, 20 Aug 2025 22:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
