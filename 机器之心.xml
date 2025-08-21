@@ -7,55 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 20 Aug 2025 15:02:57 +0000</lastBuildDate>
-    <item>
-      <title>从GPT-2到gpt-oss，深度详解OpenAI开放模型的进化之路</title>
-      <link>https://mp.weixin.qq.com/s/A0qFBiiohKxe2mT_hU46Ow</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/A0qFBiiohKxe2mT_hU46Ow</guid>
-      <pubDate>Mon, 18 Aug 2025 13:11:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>机器人也会「摸鱼」了？宇树G1赛后葛优瘫刷美女视频，网友：比人还懂享受生活</title>
-      <link>https://mp.weixin.qq.com/s/AGfOfVYKijQ4AyIq0YhWkA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AGfOfVYKijQ4AyIq0YhWkA</guid>
-      <pubDate>Mon, 18 Aug 2025 13:11:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Dario Amodei：账面亏损？大模型照样生钱！</title>
-      <link>https://mp.weixin.qq.com/s/AZ4602UMOnVZHTGJrIi4fA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AZ4602UMOnVZHTGJrIi4fA</guid>
-      <pubDate>Mon, 18 Aug 2025 17:21:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>清华叉院教授手把手教你用强化学习训练智能体</title>
-      <link>https://mp.weixin.qq.com/s/3N08my9XF4TVuzI10BLetg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/3N08my9XF4TVuzI10BLetg</guid>
-      <pubDate>Tue, 19 Aug 2025 10:40:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>妙笔生维：线稿驱动的三维场景视频自由编辑</title>
-      <link>https://mp.weixin.qq.com/s/F305ZntQv15yu6XAf0uiLQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/F305ZntQv15yu6XAf0uiLQ</guid>
-      <pubDate>Tue, 19 Aug 2025 10:40:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>图生视频新玩法刷爆外网：图上画两笔就能动起来，终于告别文本提示</title>
-      <link>https://mp.weixin.qq.com/s/Gu4x6sevYYFmwpvvUm3Y9g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Gu4x6sevYYFmwpvvUm3Y9g</guid>
-      <pubDate>Tue, 19 Aug 2025 10:40:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>开源版Genie 3世界模型来了：实时+长时间交互，单卡可跑，国内公司出品</title>
-      <link>https://mp.weixin.qq.com/s/Bgf7-1BUyIW0awIJOYHVsQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Bgf7-1BUyIW0awIJOYHVsQ</guid>
-      <pubDate>Tue, 19 Aug 2025 10:40:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>X-SAM：从「分割一切」到「任意分割」：统一图像分割多模态大模型，在20+个图像分割数据集上均达SoTA</title>
-      <link>https://mp.weixin.qq.com/s/gahBNBFO5Ej5SGX1abueOA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/gahBNBFO5Ej5SGX1abueOA</guid>
-      <pubDate>Tue, 19 Aug 2025 14:32:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Thu, 21 Aug 2025 14:27:36 +0000</lastBuildDate>
     <item>
       <title>7年了，OpenAI官方给出五代GPT对比，网友却怀念起「狂野」初代</title>
       <link>https://mp.weixin.qq.com/s/9T7HhwB4NE7-QXHS75HfSQ</link>
@@ -127,6 +79,54 @@
       <link>https://mp.weixin.qq.com/s/4TlSU8eOCSMbwiqExtIW3w</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/4TlSU8eOCSMbwiqExtIW3w</guid>
       <pubDate>Wed, 20 Aug 2025 17:12:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>上下文记忆力媲美Genie3，且问世更早：港大和可灵提出场景一致的交互式视频世界模型</title>
+      <link>https://mp.weixin.qq.com/s/VTMYfXDHUr6O36E82Cg-aw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/VTMYfXDHUr6O36E82Cg-aw</guid>
+      <pubDate>Thu, 21 Aug 2025 09:02:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，字节开源Seed-OSS-36B模型，512k上下文</title>
+      <link>https://mp.weixin.qq.com/s/R7fpT8tOj9GE89UVd2WeuQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/R7fpT8tOj9GE89UVd2WeuQ</guid>
+      <pubDate>Thu, 21 Aug 2025 09:02:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>击败Meta登榜首：推理增强的文档排序模型ReasonRank来了</title>
+      <link>https://mp.weixin.qq.com/s/sutRuHR3HQIY3uJkG_H70A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/sutRuHR3HQIY3uJkG_H70A</guid>
+      <pubDate>Thu, 21 Aug 2025 12:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>应届生看过来！上海AI Lab校招通道已开，100+岗位，700+offer，让科研理想照进现实！</title>
+      <link>https://mp.weixin.qq.com/s/yfzvT9F8HA6wuyCxypJc3Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/yfzvT9F8HA6wuyCxypJc3Q</guid>
+      <pubDate>Thu, 21 Aug 2025 12:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>ICCV 2025 | ECD：高质量合成图表数据集，提升开源MLLM图表理解能力</title>
+      <link>https://mp.weixin.qq.com/s/H78gDUOBWEqctw6IPlU3EQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/H78gDUOBWEqctw6IPlU3EQ</guid>
+      <pubDate>Thu, 21 Aug 2025 21:06:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>微软AI CEO警告：我们需要警惕「看似有意识的AI」</title>
+      <link>https://mp.weixin.qq.com/s/-lfFN7MmAtubfYKmeMz5kQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-lfFN7MmAtubfYKmeMz5kQ</guid>
+      <pubDate>Thu, 21 Aug 2025 21:06:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>摆脱遥控器，波士顿动力人形机器人，开始「长脑子」干活了</title>
+      <link>https://mp.weixin.qq.com/s/SLjeFG4ti2NiIufRANUCPA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/SLjeFG4ti2NiIufRANUCPA</guid>
+      <pubDate>Thu, 21 Aug 2025 21:06:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，好莱坞特效师展示AI生成的中文科幻大片，成本只有330元</title>
+      <link>https://mp.weixin.qq.com/s/xC7vjXpdtR5SI2UPATWEKw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/xC7vjXpdtR5SI2UPATWEKw</guid>
+      <pubDate>Thu, 21 Aug 2025 21:06:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
