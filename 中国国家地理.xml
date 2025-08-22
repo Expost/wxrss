@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 21 Aug 2025 14:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 14:33:01 +0000</lastBuildDate>
     <item>
       <title>东极岛，碧海雕琢的浪漫之地</title>
       <link>https://mp.weixin.qq.com/s/sQFJ2MYxjqgUIIEmjYAveA</link>
@@ -79,6 +79,18 @@
       <link>https://mp.weixin.qq.com/s/0Ttu0Xt5N8CrmfRJbLXdDg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/0Ttu0Xt5N8CrmfRJbLXdDg</guid>
       <pubDate>Thu, 21 Aug 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>当雷暴与流星雨罕见同框！</title>
+      <link>https://mp.weixin.qq.com/s/fdPiT3MINi0YJ-xAmBCe7g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/fdPiT3MINi0YJ-xAmBCe7g</guid>
+      <pubDate>Fri, 22 Aug 2025 17:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>中国最美环线高铁，处处是风景！</title>
+      <link>https://mp.weixin.qq.com/s/suyrbaM9Js7s2snwCLzatA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/suyrbaM9Js7s2snwCLzatA</guid>
+      <pubDate>Fri, 22 Aug 2025 17:33:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
