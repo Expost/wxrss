@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 20 Aug 2025 14:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 14:22:02 +0000</lastBuildDate>
     <item>
       <title>不爽，老板要砍薪水</title>
       <link>https://mp.weixin.qq.com/s/K1gjnh-FTv2fEg-BQL6fNQ</link>
@@ -43,6 +43,12 @@
       <link>https://mp.weixin.qq.com/s/fUnpZVOtebZz4uXenV-QJQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/fUnpZVOtebZz4uXenV-QJQ</guid>
       <pubDate>Wed, 20 Aug 2025 21:34:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>拜托，让我爸先死</title>
+      <link>https://mp.weixin.qq.com/s/eBm5NUZh7Eu1rj8ycbo_1Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/eBm5NUZh7Eu1rj8ycbo_1Q</guid>
+      <pubDate>Thu, 21 Aug 2025 23:50:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
