@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 21 Aug 2025 14:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 14:29:34 +0000</lastBuildDate>
     <item>
       <title>Gepys木马分析与还原C代码</title>
       <link>https://mp.weixin.qq.com/s/KCIIHHMG6NnhjXZhR98bKQ</link>
@@ -103,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/bFFAuDGza-6CS9RQlPGPAQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/bFFAuDGza-6CS9RQlPGPAQ</guid>
       <pubDate>Thu, 21 Aug 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>别再被 MISC 题目劝退！20小时吃透加密/隐写/取证，竞赛拿分稳了</title>
+      <link>https://mp.weixin.qq.com/s/8fJN6Ce4GA2vYbnMXCIF8g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8fJN6Ce4GA2vYbnMXCIF8g</guid>
+      <pubDate>Fri, 22 Aug 2025 18:08:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>拿offer、涨薪资的关键！2025名企技术高薪岗全梳理，应届生&amp;职场人速存</title>
+      <link>https://mp.weixin.qq.com/s/JcCn9-NcfGL3x5-0OqzTuQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/JcCn9-NcfGL3x5-0OqzTuQ</guid>
+      <pubDate>Fri, 22 Aug 2025 18:08:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI 浏览器或成诈骗新目标：PromptFix 攻击让智能助手误入钓鱼网站并自动付款</title>
+      <link>https://mp.weixin.qq.com/s/goZ5Da3lpc_cG1hONdon_Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/goZ5Da3lpc_cG1hONdon_Q</guid>
+      <pubDate>Fri, 22 Aug 2025 18:08:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025 KCTF | 第四题《血色试炼》设计思路及解析</title>
+      <link>https://mp.weixin.qq.com/s/8yktg5b9t94H2t4nwoLfdw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8yktg5b9t94H2t4nwoLfdw</guid>
+      <pubDate>Fri, 22 Aug 2025 18:08:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
