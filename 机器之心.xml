@@ -7,55 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 21 Aug 2025 14:27:36 +0000</lastBuildDate>
-    <item>
-      <title>7年了，OpenAI官方给出五代GPT对比，网友却怀念起「狂野」初代</title>
-      <link>https://mp.weixin.qq.com/s/9T7HhwB4NE7-QXHS75HfSQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9T7HhwB4NE7-QXHS75HfSQ</guid>
-      <pubDate>Tue, 19 Aug 2025 14:32:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>ICCV 2025 | RobustSplat: 解耦致密化与动态的抗瞬态3DGS三维重建</title>
-      <link>https://mp.weixin.qq.com/s/2bRbl67WNPwUUN9KWXt6cA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2bRbl67WNPwUUN9KWXt6cA</guid>
-      <pubDate>Tue, 19 Aug 2025 17:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>强化学习之父Richard Sutton最新演讲揭示OaK架构：通向超级智能的八步愿景</title>
-      <link>https://mp.weixin.qq.com/s/PVOaXQLr2rE5icesKV1Qog</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/PVOaXQLr2rE5icesKV1Qog</guid>
-      <pubDate>Tue, 19 Aug 2025 17:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，阿里图像编辑大杀器Qwen-Image-Edit上线，横扫像素与语义编辑，网友：再见PS</title>
-      <link>https://mp.weixin.qq.com/s/8Brdhnu68EPC8jElJwRleg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8Brdhnu68EPC8jElJwRleg</guid>
-      <pubDate>Tue, 19 Aug 2025 22:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>ICCV 2025 | 跨越视觉与语言边界，打开人机交互感知的新篇章：北大团队提出INP-CC模型重塑开放词汇HOI检测</title>
-      <link>https://mp.weixin.qq.com/s/HUiNlSB9yLhXQM8H-uNauQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HUiNlSB9yLhXQM8H-uNauQ</guid>
-      <pubDate>Wed, 20 Aug 2025 08:14:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Meta超级智能实验室重组为四个部门，某些高管将离开</title>
-      <link>https://mp.weixin.qq.com/s/5v8gS52SGzMl8odpK4CjAg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5v8gS52SGzMl8odpK4CjAg</guid>
-      <pubDate>Wed, 20 Aug 2025 08:14:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek开源新基础模型，但不是V4，而是V3.1-Base</title>
-      <link>https://mp.weixin.qq.com/s/awAFaZj-bhxSmn_5dMAF1Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/awAFaZj-bhxSmn_5dMAF1Q</guid>
-      <pubDate>Wed, 20 Aug 2025 08:14:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>dLLM的「Free Lunch」！浙大&amp;蚂蚁利用中间结果显著提升扩散语言模型</title>
-      <link>https://mp.weixin.qq.com/s/cfoKYlPNLZa_uS74e1B0QQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cfoKYlPNLZa_uS74e1B0QQ</guid>
-      <pubDate>Wed, 20 Aug 2025 12:23:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 Aug 2025 14:28:30 +0000</lastBuildDate>
     <item>
       <title>DiT在数学和形式上是错的？谢赛宁回应：不要在脑子里做科学</title>
       <link>https://mp.weixin.qq.com/s/wCqh9BIPoXjiK5yTGOPrqA</link>
@@ -127,6 +79,54 @@
       <link>https://mp.weixin.qq.com/s/xC7vjXpdtR5SI2UPATWEKw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/xC7vjXpdtR5SI2UPATWEKw</guid>
       <pubDate>Thu, 21 Aug 2025 21:06:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>ICCV 2025 | 打造通用工具智能体的基石：北大提出ToolVQA数据集，引领多模态多步推理VQA新范式</title>
+      <link>https://mp.weixin.qq.com/s/VeX1Ss3TixJ1X7UnDPszgQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/VeX1Ss3TixJ1X7UnDPszgQ</guid>
+      <pubDate>Fri, 22 Aug 2025 12:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>究竟会花落谁家？DeepSeek最新大模型瞄准了下一代国产AI芯片</title>
+      <link>https://mp.weixin.qq.com/s/rDMSlUAbxYCSX0e-i0uxeA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/rDMSlUAbxYCSX0e-i0uxeA</guid>
+      <pubDate>Fri, 22 Aug 2025 12:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>从繁杂技巧到极简方案：ROLL团队带来RL4LLM新实践</title>
+      <link>https://mp.weixin.qq.com/s/cl9tZrVsEV4eLUjkgPbCrg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cl9tZrVsEV4eLUjkgPbCrg</guid>
+      <pubDate>Fri, 22 Aug 2025 12:56:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>谷歌Gemini一次提示能耗≈看9秒电视，专家：别太信，有误导性</title>
+      <link>https://mp.weixin.qq.com/s/BVllT7VJ6vAYQNKOuB6VNA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/BVllT7VJ6vAYQNKOuB6VNA</guid>
+      <pubDate>Fri, 22 Aug 2025 12:56:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Cursor为Blackwell从零构建MXFP8内核，MoE层提速3.5倍，端到端训练提速1.5倍</title>
+      <link>https://mp.weixin.qq.com/s/MQjYqz6BFGWR8X9FSiOvVA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/MQjYqz6BFGWR8X9FSiOvVA</guid>
+      <pubDate>Fri, 22 Aug 2025 12:56:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>那些让你「活人微死」的工作日，终于有救了</title>
+      <link>https://mp.weixin.qq.com/s/l8HiAoU8Lrtjep6Hw3Lpqg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/l8HiAoU8Lrtjep6Hw3Lpqg</guid>
+      <pubDate>Fri, 22 Aug 2025 12:56:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>KDD 2025 Best Paper Runner-Up | EI-BERT：超紧凑语言模型压缩框架</title>
+      <link>https://mp.weixin.qq.com/s/wK8rjcIkSyQPgrozqZiuQg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/wK8rjcIkSyQPgrozqZiuQg</guid>
+      <pubDate>Fri, 22 Aug 2025 15:54:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球首款AI原生游戏引擎再进化：GTA6再不来，我们就AI一个</title>
+      <link>https://mp.weixin.qq.com/s/f4hxFkE5HoTL7Eel8pslmQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/f4hxFkE5HoTL7Eel8pslmQ</guid>
+      <pubDate>Fri, 22 Aug 2025 15:54:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
