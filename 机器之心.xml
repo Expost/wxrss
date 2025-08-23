@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 22 Aug 2025 14:28:30 +0000</lastBuildDate>
-    <item>
-      <title>DiT在数学和形式上是错的？谢赛宁回应：不要在脑子里做科学</title>
-      <link>https://mp.weixin.qq.com/s/wCqh9BIPoXjiK5yTGOPrqA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/wCqh9BIPoXjiK5yTGOPrqA</guid>
-      <pubDate>Wed, 20 Aug 2025 12:23:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>论坛报名已启动，速来锁定席位！解码具身智能的落地挑战与产业爆点</title>
-      <link>https://mp.weixin.qq.com/s/KyYwG51xNEzoYnZfX3O7Mw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/KyYwG51xNEzoYnZfX3O7Mw</guid>
-      <pubDate>Wed, 20 Aug 2025 12:23:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Sora没做到的，LongVie框架给解决了，超长视频生成SOTA</title>
-      <link>https://mp.weixin.qq.com/s/t1pJ3xSP3h3Z8jMm1RZULA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/t1pJ3xSP3h3Z8jMm1RZULA</guid>
-      <pubDate>Wed, 20 Aug 2025 17:12:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>报名开启｜中关村国际青年论坛：诚邀全球青年学者共探AI前沿</title>
-      <link>https://mp.weixin.qq.com/s/4TlSU8eOCSMbwiqExtIW3w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/4TlSU8eOCSMbwiqExtIW3w</guid>
-      <pubDate>Wed, 20 Aug 2025 17:12:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>上下文记忆力媲美Genie3，且问世更早：港大和可灵提出场景一致的交互式视频世界模型</title>
-      <link>https://mp.weixin.qq.com/s/VTMYfXDHUr6O36E82Cg-aw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/VTMYfXDHUr6O36E82Cg-aw</guid>
-      <pubDate>Thu, 21 Aug 2025 09:02:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，字节开源Seed-OSS-36B模型，512k上下文</title>
-      <link>https://mp.weixin.qq.com/s/R7fpT8tOj9GE89UVd2WeuQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/R7fpT8tOj9GE89UVd2WeuQ</guid>
-      <pubDate>Thu, 21 Aug 2025 09:02:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sat, 23 Aug 2025 14:26:39 +0000</lastBuildDate>
     <item>
       <title>击败Meta登榜首：推理增强的文档排序模型ReasonRank来了</title>
       <link>https://mp.weixin.qq.com/s/sutRuHR3HQIY3uJkG_H70A</link>
@@ -127,6 +91,42 @@
       <link>https://mp.weixin.qq.com/s/f4hxFkE5HoTL7Eel8pslmQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/f4hxFkE5HoTL7Eel8pslmQ</guid>
       <pubDate>Fri, 22 Aug 2025 15:54:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>抢天才还是拼算力？前 Llama 推理负责人详解 AI 的真实天花板</title>
+      <link>https://mp.weixin.qq.com/s/zNHJCY3_TKau2mnDaptTZg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/zNHJCY3_TKau2mnDaptTZg</guid>
+      <pubDate>Sat, 23 Aug 2025 09:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Chain-of-Agents: OPPO推出通用智能体模型新范式，多榜单SOTA，模型代码数据全开源</title>
+      <link>https://mp.weixin.qq.com/s/G3IhYP8M9vyihExVoKlh2A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/G3IhYP8M9vyihExVoKlh2A</guid>
+      <pubDate>Sat, 23 Aug 2025 12:42:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Coinbase强制全员上手AI工具，拒绝者直接开除</title>
+      <link>https://mp.weixin.qq.com/s/6bHmA8qHaqrNQcikQHnP8A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/6bHmA8qHaqrNQcikQHnP8A</guid>
+      <pubDate>Sat, 23 Aug 2025 12:42:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>第一名方案公开，代码智能体安全竞赛，普渡大学拿下90%攻击成功率</title>
+      <link>https://mp.weixin.qq.com/s/Hvu-bLwGavmzH_wSiJJ6AA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Hvu-bLwGavmzH_wSiJJ6AA</guid>
+      <pubDate>Sat, 23 Aug 2025 18:49:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI重大发现：GPT-4b micro改造诺奖研究，山中因子重编程效率提高50倍</title>
+      <link>https://mp.weixin.qq.com/s/8aQuwlsps6jsSKgWPgVqDA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8aQuwlsps6jsSKgWPgVqDA</guid>
+      <pubDate>Sat, 23 Aug 2025 18:49:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「只参与，不参赛」奖牌数却仅次于宇树，这个幕后玩家如何做到的？</title>
+      <link>https://mp.weixin.qq.com/s/T6X9nfrG9AB8B-fnNZnmWw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/T6X9nfrG9AB8B-fnNZnmWw</guid>
+      <pubDate>Sat, 23 Aug 2025 18:49:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
