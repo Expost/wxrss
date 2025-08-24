@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 22 Aug 2025 14:22:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 15:58:42 +0000</lastBuildDate>
     <item>
       <title>不爽，老板要砍薪水</title>
       <link>https://mp.weixin.qq.com/s/K1gjnh-FTv2fEg-BQL6fNQ</link>
@@ -49,6 +49,12 @@
       <link>https://mp.weixin.qq.com/s/eBm5NUZh7Eu1rj8ycbo_1Q</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/eBm5NUZh7Eu1rj8ycbo_1Q</guid>
       <pubDate>Thu, 21 Aug 2025 23:50:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>想拆迁，想疯了</title>
+      <link>https://mp.weixin.qq.com/s/DyLC3z376eqRDjvqnifuPQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/DyLC3z376eqRDjvqnifuPQ</guid>
+      <pubDate>Sun, 24 Aug 2025 21:40:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
