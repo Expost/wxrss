@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 23 Aug 2025 14:26:39 +0000</lastBuildDate>
-    <item>
-      <title>击败Meta登榜首：推理增强的文档排序模型ReasonRank来了</title>
-      <link>https://mp.weixin.qq.com/s/sutRuHR3HQIY3uJkG_H70A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/sutRuHR3HQIY3uJkG_H70A</guid>
-      <pubDate>Thu, 21 Aug 2025 12:11:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>应届生看过来！上海AI Lab校招通道已开，100+岗位，700+offer，让科研理想照进现实！</title>
-      <link>https://mp.weixin.qq.com/s/yfzvT9F8HA6wuyCxypJc3Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/yfzvT9F8HA6wuyCxypJc3Q</guid>
-      <pubDate>Thu, 21 Aug 2025 12:11:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>ICCV 2025 | ECD：高质量合成图表数据集，提升开源MLLM图表理解能力</title>
-      <link>https://mp.weixin.qq.com/s/H78gDUOBWEqctw6IPlU3EQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/H78gDUOBWEqctw6IPlU3EQ</guid>
-      <pubDate>Thu, 21 Aug 2025 21:06:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>微软AI CEO警告：我们需要警惕「看似有意识的AI」</title>
-      <link>https://mp.weixin.qq.com/s/-lfFN7MmAtubfYKmeMz5kQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-lfFN7MmAtubfYKmeMz5kQ</guid>
-      <pubDate>Thu, 21 Aug 2025 21:06:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 24 Aug 2025 16:04:30 +0000</lastBuildDate>
     <item>
       <title>摆脱遥控器，波士顿动力人形机器人，开始「长脑子」干活了</title>
       <link>https://mp.weixin.qq.com/s/SLjeFG4ti2NiIufRANUCPA</link>
@@ -127,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/T6X9nfrG9AB8B-fnNZnmWw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/T6X9nfrG9AB8B-fnNZnmWw</guid>
       <pubDate>Sat, 23 Aug 2025 18:49:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>仅靠5000+样本，全新强化学习范式让30B轻松击败671B的DeepSeek V3</title>
+      <link>https://mp.weixin.qq.com/s/4yUiR6Z6rNQqdA2rCUQ0aA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/4yUiR6Z6rNQqdA2rCUQ0aA</guid>
+      <pubDate>Sun, 24 Aug 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>超越宇宙极限：第六位海狸数再次突破，无法用常规数学符号表达</title>
+      <link>https://mp.weixin.qq.com/s/H2Tv6EoVPj0ISH2fS8clUw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/H2Tv6EoVPj0ISH2fS8clUw</guid>
+      <pubDate>Sun, 24 Aug 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>三个月、零基础手搓一块TPU，能推理能训练，还是开源的</title>
+      <link>https://mp.weixin.qq.com/s/rKlDxXGwBvJT7SIY3EiqZQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/rKlDxXGwBvJT7SIY3EiqZQ</guid>
+      <pubDate>Sun, 24 Aug 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，马斯克开源Grok-2，总大小达500 GB，严苛开源协议却遭质疑</title>
+      <link>https://mp.weixin.qq.com/s/pcNP5VRLXK1PofbcwabxYQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/pcNP5VRLXK1PofbcwabxYQ</guid>
+      <pubDate>Mon, 25 Aug 2025 00:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
