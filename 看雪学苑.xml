@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 23 Aug 2025 14:27:10 +0000</lastBuildDate>
-    <item>
-      <title>实现简易ARK工具：遍历进程和内核模块</title>
-      <link>https://mp.weixin.qq.com/s/ws5wzxLwDkcUua0Zq3okZw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ws5wzxLwDkcUua0Zq3okZw</guid>
-      <pubDate>Sat, 16 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>精密仪器固件分析及维修——专业守护您的仪器稳定运行</title>
-      <link>https://mp.weixin.qq.com/s/JMWMADD8bAPYkMy4ca6fXw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/JMWMADD8bAPYkMy4ca6fXw</guid>
-      <pubDate>Sat, 16 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>最强代码审计课程！掌握高危漏洞挖掘技巧，达到企业中级用人水平</title>
-      <link>https://mp.weixin.qq.com/s/mCutqT5aFAQSOywjGP-E0g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/mCutqT5aFAQSOywjGP-E0g</guid>
-      <pubDate>Mon, 18 Aug 2025 18:15:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Aug 2025 14:31:32 +0000</lastBuildDate>
     <item>
       <title>实时定位+驾驶习惯全暴露！特斯拉车主数据大规模泄漏</title>
       <link>https://mp.weixin.qq.com/s/cGJYZaZ07v5-KddauCsXtg</link>
@@ -127,6 +109,24 @@
       <link>https://mp.weixin.qq.com/s/peAXtKFTyw1HS9QWEdTYtQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/peAXtKFTyw1HS9QWEdTYtQ</guid>
       <pubDate>Sat, 23 Aug 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>点开图片就中招？苹果曝高危漏洞，推送紧急更新</title>
+      <link>https://mp.weixin.qq.com/s/2wG96n6xEZ6Hv18F7gTHnA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2wG96n6xEZ6Hv18F7gTHnA</guid>
+      <pubDate>Mon, 25 Aug 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>售票开启｜GEEKCON 2025 上海站早鸟票限时抢购中（含GEEKCON+看雪通票）</title>
+      <link>https://mp.weixin.qq.com/s/4OF2ouvzmJEP4KSpbe5Cdw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/4OF2ouvzmJEP4KSpbe5Cdw</guid>
+      <pubDate>Mon, 25 Aug 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025 KCTF | 第五题《智破幻阵》设计思路及解析</title>
+      <link>https://mp.weixin.qq.com/s/5klhFrWweNLLQQCKjNaizw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5klhFrWweNLLQQCKjNaizw</guid>
+      <pubDate>Mon, 25 Aug 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
