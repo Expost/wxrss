@@ -7,73 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 25 Aug 2025 14:30:36 +0000</lastBuildDate>
-    <item>
-      <title>全球首款AI原生游戏引擎再进化：GTA6再不来，我们就AI一个</title>
-      <link>https://mp.weixin.qq.com/s/f4hxFkE5HoTL7Eel8pslmQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/f4hxFkE5HoTL7Eel8pslmQ</guid>
-      <pubDate>Fri, 22 Aug 2025 15:54:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>抢天才还是拼算力？前 Llama 推理负责人详解 AI 的真实天花板</title>
-      <link>https://mp.weixin.qq.com/s/zNHJCY3_TKau2mnDaptTZg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/zNHJCY3_TKau2mnDaptTZg</guid>
-      <pubDate>Sat, 23 Aug 2025 09:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Chain-of-Agents: OPPO推出通用智能体模型新范式，多榜单SOTA，模型代码数据全开源</title>
-      <link>https://mp.weixin.qq.com/s/G3IhYP8M9vyihExVoKlh2A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/G3IhYP8M9vyihExVoKlh2A</guid>
-      <pubDate>Sat, 23 Aug 2025 12:42:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Coinbase强制全员上手AI工具，拒绝者直接开除</title>
-      <link>https://mp.weixin.qq.com/s/6bHmA8qHaqrNQcikQHnP8A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/6bHmA8qHaqrNQcikQHnP8A</guid>
-      <pubDate>Sat, 23 Aug 2025 12:42:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>第一名方案公开，代码智能体安全竞赛，普渡大学拿下90%攻击成功率</title>
-      <link>https://mp.weixin.qq.com/s/Hvu-bLwGavmzH_wSiJJ6AA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Hvu-bLwGavmzH_wSiJJ6AA</guid>
-      <pubDate>Sat, 23 Aug 2025 18:49:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>OpenAI重大发现：GPT-4b micro改造诺奖研究，山中因子重编程效率提高50倍</title>
-      <link>https://mp.weixin.qq.com/s/8aQuwlsps6jsSKgWPgVqDA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8aQuwlsps6jsSKgWPgVqDA</guid>
-      <pubDate>Sat, 23 Aug 2025 18:49:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>「只参与，不参赛」奖牌数却仅次于宇树，这个幕后玩家如何做到的？</title>
-      <link>https://mp.weixin.qq.com/s/T6X9nfrG9AB8B-fnNZnmWw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/T6X9nfrG9AB8B-fnNZnmWw</guid>
-      <pubDate>Sat, 23 Aug 2025 18:49:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>仅靠5000+样本，全新强化学习范式让30B轻松击败671B的DeepSeek V3</title>
-      <link>https://mp.weixin.qq.com/s/4yUiR6Z6rNQqdA2rCUQ0aA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/4yUiR6Z6rNQqdA2rCUQ0aA</guid>
-      <pubDate>Sun, 24 Aug 2025 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>超越宇宙极限：第六位海狸数再次突破，无法用常规数学符号表达</title>
-      <link>https://mp.weixin.qq.com/s/H2Tv6EoVPj0ISH2fS8clUw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/H2Tv6EoVPj0ISH2fS8clUw</guid>
-      <pubDate>Sun, 24 Aug 2025 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>三个月、零基础手搓一块TPU，能推理能训练，还是开源的</title>
-      <link>https://mp.weixin.qq.com/s/rKlDxXGwBvJT7SIY3EiqZQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/rKlDxXGwBvJT7SIY3EiqZQ</guid>
-      <pubDate>Sun, 24 Aug 2025 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，马斯克开源Grok-2，总大小达500 GB，严苛开源协议却遭质疑</title>
-      <link>https://mp.weixin.qq.com/s/pcNP5VRLXK1PofbcwabxYQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/pcNP5VRLXK1PofbcwabxYQ</guid>
-      <pubDate>Mon, 25 Aug 2025 00:04:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 14:33:48 +0000</lastBuildDate>
     <item>
       <title>大模型能否为不同硬件平台生成高性能内核？南大、浙大提出跨平台内核生成评测框架MultiKernelBench</title>
       <link>https://mp.weixin.qq.com/s/ZGMaRu4S69_GKWMVL9PL5A</link>
@@ -127,6 +61,72 @@
       <link>https://mp.weixin.qq.com/s/MPO4_fWs3Dr953WttcfPlA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/MPO4_fWs3Dr953WttcfPlA</guid>
       <pubDate>Mon, 25 Aug 2025 17:09:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT到底学了多少「污言秽语」？清华团队首提大语言模型中文语料污染治理技术</title>
+      <link>https://mp.weixin.qq.com/s/_8xVPYyzZhvPPTSiwLmQeg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_8xVPYyzZhvPPTSiwLmQeg</guid>
+      <pubDate>Tue, 26 Aug 2025 07:38:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，马斯克将OpenAI和苹果告上法庭：指控ChatGPT垄断iPhone，自家Grok被打压</title>
+      <link>https://mp.weixin.qq.com/s/6kJYFv8zAnriX4dwnIWV2A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/6kJYFv8zAnriX4dwnIWV2A</guid>
+      <pubDate>Tue, 26 Aug 2025 07:38:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>视频「缺陷」变安全优势：蚂蚁数科新突破，主动式视频验证系统RollingEvidence</title>
+      <link>https://mp.weixin.qq.com/s/sBmV6u2o0MVGyqV2Vegksw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/sBmV6u2o0MVGyqV2Vegksw</guid>
+      <pubDate>Tue, 26 Aug 2025 12:09:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>英伟达通用机器人芯片来了：AI算力提升7.5倍，宇树、银河通用已搭载</title>
+      <link>https://mp.weixin.qq.com/s/WjouTIuSQ4leefCDbqD58Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/WjouTIuSQ4leefCDbqD58Q</guid>
+      <pubDate>Tue, 26 Aug 2025 12:09:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>清华辍学、斯坦福睡地板，华人小哥用AI社交挑战Meta，融资数千万美元</title>
+      <link>https://mp.weixin.qq.com/s/cTQCSVBwApn-qr3s9gOdtA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cTQCSVBwApn-qr3s9gOdtA</guid>
+      <pubDate>Tue, 26 Aug 2025 12:09:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>热议！DeepSeek V3.1惊现神秘「极」字Bug，模型故障了？</title>
+      <link>https://mp.weixin.qq.com/s/5ueJw61sc-enncvl-fTrzA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5ueJw61sc-enncvl-fTrzA</guid>
+      <pubDate>Tue, 26 Aug 2025 12:09:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>谷歌偷偷搞了个神秘模型Nano-Banana？实测：强到离谱，但有3大硬伤</title>
+      <link>https://mp.weixin.qq.com/s/ClnR2h_YGXtWNrpJ3TOilA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ClnR2h_YGXtWNrpJ3TOilA</guid>
+      <pubDate>Tue, 26 Aug 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>一天之内，Meta痛失两员大将，小扎钞能力失效？</title>
+      <link>https://mp.weixin.qq.com/s/Lpjzw1XRyZA1H68oSzrkzQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Lpjzw1XRyZA1H68oSzrkzQ</guid>
+      <pubDate>Tue, 26 Aug 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>将数据优势发挥到极致：「杭州六小龙」开源搭建空间智能的第一步</title>
+      <link>https://mp.weixin.qq.com/s/o-28ivXYVfPJVa9fUv41gQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/o-28ivXYVfPJVa9fUv41gQ</guid>
+      <pubDate>Tue, 26 Aug 2025 17:38:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>英伟达再出手！新型混合架构模型问世，两大创新实现53.6倍吞吐提速</title>
+      <link>https://mp.weixin.qq.com/s/UD6GxqPHmkItRlvrgJyAqQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/UD6GxqPHmkItRlvrgJyAqQ</guid>
+      <pubDate>Tue, 26 Aug 2025 17:38:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>FlashAttention-4震撼来袭，原生支持Blackwell GPU，英伟达的护城河更深了？</title>
+      <link>https://mp.weixin.qq.com/s/1PaAaz8Fbt6sFKmD1hRQ7w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/1PaAaz8Fbt6sFKmD1hRQ7w</guid>
+      <pubDate>Tue, 26 Aug 2025 17:38:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
