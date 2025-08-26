@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 25 Aug 2025 14:31:32 +0000</lastBuildDate>
-    <item>
-      <title>实时定位+驾驶习惯全暴露！特斯拉车主数据大规模泄漏</title>
-      <link>https://mp.weixin.qq.com/s/cGJYZaZ07v5-KddauCsXtg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cGJYZaZ07v5-KddauCsXtg</guid>
-      <pubDate>Mon, 18 Aug 2025 18:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025 KCTF | 第二题《初窥门径》设计思路及解析</title>
-      <link>https://mp.weixin.qq.com/s/0XCGfCJp20At4pqIngkMsw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0XCGfCJp20At4pqIngkMsw</guid>
-      <pubDate>Mon, 18 Aug 2025 18:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>想赢CTF竞赛？30小时教你玩转CTF</title>
-      <link>https://mp.weixin.qq.com/s/YKOfIwES6BwenlejM7pHyg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/YKOfIwES6BwenlejM7pHyg</guid>
-      <pubDate>Tue, 19 Aug 2025 18:05:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025 KCTF 第三题战况 | 『hzqmwne』拿下“一血”，目前仅6支战队成功提交flag</title>
-      <link>https://mp.weixin.qq.com/s/GtcmdsBGuB7r5Nu276mS2g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/GtcmdsBGuB7r5Nu276mS2g</guid>
-      <pubDate>Tue, 19 Aug 2025 18:05:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 Aug 2025 14:34:57 +0000</lastBuildDate>
     <item>
       <title>美国司法部扣押与“Zeppelin”勒索软件相关的豪车、现金及加密货币</title>
       <link>https://mp.weixin.qq.com/s/7mvNcgyvVf_27iFGkmBImg</link>
@@ -127,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/5klhFrWweNLLQQCKjNaizw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/5klhFrWweNLLQQCKjNaizw</guid>
       <pubDate>Mon, 25 Aug 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025 KCTF 第六题战况 | 本赛季黑马？【1k0ct】拿下本题“一血”</title>
+      <link>https://mp.weixin.qq.com/s/-bAFH5RIsUrAeUNx-1ikqg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-bAFH5RIsUrAeUNx-1ikqg</guid>
+      <pubDate>Tue, 26 Aug 2025 18:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Docker 修复 9.3 分高危漏洞，Win/mac 用户速升级</title>
+      <link>https://mp.weixin.qq.com/s/tNwznbbOL-Bf0gqQf7rhpw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/tNwznbbOL-Bf0gqQf7rhpw</guid>
+      <pubDate>Tue, 26 Aug 2025 18:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>XCon2025完美落幕|在AI革命的浪潮中，筑牢安全堤坝！</title>
+      <link>https://mp.weixin.qq.com/s/NxLGDY-9dj1diBOgidRIGg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NxLGDY-9dj1diBOgidRIGg</guid>
+      <pubDate>Tue, 26 Aug 2025 18:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>安卓逆向之 Autojs 加密 JS 文件提取和解密</title>
+      <link>https://mp.weixin.qq.com/s/W5nnFt98mU80HhsyzxJ3LQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/W5nnFt98mU80HhsyzxJ3LQ</guid>
+      <pubDate>Tue, 26 Aug 2025 18:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
