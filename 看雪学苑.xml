@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 26 Aug 2025 14:34:57 +0000</lastBuildDate>
-    <item>
-      <title>美国司法部扣押与“Zeppelin”勒索软件相关的豪车、现金及加密货币</title>
-      <link>https://mp.weixin.qq.com/s/7mvNcgyvVf_27iFGkmBImg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/7mvNcgyvVf_27iFGkmBImg</guid>
-      <pubDate>Tue, 19 Aug 2025 18:05:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Win10/11 下的系统调用过程的研究</title>
-      <link>https://mp.weixin.qq.com/s/9SZjH7wnA2xHL8QCVQeY1g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9SZjH7wnA2xHL8QCVQeY1g</guid>
-      <pubDate>Tue, 19 Aug 2025 18:05:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>更新：第11章 codeql代码审计 | 系统0day安全-二进制漏洞攻防（第4期）</title>
-      <link>https://mp.weixin.qq.com/s/gWzIBb2wxj9g3uTY6so77g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/gWzIBb2wxj9g3uTY6so77g</guid>
-      <pubDate>Wed, 20 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Aug 2025 14:37:43 +0000</lastBuildDate>
     <item>
       <title>10w+用户受害：FreeVPN.One扩展暗中捕获用户截图并上传</title>
       <link>https://mp.weixin.qq.com/s/S2_Dl6G_8DOYAD1laRCooQ</link>
@@ -127,6 +109,24 @@
       <link>https://mp.weixin.qq.com/s/W5nnFt98mU80HhsyzxJ3LQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/W5nnFt98mU80HhsyzxJ3LQ</guid>
       <pubDate>Tue, 26 Aug 2025 18:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧</title>
+      <link>https://mp.weixin.qq.com/s/0jEEMffTMarGBXQiNHxtTA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0jEEMffTMarGBXQiNHxtTA</guid>
+      <pubDate>Wed, 27 Aug 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Nissan 旗下设计工作室服务器遭入侵，4TB 数据被窃</title>
+      <link>https://mp.weixin.qq.com/s/QiMd6Q_OZNXvJ0dDCiIVOQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/QiMd6Q_OZNXvJ0dDCiIVOQ</guid>
+      <pubDate>Wed, 27 Aug 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025 KCTF | 第六题《秘辛揭露》设计思路及解析</title>
+      <link>https://mp.weixin.qq.com/s/ZKIYzVAM9rIF8pL1OoZ1Xg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ZKIYzVAM9rIF8pL1OoZ1Xg</guid>
+      <pubDate>Wed, 27 Aug 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
