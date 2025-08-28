@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 27 Aug 2025 14:43:16 +0000</lastBuildDate>
-    <item>
-      <title>中国最好吃的夜市，在哪里？</title>
-      <link>https://mp.weixin.qq.com/s/HWeDsz33mlyPM-vB9hZ3Iw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HWeDsz33mlyPM-vB9hZ3Iw</guid>
-      <pubDate>Mon, 18 Aug 2025 18:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>我的天！这里美上了天</title>
-      <link>https://mp.weixin.qq.com/s/8bZ8rqYDlesS61rDOUdBDQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8bZ8rqYDlesS61rDOUdBDQ</guid>
-      <pubDate>Tue, 19 Aug 2025 17:40:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 14:42:19 +0000</lastBuildDate>
     <item>
       <title>走，去我国初秋最美的自驾线！</title>
       <link>https://mp.weixin.qq.com/s/8CJl1CtFaSo54Hpcx2KioQ</link>
@@ -127,6 +115,18 @@
       <link>https://mp.weixin.qq.com/s/YXgxKx127j-0cHjrshnWUg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/YXgxKx127j-0cHjrshnWUg</guid>
       <pubDate>Wed, 27 Aug 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>“诺亚方舟”真的存在！</title>
+      <link>https://mp.weixin.qq.com/s/67QJLl4FclPIZsiXWlnpVQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/67QJLl4FclPIZsiXWlnpVQ</guid>
+      <pubDate>Thu, 28 Aug 2025 17:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>雅安，必经之地</title>
+      <link>https://mp.weixin.qq.com/s/-isxntrfGFIXSCASXftD0Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-isxntrfGFIXSCASXftD0Q</guid>
+      <pubDate>Thu, 28 Aug 2025 17:01:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
