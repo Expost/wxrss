@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 27 Aug 2025 14:37:43 +0000</lastBuildDate>
-    <item>
-      <title>10w+用户受害：FreeVPN.One扩展暗中捕获用户截图并上传</title>
-      <link>https://mp.weixin.qq.com/s/S2_Dl6G_8DOYAD1laRCooQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/S2_Dl6G_8DOYAD1laRCooQ</guid>
-      <pubDate>Wed, 20 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025 KCTF | 第三题《邪影显现》设计思路及解析</title>
-      <link>https://mp.weixin.qq.com/s/kx-Bk16Ij9y1TmmzIzoFcw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/kx-Bk16Ij9y1TmmzIzoFcw</guid>
-      <pubDate>Wed, 20 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025 KCTF 第四题战况 | 『Namikaze』拿下“一血”，目前已有12支战队成功破解</title>
-      <link>https://mp.weixin.qq.com/s/1aKJnhRNZoeDz4C7hxdYlg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/1aKJnhRNZoeDz4C7hxdYlg</guid>
-      <pubDate>Thu, 21 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Scattered Spider黑客获刑10年，需赔偿1300万美元</title>
-      <link>https://mp.weixin.qq.com/s/aAYJ4dj_5-d_qM25ak3b4g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/aAYJ4dj_5-d_qM25ak3b4g</guid>
-      <pubDate>Thu, 21 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Thu, 28 Aug 2025 14:36:34 +0000</lastBuildDate>
     <item>
       <title>APP设备风控分析及绕过</title>
       <link>https://mp.weixin.qq.com/s/bFFAuDGza-6CS9RQlPGPAQ</link>
@@ -127,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/ZKIYzVAM9rIF8pL1OoZ1Xg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/ZKIYzVAM9rIF8pL1OoZ1Xg</guid>
       <pubDate>Wed, 27 Aug 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025 KCTF 第七题战况 | 共有14支战队成功破解此题</title>
+      <link>https://mp.weixin.qq.com/s/Vvfkn_YunYcVNiAFrNP-vA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Vvfkn_YunYcVNiAFrNP-vA</guid>
+      <pubDate>Thu, 28 Aug 2025 18:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>首个AI 驱动勒索软件 PromptLock 瞄准 Windows、Linux 和 macOS</title>
+      <link>https://mp.weixin.qq.com/s/jxRFlH9Iz9r7DfcdpnpakA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jxRFlH9Iz9r7DfcdpnpakA</guid>
+      <pubDate>Thu, 28 Aug 2025 18:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>初识白盒AES-含具体实操案例</title>
+      <link>https://mp.weixin.qq.com/s/GjaUERTQP3RAc8wFqao-Xg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/GjaUERTQP3RAc8wFqao-Xg</guid>
+      <pubDate>Thu, 28 Aug 2025 18:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>预售中，别再错过！车联网安全赛道爆发，这门实战课帮你抢占先机</title>
+      <link>https://mp.weixin.qq.com/s/zgvUKPDpci3Rgh4hUeabgg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/zgvUKPDpci3Rgh4hUeabgg</guid>
+      <pubDate>Thu, 28 Aug 2025 18:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
