@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 28 Aug 2025 14:34:44 +0000</lastBuildDate>
-    <item>
-      <title>手把手教机器人：斯坦福大学提出RTR框架，让机械臂助力人形机器人真机训练</title>
-      <link>https://mp.weixin.qq.com/s/7c5Vi5h4hAft_SquJObZWg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/7c5Vi5h4hAft_SquJObZWg</guid>
-      <pubDate>Wed, 27 Aug 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>谷歌nano banana正式上线：单图成本不到3毛钱，比OpenAI便宜95%</title>
-      <link>https://mp.weixin.qq.com/s/eLst3bx4X9-ssnj1Z0p4yw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/eLst3bx4X9-ssnj1Z0p4yw</guid>
-      <pubDate>Wed, 27 Aug 2025 08:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>「开发者私下更喜欢用GPT-5写代码」，Claude还坐得稳编程王座吗？</title>
-      <link>https://mp.weixin.qq.com/s/ZpvmOKqSHUohjVQmoltbgA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ZpvmOKqSHUohjVQmoltbgA</guid>
-      <pubDate>Wed, 27 Aug 2025 11:18:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>打磨7年，李航新书《机器学习方法（第2版）》发布，有了强化学习，赠书20本</title>
-      <link>https://mp.weixin.qq.com/s/tukjiTEht6cOtaWuLUazjg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/tukjiTEht6cOtaWuLUazjg</guid>
-      <pubDate>Wed, 27 Aug 2025 11:18:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Agentic Deep Research新范式，推理能力再突破，可信度增加，蚂蚁安全团队出品</title>
-      <link>https://mp.weixin.qq.com/s/-tpIs5rXuw0TGhyESD0Q6A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-tpIs5rXuw0TGhyESD0Q6A</guid>
-      <pubDate>Wed, 27 Aug 2025 14:24:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>国家定调「人工智能+」：中国AI十年三步走，战略解读来了</title>
-      <link>https://mp.weixin.qq.com/s/JhXtJ_b3VGD2PNSXj4zcjg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/JhXtJ_b3VGD2PNSXj4zcjg</guid>
-      <pubDate>Wed, 27 Aug 2025 14:24:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>打破瓶颈，让RAG学会思考：中科大、智源等发布推理检索框架BGE-Reasoner</title>
-      <link>https://mp.weixin.qq.com/s/hDBJ998nc9kO6vnTpx9exA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/hDBJ998nc9kO6vnTpx9exA</guid>
-      <pubDate>Wed, 27 Aug 2025 14:24:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Aug 2025 14:33:11 +0000</lastBuildDate>
     <item>
       <title>拒稿警告，靠大模型「偷摸水论文」被堵死，ICLR最严新规来了</title>
       <link>https://mp.weixin.qq.com/s/m62uF6Lj-q2SPW7V0JjfYg</link>
@@ -127,6 +85,48 @@
       <link>https://mp.weixin.qq.com/s/e8CyGYwWy0og6gx2XfC4wA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/e8CyGYwWy0og6gx2XfC4wA</guid>
       <pubDate>Thu, 28 Aug 2025 18:40:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>ICCV 2025 Highlight | 3D真值生成新范式，开放驾驶场景的语义Occupancy自动化标注!</title>
+      <link>https://mp.weixin.qq.com/s/AymnV7jzOxFRgq9PCDIEIg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AymnV7jzOxFRgq9PCDIEIg</guid>
+      <pubDate>Fri, 29 Aug 2025 08:14:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Grok代码模型来了：限时免费用，速度超级快</title>
+      <link>https://mp.weixin.qq.com/s/0Pp4km74frvVZev2W0_5Vw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0Pp4km74frvVZev2W0_5Vw</guid>
+      <pubDate>Fri, 29 Aug 2025 08:14:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI Agent组团搞事：在你常刷的App里，舆论操纵、电商欺诈正悄然上演</title>
+      <link>https://mp.weixin.qq.com/s/TgrlSVO0fX3DoizCNk4uVw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/TgrlSVO0fX3DoizCNk4uVw</guid>
+      <pubDate>Fri, 29 Aug 2025 12:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>谷歌Nano Banana全网刷屏，起底背后团队</title>
+      <link>https://mp.weixin.qq.com/s/ByCwiWBT9dhg-QuVgJXXUQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ByCwiWBT9dhg-QuVgJXXUQ</guid>
+      <pubDate>Fri, 29 Aug 2025 12:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>时代2025 AI百人榜出炉：任正非、梁文锋、王兴兴、彭军、薛澜等入选，华人影响力爆棚</title>
+      <link>https://mp.weixin.qq.com/s/eTmXpneMEIKXGVtK3yaTtQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/eTmXpneMEIKXGVtK3yaTtQ</guid>
+      <pubDate>Fri, 29 Aug 2025 12:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>具身智能下一站在哪？来外滩大会这场论坛带你拨云见日！</title>
+      <link>https://mp.weixin.qq.com/s/pI8O5H9w73XIm7Qhz8Xb7Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/pI8O5H9w73XIm7Qhz8Xb7Q</guid>
+      <pubDate>Fri, 29 Aug 2025 17:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>谢赛宁回忆七年前OpenAI面试：白板编程、五小时会议，面完天都黑了</title>
+      <link>https://mp.weixin.qq.com/s/Uf0VmGrz-yg9SdRRauZOEw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Uf0VmGrz-yg9SdRRauZOEw</guid>
+      <pubDate>Fri, 29 Aug 2025 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
