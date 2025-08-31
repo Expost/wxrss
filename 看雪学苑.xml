@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 Aug 2025 14:32:07 +0000</lastBuildDate>
-    <item>
-      <title>点开图片就中招？苹果曝高危漏洞，推送紧急更新</title>
-      <link>https://mp.weixin.qq.com/s/2wG96n6xEZ6Hv18F7gTHnA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2wG96n6xEZ6Hv18F7gTHnA</guid>
-      <pubDate>Mon, 25 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 Aug 2025 14:31:21 +0000</lastBuildDate>
     <item>
       <title>售票开启｜GEEKCON 2025 上海站早鸟票限时抢购中（含GEEKCON+看雪通票）</title>
       <link>https://mp.weixin.qq.com/s/4OF2ouvzmJEP4KSpbe5Cdw</link>
@@ -127,6 +121,12 @@
       <link>https://mp.weixin.qq.com/s/JHNqcaNIqlYIQb6IT7WkPQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/JHNqcaNIqlYIQb6IT7WkPQ</guid>
       <pubDate>Sat, 30 Aug 2025 17:35:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>『议题征集』倒计时15天！第九届安全开发者峰会（SDC 2025）</title>
+      <link>https://mp.weixin.qq.com/s/k69D4SphwFy3DPVuNQ4EYQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/k69D4SphwFy3DPVuNQ4EYQ</guid>
+      <pubDate>Sun, 31 Aug 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
