@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 Aug 2025 14:30:09 +0000</lastBuildDate>
-    <item>
-      <title>电影，和离经叛道的女人</title>
-      <link>https://mp.weixin.qq.com/s/DR0em1ZWeaRg_3g5LQ9IFg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/DR0em1ZWeaRg_3g5LQ9IFg</guid>
-      <pubDate>Thu, 21 Aug 2025 20:37:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>当年被严重低估，今天看也是经典</title>
-      <link>https://mp.weixin.qq.com/s/5s7nNogYdSqzzl22r6HFBw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5s7nNogYdSqzzl22r6HFBw</guid>
-      <pubDate>Thu, 21 Aug 2025 20:37:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 Aug 2025 14:29:52 +0000</lastBuildDate>
     <item>
       <title>黑色电影的苦果</title>
       <link>https://mp.weixin.qq.com/s/gDVYDNBC4zc0QgrJQ3DTTQ</link>
@@ -127,6 +115,18 @@
       <link>https://mp.weixin.qq.com/s/lcdeCKz9-Ssw4H0FypUmFQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/lcdeCKz9-Ssw4H0FypUmFQ</guid>
       <pubDate>Sat, 30 Aug 2025 20:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>影史最伟大电影的一些八卦</title>
+      <link>https://mp.weixin.qq.com/s/nnAOZTSy1Be7lByWNPjtHA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/nnAOZTSy1Be7lByWNPjtHA</guid>
+      <pubDate>Sun, 31 Aug 2025 20:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>终于收官了，差一点点9分</title>
+      <link>https://mp.weixin.qq.com/s/mqBOvpFadv2scvGrMbCMng</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/mqBOvpFadv2scvGrMbCMng</guid>
+      <pubDate>Sun, 31 Aug 2025 20:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
