@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 Aug 2025 14:31:27 +0000</lastBuildDate>
-    <item>
-      <title>AAAI-26投稿量爆炸：近3万篇论文，2万来自中国，评审系统都快崩了</title>
-      <link>https://mp.weixin.qq.com/s/658xaDJFbzSeWzGqr8aPPw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/658xaDJFbzSeWzGqr8aPPw</guid>
-      <pubDate>Thu, 28 Aug 2025 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚更新，全球AI百强：中国五款产品进前20，ChatGPT背腹受敌，氛围编程成黑马</title>
-      <link>https://mp.weixin.qq.com/s/pJ_vePG83GBKUrn33LmGdw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/pJ_vePG83GBKUrn33LmGdw</guid>
-      <pubDate>Thu, 28 Aug 2025 17:33:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>元石科技正式发布问小白5，性能直追GPT-5</title>
-      <link>https://mp.weixin.qq.com/s/iGZU5vzBM3CGyA70PwvBeQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/iGZU5vzBM3CGyA70PwvBeQ</guid>
-      <pubDate>Thu, 28 Aug 2025 17:33:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>杜克大学、Zoom推出LiveMCP‑101：GPT‑5表现最佳但未破60%，闭源模型Token效率对数规律引关注</title>
-      <link>https://mp.weixin.qq.com/s/6H2P2YVjBnpCa9yVX53fnw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/6H2P2YVjBnpCa9yVX53fnw</guid>
-      <pubDate>Thu, 28 Aug 2025 18:40:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>谷歌又赢了，nano banana「被迫」改名后，网友搞出7种神仙玩法</title>
-      <link>https://mp.weixin.qq.com/s/e8CyGYwWy0og6gx2XfC4wA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/e8CyGYwWy0og6gx2XfC4wA</guid>
-      <pubDate>Thu, 28 Aug 2025 18:40:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>ICCV 2025 Highlight | 3D真值生成新范式，开放驾驶场景的语义Occupancy自动化标注!</title>
-      <link>https://mp.weixin.qq.com/s/AymnV7jzOxFRgq9PCDIEIg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AymnV7jzOxFRgq9PCDIEIg</guid>
-      <pubDate>Fri, 29 Aug 2025 08:14:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 Aug 2025 14:30:55 +0000</lastBuildDate>
     <item>
       <title>Grok代码模型来了：限时免费用，速度超级快</title>
       <link>https://mp.weixin.qq.com/s/0Pp4km74frvVZev2W0_5Vw</link>
@@ -127,6 +91,42 @@
       <link>https://mp.weixin.qq.com/s/at_uKsAlird1AW0XFN9MGg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/at_uKsAlird1AW0XFN9MGg</guid>
       <pubDate>Sat, 30 Aug 2025 18:06:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>R-Zero 深度解析：无需人类数据，AI 如何实现自我进化？</title>
+      <link>https://mp.weixin.qq.com/s/mfNFJgaDdGyK0969MDtmyw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/mfNFJgaDdGyK0969MDtmyw</guid>
+      <pubDate>Sun, 31 Aug 2025 11:53:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>这个荒诞网站藏着30个AI「鬼点子」，但我觉得它活不长</title>
+      <link>https://mp.weixin.qq.com/s/A91Bq8RmdJjH3Ihypnudeg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/A91Bq8RmdJjH3Ihypnudeg</guid>
+      <pubDate>Sun, 31 Aug 2025 11:53:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>混乱、内耗、丑闻：Meta考虑向Google、OpenAI低头</title>
+      <link>https://mp.weixin.qq.com/s/jaxr-_hAT-1RtweFVTm1Hg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jaxr-_hAT-1RtweFVTm1Hg</guid>
+      <pubDate>Sun, 31 Aug 2025 11:53:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI智能体是否能预测未来？字节跳动seed发布FutureX动态评测基准</title>
+      <link>https://mp.weixin.qq.com/s/O10duXkDh_FEq3JjRJN-ng</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/O10duXkDh_FEq3JjRJN-ng</guid>
+      <pubDate>Sun, 31 Aug 2025 13:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>LLM也具有身份认同？当LLM发现博弈对手是自己时，行为变化了</title>
+      <link>https://mp.weixin.qq.com/s/NJ5494nkLkd6oRTk9hlhUg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NJ5494nkLkd6oRTk9hlhUg</guid>
+      <pubDate>Sun, 31 Aug 2025 13:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>那天，AI大模型想起了，被「失忆」所束缚的枷锁</title>
+      <link>https://mp.weixin.qq.com/s/N_iEDFATkdbazXyjzUF2wA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/N_iEDFATkdbazXyjzUF2wA</guid>
+      <pubDate>Sun, 31 Aug 2025 13:31:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
