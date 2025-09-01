@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 31 Aug 2025 14:31:21 +0000</lastBuildDate>
-    <item>
-      <title>售票开启｜GEEKCON 2025 上海站早鸟票限时抢购中（含GEEKCON+看雪通票）</title>
-      <link>https://mp.weixin.qq.com/s/4OF2ouvzmJEP4KSpbe5Cdw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/4OF2ouvzmJEP4KSpbe5Cdw</guid>
-      <pubDate>Mon, 25 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025 KCTF | 第五题《智破幻阵》设计思路及解析</title>
-      <link>https://mp.weixin.qq.com/s/5klhFrWweNLLQQCKjNaizw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5klhFrWweNLLQQCKjNaizw</guid>
-      <pubDate>Mon, 25 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025 KCTF 第六题战况 | 本赛季黑马？【1k0ct】拿下本题“一血”</title>
-      <link>https://mp.weixin.qq.com/s/-bAFH5RIsUrAeUNx-1ikqg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-bAFH5RIsUrAeUNx-1ikqg</guid>
-      <pubDate>Tue, 26 Aug 2025 18:04:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 14:33:43 +0000</lastBuildDate>
     <item>
       <title>Docker 修复 9.3 分高危漏洞，Win/mac 用户速升级</title>
       <link>https://mp.weixin.qq.com/s/tNwznbbOL-Bf0gqQf7rhpw</link>
@@ -127,6 +109,24 @@
       <link>https://mp.weixin.qq.com/s/k69D4SphwFy3DPVuNQ4EYQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/k69D4SphwFy3DPVuNQ4EYQ</guid>
       <pubDate>Sun, 31 Aug 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp 修复针对 iOS 和 macOS 的零点击漏洞</title>
+      <link>https://mp.weixin.qq.com/s/FPrM1svWQW16q8JH6Nh6sg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/FPrM1svWQW16q8JH6Nh6sg</guid>
+      <pubDate>Mon, 01 Sep 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>SDC2025「极客市集」展商招募中！探秘极客世界，共赴安全盛宴</title>
+      <link>https://mp.weixin.qq.com/s/DoJjq2anpdSOhaZGolZLVw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/DoJjq2anpdSOhaZGolZLVw</guid>
+      <pubDate>Mon, 01 Sep 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025 KCTF | 第八题《暗云涌动》设计思路及解析</title>
+      <link>https://mp.weixin.qq.com/s/36jXJUGl7ydgY_1FPPHk4g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/36jXJUGl7ydgY_1FPPHk4g</guid>
+      <pubDate>Mon, 01 Sep 2025 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
