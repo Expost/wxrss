@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 31 Aug 2025 14:30:55 +0000</lastBuildDate>
-    <item>
-      <title>Grok代码模型来了：限时免费用，速度超级快</title>
-      <link>https://mp.weixin.qq.com/s/0Pp4km74frvVZev2W0_5Vw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0Pp4km74frvVZev2W0_5Vw</guid>
-      <pubDate>Fri, 29 Aug 2025 08:14:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>AI Agent组团搞事：在你常刷的App里，舆论操纵、电商欺诈正悄然上演</title>
-      <link>https://mp.weixin.qq.com/s/TgrlSVO0fX3DoizCNk4uVw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/TgrlSVO0fX3DoizCNk4uVw</guid>
-      <pubDate>Fri, 29 Aug 2025 12:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>谷歌Nano Banana全网刷屏，起底背后团队</title>
-      <link>https://mp.weixin.qq.com/s/ByCwiWBT9dhg-QuVgJXXUQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ByCwiWBT9dhg-QuVgJXXUQ</guid>
-      <pubDate>Fri, 29 Aug 2025 12:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>时代2025 AI百人榜出炉：任正非、梁文锋、王兴兴、彭军、薛澜等入选，华人影响力爆棚</title>
-      <link>https://mp.weixin.qq.com/s/eTmXpneMEIKXGVtK3yaTtQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/eTmXpneMEIKXGVtK3yaTtQ</guid>
-      <pubDate>Fri, 29 Aug 2025 12:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>具身智能下一站在哪？来外滩大会这场论坛带你拨云见日！</title>
-      <link>https://mp.weixin.qq.com/s/pI8O5H9w73XIm7Qhz8Xb7Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/pI8O5H9w73XIm7Qhz8Xb7Q</guid>
-      <pubDate>Fri, 29 Aug 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>谢赛宁回忆七年前OpenAI面试：白板编程、五小时会议，面完天都黑了</title>
-      <link>https://mp.weixin.qq.com/s/Uf0VmGrz-yg9SdRRauZOEw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Uf0VmGrz-yg9SdRRauZOEw</guid>
-      <pubDate>Fri, 29 Aug 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>清华崔鹏团队开源LimiX：首个结构化数据通用大模型，性能超越SOTA专用模型</title>
-      <link>https://mp.weixin.qq.com/s/-Sg0ZKuGU7sMfmBkU83Q0g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-Sg0ZKuGU7sMfmBkU83Q0g</guid>
-      <pubDate>Sat, 30 Aug 2025 09:17:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Sep 2025 14:32:29 +0000</lastBuildDate>
     <item>
       <title>AI应用：浮现中的AI经济</title>
       <link>https://mp.weixin.qq.com/s/mZUVqG9lwX1XDk3y4Kul9Q</link>
@@ -127,6 +85,48 @@
       <link>https://mp.weixin.qq.com/s/N_iEDFATkdbazXyjzUF2wA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/N_iEDFATkdbazXyjzUF2wA</guid>
       <pubDate>Sun, 31 Aug 2025 13:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>科研智能体「漫游指南」—助你构建领域专属科研智能体</title>
+      <link>https://mp.weixin.qq.com/s/2fyy0jcMZXS-EZDAkC4r3g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2fyy0jcMZXS-EZDAkC4r3g</guid>
+      <pubDate>Mon, 01 Sep 2025 10:47:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>科普向：一文解构大模型后训练，GRPO和它的继任者们的前世今生</title>
+      <link>https://mp.weixin.qq.com/s/JjP6a9htmtdRDfMtyBaIGQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/JjP6a9htmtdRDfMtyBaIGQ</guid>
+      <pubDate>Mon, 01 Sep 2025 10:47:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>首个为具身智能而生的大规模强化学习框架RLinf！清华、北京中关村学院、无问芯穹等重磅开源</title>
+      <link>https://mp.weixin.qq.com/s/Xtv4gDu3lhDDGadLrzt6Aw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Xtv4gDu3lhDDGadLrzt6Aw</guid>
+      <pubDate>Mon, 01 Sep 2025 10:47:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek、GPT-5都在尝试的快慢思考切换，有了更智能版本，还是多模态</title>
+      <link>https://mp.weixin.qq.com/s/otgQRYsdsneZl0zpVCTZjw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/otgQRYsdsneZl0zpVCTZjw</guid>
+      <pubDate>Mon, 01 Sep 2025 14:02:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>NeurIPS 2025：高分论文也可能被拒，只为保住那25%左右的接收率？</title>
+      <link>https://mp.weixin.qq.com/s/Nin9wGlbB1RpKwJIOUN0UA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Nin9wGlbB1RpKwJIOUN0UA</guid>
+      <pubDate>Mon, 01 Sep 2025 14:02:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI大神：人工智能导论课程停在15年前，本科首选该是机器学习导论</title>
+      <link>https://mp.weixin.qq.com/s/p8n0v-5sB9o2nabO9T5YtA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/p8n0v-5sB9o2nabO9T5YtA</guid>
+      <pubDate>Mon, 01 Sep 2025 16:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>开学了：入门AI，可以从这第一课开始</title>
+      <link>https://mp.weixin.qq.com/s/rDsIlUtd02YrKILCPWOZEQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/rDsIlUtd02YrKILCPWOZEQ</guid>
+      <pubDate>Mon, 01 Sep 2025 16:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
