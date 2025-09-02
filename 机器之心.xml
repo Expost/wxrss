@@ -7,67 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 01 Sep 2025 14:32:29 +0000</lastBuildDate>
-    <item>
-      <title>AI应用：浮现中的AI经济</title>
-      <link>https://mp.weixin.qq.com/s/mZUVqG9lwX1XDk3y4Kul9Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/mZUVqG9lwX1XDk3y4Kul9Q</guid>
-      <pubDate>Sat, 30 Aug 2025 09:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>合成数据的「毒」与「药」，模型崩溃有何新解？</title>
-      <link>https://mp.weixin.qq.com/s/LvNjRXAw0fsiShOiD0IZqg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/LvNjRXAw0fsiShOiD0IZqg</guid>
-      <pubDate>Sat, 30 Aug 2025 09:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>你能永远陪我聊天吗？复旦&amp;微软提出StableAvatar: 首个端到端无限时长音频驱动的人类视频生成新框架!</title>
-      <link>https://mp.weixin.qq.com/s/BoHk9XZRdaSGMSK-9_PpGA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/BoHk9XZRdaSGMSK-9_PpGA</guid>
-      <pubDate>Sat, 30 Aug 2025 12:10:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>在美国，打工人越老越吃香，22-25岁新人最先被AI淘汰</title>
-      <link>https://mp.weixin.qq.com/s/ha9Ow87DEdcDShOeDPzEyg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ha9Ow87DEdcDShOeDPzEyg</guid>
-      <pubDate>Sat, 30 Aug 2025 12:10:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>23岁小哥被OpenAI开除，成立对冲基金收益爆表，165页论文传遍硅谷</title>
-      <link>https://mp.weixin.qq.com/s/hZ553U0ODdbkYW5Cx8OORA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/hZ553U0ODdbkYW5Cx8OORA</guid>
-      <pubDate>Sat, 30 Aug 2025 12:10:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>CodeAgent 2.0 时代开启｜GitTaskBench，颠覆性定义代码智能体实战交付新标准</title>
-      <link>https://mp.weixin.qq.com/s/G7HLS2cGG-33b8-0yinCcw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/G7HLS2cGG-33b8-0yinCcw</guid>
-      <pubDate>Sat, 30 Aug 2025 18:06:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek、GPT-5带头转向混合推理，一个token也不能浪费</title>
-      <link>https://mp.weixin.qq.com/s/at_uKsAlird1AW0XFN9MGg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/at_uKsAlird1AW0XFN9MGg</guid>
-      <pubDate>Sat, 30 Aug 2025 18:06:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>R-Zero 深度解析：无需人类数据，AI 如何实现自我进化？</title>
-      <link>https://mp.weixin.qq.com/s/mfNFJgaDdGyK0969MDtmyw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/mfNFJgaDdGyK0969MDtmyw</guid>
-      <pubDate>Sun, 31 Aug 2025 11:53:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>这个荒诞网站藏着30个AI「鬼点子」，但我觉得它活不长</title>
-      <link>https://mp.weixin.qq.com/s/A91Bq8RmdJjH3Ihypnudeg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/A91Bq8RmdJjH3Ihypnudeg</guid>
-      <pubDate>Sun, 31 Aug 2025 11:53:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>混乱、内耗、丑闻：Meta考虑向Google、OpenAI低头</title>
-      <link>https://mp.weixin.qq.com/s/jaxr-_hAT-1RtweFVTm1Hg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jaxr-_hAT-1RtweFVTm1Hg</guid>
-      <pubDate>Sun, 31 Aug 2025 11:53:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Sep 2025 14:57:10 +0000</lastBuildDate>
     <item>
       <title>AI智能体是否能预测未来？字节跳动seed发布FutureX动态评测基准</title>
       <link>https://mp.weixin.qq.com/s/O10duXkDh_FEq3JjRJN-ng</link>
@@ -127,6 +67,66 @@
       <link>https://mp.weixin.qq.com/s/rDsIlUtd02YrKILCPWOZEQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/rDsIlUtd02YrKILCPWOZEQ</guid>
       <pubDate>Mon, 01 Sep 2025 16:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>自搜索强化学习SSRL：Agentic RL的Sim2Real时刻</title>
+      <link>https://mp.weixin.qq.com/s/npVlrEwMuawDXkeDY_HENQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/npVlrEwMuawDXkeDY_HENQ</guid>
+      <pubDate>Tue, 02 Sep 2025 09:27:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>14B打败671B！微软rStar2-Agent在数学推理上超过DeepSeek-R1</title>
+      <link>https://mp.weixin.qq.com/s/8yB2MJ3Q9CD8maQjiiLk9g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8yB2MJ3Q9CD8maQjiiLk9g</guid>
+      <pubDate>Tue, 02 Sep 2025 09:27:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>性能逼近闭源最强，通义实验室开源Mobile-Agent-v3刷新10项GUI基准SOTA</title>
+      <link>https://mp.weixin.qq.com/s/LJCCB0wvwdFJG3rjK4an5g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/LJCCB0wvwdFJG3rjK4an5g</guid>
+      <pubDate>Tue, 02 Sep 2025 11:42:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI读网页，这次真不一样了，谷歌Gemini解锁「详解网页」新技能</title>
+      <link>https://mp.weixin.qq.com/s/alV-czwScS_CSsdP3nWZHQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/alV-czwScS_CSsdP3nWZHQ</guid>
+      <pubDate>Tue, 02 Sep 2025 11:42:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>DeepMind爆火论文：向量嵌入模型存在数学上限，Scaling laws放缓实锤？</title>
+      <link>https://mp.weixin.qq.com/s/SZU053P-BOTmsnA0KyjJEg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/SZU053P-BOTmsnA0KyjJEg</guid>
+      <pubDate>Tue, 02 Sep 2025 11:42:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>冲上热搜！美团大模型，靠「快」火了</title>
+      <link>https://mp.weixin.qq.com/s/InDGGdUmXs6H5KzpXhzyBg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/InDGGdUmXs6H5KzpXhzyBg</guid>
+      <pubDate>Tue, 02 Sep 2025 11:42:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>告别无效计算！新TTS框架拯救19%被埋没答案，推理准确率飙升</title>
+      <link>https://mp.weixin.qq.com/s/mTrHG06dopNn61OXxUC2RQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/mTrHG06dopNn61OXxUC2RQ</guid>
+      <pubDate>Tue, 02 Sep 2025 14:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Scaling Laws起源于1993年？OpenAI总裁：深度学习的根本已揭秘</title>
+      <link>https://mp.weixin.qq.com/s/TLKsgq8s66fhyKDUuhLf-g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/TLKsgq8s66fhyKDUuhLf-g</guid>
+      <pubDate>Tue, 02 Sep 2025 14:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>苹果新研究：不微调、不重训，如何让AI提问效率暴增6.5倍？</title>
+      <link>https://mp.weixin.qq.com/s/EGmUbOC5sfTpj414ISiC4w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/EGmUbOC5sfTpj414ISiC4w</guid>
+      <pubDate>Tue, 02 Sep 2025 17:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>开学&amp;教师节双重豪礼，英博云算力低至8毛8/卡时，赶紧薅起来</title>
+      <link>https://mp.weixin.qq.com/s/Pk3P6nD2jSTzfz5KSUu5-g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Pk3P6nD2jSTzfz5KSUu5-g</guid>
+      <pubDate>Tue, 02 Sep 2025 17:33:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
