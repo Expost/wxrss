@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 01 Sep 2025 14:33:43 +0000</lastBuildDate>
-    <item>
-      <title>Docker 修复 9.3 分高危漏洞，Win/mac 用户速升级</title>
-      <link>https://mp.weixin.qq.com/s/tNwznbbOL-Bf0gqQf7rhpw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/tNwznbbOL-Bf0gqQf7rhpw</guid>
-      <pubDate>Tue, 26 Aug 2025 18:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>XCon2025完美落幕|在AI革命的浪潮中，筑牢安全堤坝！</title>
-      <link>https://mp.weixin.qq.com/s/NxLGDY-9dj1diBOgidRIGg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NxLGDY-9dj1diBOgidRIGg</guid>
-      <pubDate>Tue, 26 Aug 2025 18:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>安卓逆向之 Autojs 加密 JS 文件提取和解密</title>
-      <link>https://mp.weixin.qq.com/s/W5nnFt98mU80HhsyzxJ3LQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/W5nnFt98mU80HhsyzxJ3LQ</guid>
-      <pubDate>Tue, 26 Aug 2025 18:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧</title>
-      <link>https://mp.weixin.qq.com/s/0jEEMffTMarGBXQiNHxtTA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0jEEMffTMarGBXQiNHxtTA</guid>
-      <pubDate>Wed, 27 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Sep 2025 14:58:43 +0000</lastBuildDate>
     <item>
       <title>Nissan 旗下设计工作室服务器遭入侵，4TB 数据被窃</title>
       <link>https://mp.weixin.qq.com/s/QiMd6Q_OZNXvJ0dDCiIVOQ</link>
@@ -127,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/36jXJUGl7ydgY_1FPPHk4g</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/36jXJUGl7ydgY_1FPPHk4g</guid>
       <pubDate>Mon, 01 Sep 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>预售中！车联网安全赛道爆发，这门实战课帮你抢占先机</title>
+      <link>https://mp.weixin.qq.com/s/cYGEnD3OveRvSliFkfCm5w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cYGEnD3OveRvSliFkfCm5w</guid>
+      <pubDate>Tue, 02 Sep 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CVSS 评分9.8！高通两严重漏洞或致设备远程被控</title>
+      <link>https://mp.weixin.qq.com/s/sgQhQe3wefj1Yq2uM5PF5w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/sgQhQe3wefj1Yq2uM5PF5w</guid>
+      <pubDate>Tue, 02 Sep 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>【报名中】2025Inclusion·外滩大会“AI驱动的变革与挑战：重构网络安全的未来边界” 见解论坛</title>
+      <link>https://mp.weixin.qq.com/s/e184GSTSfdtLE3WgYC1gAA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/e184GSTSfdtLE3WgYC1gAA</guid>
+      <pubDate>Tue, 02 Sep 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025 KCTF | 第九题《智斗邪首》设计思路及解析</title>
+      <link>https://mp.weixin.qq.com/s/MNVOD7XfCXuTLDNE3qdt-A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/MNVOD7XfCXuTLDNE3qdt-A</guid>
+      <pubDate>Tue, 02 Sep 2025 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
