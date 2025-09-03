@@ -7,61 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 02 Sep 2025 14:57:10 +0000</lastBuildDate>
-    <item>
-      <title>AI智能体是否能预测未来？字节跳动seed发布FutureX动态评测基准</title>
-      <link>https://mp.weixin.qq.com/s/O10duXkDh_FEq3JjRJN-ng</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/O10duXkDh_FEq3JjRJN-ng</guid>
-      <pubDate>Sun, 31 Aug 2025 13:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>LLM也具有身份认同？当LLM发现博弈对手是自己时，行为变化了</title>
-      <link>https://mp.weixin.qq.com/s/NJ5494nkLkd6oRTk9hlhUg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NJ5494nkLkd6oRTk9hlhUg</guid>
-      <pubDate>Sun, 31 Aug 2025 13:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>那天，AI大模型想起了，被「失忆」所束缚的枷锁</title>
-      <link>https://mp.weixin.qq.com/s/N_iEDFATkdbazXyjzUF2wA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/N_iEDFATkdbazXyjzUF2wA</guid>
-      <pubDate>Sun, 31 Aug 2025 13:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>科研智能体「漫游指南」—助你构建领域专属科研智能体</title>
-      <link>https://mp.weixin.qq.com/s/2fyy0jcMZXS-EZDAkC4r3g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2fyy0jcMZXS-EZDAkC4r3g</guid>
-      <pubDate>Mon, 01 Sep 2025 10:47:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>科普向：一文解构大模型后训练，GRPO和它的继任者们的前世今生</title>
-      <link>https://mp.weixin.qq.com/s/JjP6a9htmtdRDfMtyBaIGQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/JjP6a9htmtdRDfMtyBaIGQ</guid>
-      <pubDate>Mon, 01 Sep 2025 10:47:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>首个为具身智能而生的大规模强化学习框架RLinf！清华、北京中关村学院、无问芯穹等重磅开源</title>
-      <link>https://mp.weixin.qq.com/s/Xtv4gDu3lhDDGadLrzt6Aw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Xtv4gDu3lhDDGadLrzt6Aw</guid>
-      <pubDate>Mon, 01 Sep 2025 10:47:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek、GPT-5都在尝试的快慢思考切换，有了更智能版本，还是多模态</title>
-      <link>https://mp.weixin.qq.com/s/otgQRYsdsneZl0zpVCTZjw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/otgQRYsdsneZl0zpVCTZjw</guid>
-      <pubDate>Mon, 01 Sep 2025 14:02:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>NeurIPS 2025：高分论文也可能被拒，只为保住那25%左右的接收率？</title>
-      <link>https://mp.weixin.qq.com/s/Nin9wGlbB1RpKwJIOUN0UA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Nin9wGlbB1RpKwJIOUN0UA</guid>
-      <pubDate>Mon, 01 Sep 2025 14:02:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>OpenAI大神：人工智能导论课程停在15年前，本科首选该是机器学习导论</title>
-      <link>https://mp.weixin.qq.com/s/p8n0v-5sB9o2nabO9T5YtA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/p8n0v-5sB9o2nabO9T5YtA</guid>
-      <pubDate>Mon, 01 Sep 2025 16:45:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 14:59:33 +0000</lastBuildDate>
     <item>
       <title>开学了：入门AI，可以从这第一课开始</title>
       <link>https://mp.weixin.qq.com/s/rDsIlUtd02YrKILCPWOZEQ</link>
@@ -127,6 +73,60 @@
       <link>https://mp.weixin.qq.com/s/Pk3P6nD2jSTzfz5KSUu5-g</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/Pk3P6nD2jSTzfz5KSUu5-g</guid>
       <pubDate>Tue, 02 Sep 2025 17:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>IROS 2025 | 机器人衣物折叠新范式，NUS邵林团队用MetaFold解耦轨迹与动作</title>
+      <link>https://mp.weixin.qq.com/s/6raX5prm2hBNMu2_WHELaQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/6raX5prm2hBNMu2_WHELaQ</guid>
+      <pubDate>Wed, 03 Sep 2025 08:43:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，Anthropic在质疑声中获130亿美元融资，估值达1830亿</title>
+      <link>https://mp.weixin.qq.com/s/kP09-6MuCSMJHq4TmUBsIw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/kP09-6MuCSMJHq4TmUBsIw</guid>
+      <pubDate>Wed, 03 Sep 2025 08:43:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>语音分离最全综述来了！清华等团队深度分析200+文章，系统解析「鸡尾酒会问题」研究</title>
+      <link>https://mp.weixin.qq.com/s/6AX7L9EMraDwXU3M59LZ0w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/6AX7L9EMraDwXU3M59LZ0w</guid>
+      <pubDate>Wed, 03 Sep 2025 12:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>其实，扩散语言模型在最终解码之前很久，就已确定最终答案</title>
+      <link>https://mp.weixin.qq.com/s/g2CPqqvPxIb3X_WTxz6mrg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/g2CPqqvPxIb3X_WTxz6mrg</guid>
+      <pubDate>Wed, 03 Sep 2025 12:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>宇树科技官宣：年内提交IPO，或将冲刺科创板</title>
+      <link>https://mp.weixin.qq.com/s/R1PcwD-640FXryOFy58ceg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/R1PcwD-640FXryOFy58ceg</guid>
+      <pubDate>Wed, 03 Sep 2025 12:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>从复刻魔术开始，RoboMirage打开了机器人仿真的新世界</title>
+      <link>https://mp.weixin.qq.com/s/AOaZwl51k-nk01VbPQuXIQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AOaZwl51k-nk01VbPQuXIQ</guid>
+      <pubDate>Wed, 03 Sep 2025 12:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>ICCV 2025 | 基于时序增强关系敏感知识迁移的弱监督动态场景图生成</title>
+      <link>https://mp.weixin.qq.com/s/puIo6qZW9DWrIDKyV1V1Tg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/puIo6qZW9DWrIDKyV1V1Tg</guid>
+      <pubDate>Wed, 03 Sep 2025 16:17:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Anthropic承认模型降智后仍放任其偷懒？Claude Code用户信任崩塌中</title>
+      <link>https://mp.weixin.qq.com/s/i_JRga9LPHmQttonOoofNw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/i_JRga9LPHmQttonOoofNw</guid>
+      <pubDate>Wed, 03 Sep 2025 16:17:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，谷歌放出Nano Banana六大正宗Prompt玩法，手残党速来</title>
+      <link>https://mp.weixin.qq.com/s/AGBC2bRbGmCuOMqjSTxytw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AGBC2bRbGmCuOMqjSTxytw</guid>
+      <pubDate>Wed, 03 Sep 2025 16:17:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
