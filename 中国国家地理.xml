@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 02 Sep 2025 15:02:19 +0000</lastBuildDate>
-    <item>
-      <title>今天，是收获满满的好兆头！</title>
-      <link>https://mp.weixin.qq.com/s/xvLVvTEXaEzG2e2gkT6x5Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/xvLVvTEXaEzG2e2gkT6x5Q</guid>
-      <pubDate>Sat, 23 Aug 2025 09:01:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 15:03:08 +0000</lastBuildDate>
     <item>
       <title>中国最美的十大名山，含金量还在上升！</title>
       <link>https://mp.weixin.qq.com/s/e9rQxxnxK2CLARIkKwAIbg</link>
@@ -127,6 +121,12 @@
       <link>https://mp.weixin.qq.com/s/g50F0Z09OkmIUXhSDAbBTA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/g50F0Z09OkmIUXhSDAbBTA</guid>
       <pubDate>Tue, 02 Sep 2025 17:05:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>万里长城，永不倒</title>
+      <link>https://mp.weixin.qq.com/s/quzDjpn5E-dN9B6m9a3OxQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/quzDjpn5E-dN9B6m9a3OxQ</guid>
+      <pubDate>Wed, 03 Sep 2025 07:31:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
