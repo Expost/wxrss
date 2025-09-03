@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 02 Sep 2025 14:58:43 +0000</lastBuildDate>
-    <item>
-      <title>Nissan 旗下设计工作室服务器遭入侵，4TB 数据被窃</title>
-      <link>https://mp.weixin.qq.com/s/QiMd6Q_OZNXvJ0dDCiIVOQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/QiMd6Q_OZNXvJ0dDCiIVOQ</guid>
-      <pubDate>Wed, 27 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025 KCTF | 第六题《秘辛揭露》设计思路及解析</title>
-      <link>https://mp.weixin.qq.com/s/ZKIYzVAM9rIF8pL1OoZ1Xg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ZKIYzVAM9rIF8pL1OoZ1Xg</guid>
-      <pubDate>Wed, 27 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025 KCTF 第七题战况 | 共有14支战队成功破解此题</title>
-      <link>https://mp.weixin.qq.com/s/Vvfkn_YunYcVNiAFrNP-vA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Vvfkn_YunYcVNiAFrNP-vA</guid>
-      <pubDate>Thu, 28 Aug 2025 18:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>首个AI 驱动勒索软件 PromptLock 瞄准 Windows、Linux 和 macOS</title>
-      <link>https://mp.weixin.qq.com/s/jxRFlH9Iz9r7DfcdpnpakA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jxRFlH9Iz9r7DfcdpnpakA</guid>
-      <pubDate>Thu, 28 Aug 2025 18:04:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Sep 2025 15:00:31 +0000</lastBuildDate>
     <item>
       <title>初识白盒AES-含具体实操案例</title>
       <link>https://mp.weixin.qq.com/s/GjaUERTQP3RAc8wFqao-Xg</link>
@@ -127,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/MNVOD7XfCXuTLDNE3qdt-A</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/MNVOD7XfCXuTLDNE3qdt-A</guid>
       <pubDate>Tue, 02 Sep 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025 KCTF 第十题战况 | 即将完赛！COMPASS 拿下本题“一血”</title>
+      <link>https://mp.weixin.qq.com/s/1RE-wLCFWMLuAzeDys_uEg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/1RE-wLCFWMLuAzeDys_uEg</guid>
+      <pubDate>Wed, 03 Sep 2025 18:05:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>捷豹路虎遇网络攻击，全球 IT 系统陷瘫痪，生产受阻</title>
+      <link>https://mp.weixin.qq.com/s/-izxkYH-97dMvOFbvPWgBA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-izxkYH-97dMvOFbvPWgBA</guid>
+      <pubDate>Wed, 03 Sep 2025 18:05:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CRC校验原理及绕过</title>
+      <link>https://mp.weixin.qq.com/s/kVu210FTdNN0ZC0SQetN6A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/kVu210FTdNN0ZC0SQetN6A</guid>
+      <pubDate>Wed, 03 Sep 2025 18:05:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>共筑智能时代可信生态！『武汉科锐』助力第九届安全开发者峰会-SDC2025</title>
+      <link>https://mp.weixin.qq.com/s/-CmyeiGc-qItxgeiN1WfDg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-CmyeiGc-qItxgeiN1WfDg</guid>
+      <pubDate>Wed, 03 Sep 2025 18:05:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
