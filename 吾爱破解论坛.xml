@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 04 Sep 2025 15:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 15:02:11 +0000</lastBuildDate>
     <item>
       <title>WebAssembly 逆向工程挑战赛</title>
       <link>https://mp.weixin.qq.com/s/ADFdYMXTqbdg4CRJu09cMg</link>
@@ -31,6 +31,12 @@
       <link>https://mp.weixin.qq.com/s/sMV3WIU-3n_vHtamOeljCw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/sMV3WIU-3n_vHtamOeljCw</guid>
       <pubDate>Thu, 04 Sep 2025 15:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>【MacOS逆向] DaisyDisk v4.31 破解记录</title>
+      <link>https://mp.weixin.qq.com/s/74Qo-cXw3PfEyId03Ktczg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/74Qo-cXw3PfEyId03Ktczg</guid>
+      <pubDate>Fri, 05 Sep 2025 08:24:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
