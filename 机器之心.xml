@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 04 Sep 2025 15:00:52 +0000</lastBuildDate>
-    <item>
-      <title>IROS 2025 | 机器人衣物折叠新范式，NUS邵林团队用MetaFold解耦轨迹与动作</title>
-      <link>https://mp.weixin.qq.com/s/6raX5prm2hBNMu2_WHELaQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/6raX5prm2hBNMu2_WHELaQ</guid>
-      <pubDate>Wed, 03 Sep 2025 08:43:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，Anthropic在质疑声中获130亿美元融资，估值达1830亿</title>
-      <link>https://mp.weixin.qq.com/s/kP09-6MuCSMJHq4TmUBsIw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/kP09-6MuCSMJHq4TmUBsIw</guid>
-      <pubDate>Wed, 03 Sep 2025 08:43:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>语音分离最全综述来了！清华等团队深度分析200+文章，系统解析「鸡尾酒会问题」研究</title>
-      <link>https://mp.weixin.qq.com/s/6AX7L9EMraDwXU3M59LZ0w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/6AX7L9EMraDwXU3M59LZ0w</guid>
-      <pubDate>Wed, 03 Sep 2025 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>其实，扩散语言模型在最终解码之前很久，就已确定最终答案</title>
-      <link>https://mp.weixin.qq.com/s/g2CPqqvPxIb3X_WTxz6mrg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/g2CPqqvPxIb3X_WTxz6mrg</guid>
-      <pubDate>Wed, 03 Sep 2025 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>宇树科技官宣：年内提交IPO，或将冲刺科创板</title>
-      <link>https://mp.weixin.qq.com/s/R1PcwD-640FXryOFy58ceg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/R1PcwD-640FXryOFy58ceg</guid>
-      <pubDate>Wed, 03 Sep 2025 12:30:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Sep 2025 14:57:25 +0000</lastBuildDate>
     <item>
       <title>从复刻魔术开始，RoboMirage打开了机器人仿真的新世界</title>
       <link>https://mp.weixin.qq.com/s/AOaZwl51k-nk01VbPQuXIQ</link>
@@ -127,6 +97,36 @@
       <link>https://mp.weixin.qq.com/s/Vo_wxXQW-ILXHTayNzgqtQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/Vo_wxXQW-ILXHTayNzgqtQ</guid>
       <pubDate>Thu, 04 Sep 2025 17:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>多模态大模型持续学习系列研究，综述+Benchmark+方法+Codebase一网打尽！</title>
+      <link>https://mp.weixin.qq.com/s/FBZw95e_0WibVbV075OyCA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/FBZw95e_0WibVbV075OyCA</guid>
+      <pubDate>Fri, 05 Sep 2025 12:28:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>沉寂一个月，openPangu性能飙升8%！华为1B开源模型来了</title>
+      <link>https://mp.weixin.qq.com/s/Ty7g5sLqgCgWQaYENAVm0A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Ty7g5sLqgCgWQaYENAVm0A</guid>
+      <pubDate>Fri, 05 Sep 2025 12:28:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Nano Banana爆火之后，一个神秘的「胡萝卜」代码模型又上线了</title>
+      <link>https://mp.weixin.qq.com/s/lPhqjD-xYFlYB0nC9x9lxA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/lPhqjD-xYFlYB0nC9x9lxA</guid>
+      <pubDate>Fri, 05 Sep 2025 12:28:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>不止会动嘴，还会「思考」！字节跳动发布OmniHuman-1.5，让虚拟人拥有逻辑灵魂</title>
+      <link>https://mp.weixin.qq.com/s/zTsVDez9MAZgkxD55gVpuw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/zTsVDez9MAZgkxD55gVpuw</guid>
+      <pubDate>Fri, 05 Sep 2025 15:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>被网友逼着改名的谷歌Nano Banana，正在抢99%时尚博主的饭碗</title>
+      <link>https://mp.weixin.qq.com/s/5fr705U3mOrh15EOpg9Ayw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5fr705U3mOrh15EOpg9Ayw</guid>
+      <pubDate>Fri, 05 Sep 2025 15:11:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
