@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 04 Sep 2025 15:01:52 +0000</lastBuildDate>
-    <item>
-      <title>拿offer、涨薪资的关键！2025名企技术高薪岗全梳理，应届生&amp;职场人速存</title>
-      <link>https://mp.weixin.qq.com/s/gDRdpQR1nqA3qDmr2DADkQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/gDRdpQR1nqA3qDmr2DADkQ</guid>
-      <pubDate>Fri, 29 Aug 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025 KCTF | 第七题《危局初现》设计思路及解析</title>
-      <link>https://mp.weixin.qq.com/s/ghFzx7-MUc2RCSlF6SuGog</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ghFzx7-MUc2RCSlF6SuGog</guid>
-      <pubDate>Fri, 29 Aug 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Win11下利用PsSyscallProviderDispatch进行进程级SSDT HOOK</title>
-      <link>https://mp.weixin.qq.com/s/5apkOC2JBI_TFRrjTq3ekA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5apkOC2JBI_TFRrjTq3ekA</guid>
-      <pubDate>Sat, 30 Aug 2025 17:35:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>68元抢《云安全技术》：不做“亡羊补牢”，要学“防患未然”</title>
-      <link>https://mp.weixin.qq.com/s/JHNqcaNIqlYIQb6IT7WkPQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/JHNqcaNIqlYIQb6IT7WkPQ</guid>
-      <pubDate>Sat, 30 Aug 2025 17:35:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 05 Sep 2025 14:58:26 +0000</lastBuildDate>
     <item>
       <title>『议题征集』倒计时15天！第九届安全开发者峰会（SDC 2025）</title>
       <link>https://mp.weixin.qq.com/s/k69D4SphwFy3DPVuNQ4EYQ</link>
@@ -127,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/4kzr7faP8IEBLHO-Xc8Akg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/4kzr7faP8IEBLHO-Xc8Akg</guid>
       <pubDate>Thu, 04 Sep 2025 18:05:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>未修补！TP-Link路由器零日漏洞影响多款热门型号</title>
+      <link>https://mp.weixin.qq.com/s/0lMEYqKwa5AP7zC01Cb2aQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0lMEYqKwa5AP7zC01Cb2aQ</guid>
+      <pubDate>Fri, 05 Sep 2025 18:08:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025大厂技术岗实时更新！企业新增职位汇总</title>
+      <link>https://mp.weixin.qq.com/s/jd6fUQiTR1ujTs3CWhgZsQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jd6fUQiTR1ujTs3CWhgZsQ</guid>
+      <pubDate>Fri, 05 Sep 2025 18:08:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>DRM 视频流程简析</title>
+      <link>https://mp.weixin.qq.com/s/22DpUXCtvulxv5zD91kTqA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/22DpUXCtvulxv5zD91kTqA</guid>
+      <pubDate>Fri, 05 Sep 2025 18:08:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>荣耀 SRC 即将亮相 SDC2025 | 年度奖励计划冲刺中，2025双11保卫战已开启</title>
+      <link>https://mp.weixin.qq.com/s/FnxfHJ4pg8xKqQjconOaOg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/FnxfHJ4pg8xKqQjconOaOg</guid>
+      <pubDate>Fri, 05 Sep 2025 18:08:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
