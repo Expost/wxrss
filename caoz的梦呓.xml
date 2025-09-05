@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 29 Aug 2025 14:29:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 14:53:54 +0000</lastBuildDate>
     <item>
       <title>抠门精出游 - 欧洲街溜子记录</title>
       <link>https://mp.weixin.qq.com/s/lV9bVn_Pv0Lt9-dd3YUFzg</link>
@@ -43,6 +43,12 @@
       <link>https://mp.weixin.qq.com/s/hJBSL8tz2UMm5bHQGMVqug</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/hJBSL8tz2UMm5bHQGMVqug</guid>
       <pubDate>Fri, 29 Aug 2025 10:49:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>再谈AI时代的平权假象</title>
+      <link>https://mp.weixin.qq.com/s/qlyGx3EY0iab8VsDsPH6zA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/qlyGx3EY0iab8VsDsPH6zA</guid>
+      <pubDate>Thu, 04 Sep 2025 23:42:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
