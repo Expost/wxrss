@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 05 Sep 2025 14:57:25 +0000</lastBuildDate>
-    <item>
-      <title>从复刻魔术开始，RoboMirage打开了机器人仿真的新世界</title>
-      <link>https://mp.weixin.qq.com/s/AOaZwl51k-nk01VbPQuXIQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AOaZwl51k-nk01VbPQuXIQ</guid>
-      <pubDate>Wed, 03 Sep 2025 12:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>ICCV 2025 | 基于时序增强关系敏感知识迁移的弱监督动态场景图生成</title>
-      <link>https://mp.weixin.qq.com/s/puIo6qZW9DWrIDKyV1V1Tg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/puIo6qZW9DWrIDKyV1V1Tg</guid>
-      <pubDate>Wed, 03 Sep 2025 16:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Anthropic承认模型降智后仍放任其偷懒？Claude Code用户信任崩塌中</title>
-      <link>https://mp.weixin.qq.com/s/i_JRga9LPHmQttonOoofNw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/i_JRga9LPHmQttonOoofNw</guid>
-      <pubDate>Wed, 03 Sep 2025 16:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，谷歌放出Nano Banana六大正宗Prompt玩法，手残党速来</title>
-      <link>https://mp.weixin.qq.com/s/AGBC2bRbGmCuOMqjSTxytw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AGBC2bRbGmCuOMqjSTxytw</guid>
-      <pubDate>Wed, 03 Sep 2025 16:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>让具身智能体拥有「空间感」！清华、北航联合提出类脑空间认知框架，导航、推理、做早餐样样精通</title>
-      <link>https://mp.weixin.qq.com/s/O5YBX8IT6Jzxd1lyJGGg2Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/O5YBX8IT6Jzxd1lyJGGg2Q</guid>
-      <pubDate>Thu, 04 Sep 2025 11:27:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>特斯拉下一代金色Optimus原型现身？一双「假手」成为最大槽点</title>
-      <link>https://mp.weixin.qq.com/s/hRIVEOObbTCcQEjttnh4gA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/hRIVEOObbTCcQEjttnh4gA</guid>
-      <pubDate>Thu, 04 Sep 2025 11:27:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Sep 2025 15:00:05 +0000</lastBuildDate>
     <item>
       <title>SIGCOMM 2025｜重新定义个性化视频体验，快手与清华联合提出灵犀系统</title>
       <link>https://mp.weixin.qq.com/s/I5hsH8N_PUMLtGYbJ6ryyA</link>
@@ -127,6 +91,42 @@
       <link>https://mp.weixin.qq.com/s/5fr705U3mOrh15EOpg9Ayw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/5fr705U3mOrh15EOpg9Ayw</guid>
       <pubDate>Fri, 05 Sep 2025 15:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>任意骨骼系统的模型都能驱动？AnimaX提出基于世界模型的3D动画生成新范式</title>
+      <link>https://mp.weixin.qq.com/s/C96-KmRbDZl_YWxNigOqMA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/C96-KmRbDZl_YWxNigOqMA</guid>
+      <pubDate>Sat, 06 Sep 2025 11:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>00后以1.1亿美金「掀桌」，硅谷AI将书写影视新传奇 终结制片旧时代</title>
+      <link>https://mp.weixin.qq.com/s/ODV7RLSUWvC5YGLkgToxuA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ODV7RLSUWvC5YGLkgToxuA</guid>
+      <pubDate>Sat, 06 Sep 2025 11:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI罕见发论文：我们找到了AI幻觉的罪魁祸首</title>
+      <link>https://mp.weixin.qq.com/s/f6pTUhzn9NjA_xWSvTmG4A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/f6pTUhzn9NjA_xWSvTmG4A</guid>
+      <pubDate>Sat, 06 Sep 2025 11:11:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>英伟达的局：狂撒15亿美元，从Lambda那租到了搭载自家AI芯片的GPU服务器</title>
+      <link>https://mp.weixin.qq.com/s/pdSY5zi2z18IFDQeIz-yTw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/pdSY5zi2z18IFDQeIz-yTw</guid>
+      <pubDate>Sat, 06 Sep 2025 14:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Anthropic被作家告了，违规下载700万本书，15亿美元和解了</title>
+      <link>https://mp.weixin.qq.com/s/d5VxPDuEwm587zhQCwtZLw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/d5VxPDuEwm587zhQCwtZLw</guid>
+      <pubDate>Sat, 06 Sep 2025 14:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>想要「版本」超车，Agent 需要怎样的「Environment」？</title>
+      <link>https://mp.weixin.qq.com/s/hyPbK4jmNekkmChcXK4DeA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/hyPbK4jmNekkmChcXK4DeA</guid>
+      <pubDate>Sat, 06 Sep 2025 15:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
