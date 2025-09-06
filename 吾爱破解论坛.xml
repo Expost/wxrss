@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 05 Sep 2025 15:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 15:03:22 +0000</lastBuildDate>
     <item>
       <title>WebAssembly 逆向工程挑战赛</title>
       <link>https://mp.weixin.qq.com/s/ADFdYMXTqbdg4CRJu09cMg</link>
@@ -37,6 +37,12 @@
       <link>https://mp.weixin.qq.com/s/74Qo-cXw3PfEyId03Ktczg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/74Qo-cXw3PfEyId03Ktczg</guid>
       <pubDate>Fri, 05 Sep 2025 08:24:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>“一款优秀的网页表格控件的逆向分析”-探讨完全AI编程实现逆向分析的可能性和价值</title>
+      <link>https://mp.weixin.qq.com/s/So5x_nLhACpcMLhYRFZUJA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/So5x_nLhACpcMLhYRFZUJA</guid>
+      <pubDate>Sat, 06 Sep 2025 08:33:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
