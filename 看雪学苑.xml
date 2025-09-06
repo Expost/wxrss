@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 05 Sep 2025 14:58:26 +0000</lastBuildDate>
-    <item>
-      <title>『议题征集』倒计时15天！第九届安全开发者峰会（SDC 2025）</title>
-      <link>https://mp.weixin.qq.com/s/k69D4SphwFy3DPVuNQ4EYQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/k69D4SphwFy3DPVuNQ4EYQ</guid>
-      <pubDate>Sun, 31 Aug 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp 修复针对 iOS 和 macOS 的零点击漏洞</title>
-      <link>https://mp.weixin.qq.com/s/FPrM1svWQW16q8JH6Nh6sg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/FPrM1svWQW16q8JH6Nh6sg</guid>
-      <pubDate>Mon, 01 Sep 2025 18:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sat, 06 Sep 2025 15:00:53 +0000</lastBuildDate>
     <item>
       <title>SDC2025「极客市集」展商招募中！探秘极客世界，共赴安全盛宴</title>
       <link>https://mp.weixin.qq.com/s/DoJjq2anpdSOhaZGolZLVw</link>
@@ -127,6 +115,18 @@
       <link>https://mp.weixin.qq.com/s/FnxfHJ4pg8xKqQjconOaOg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/FnxfHJ4pg8xKqQjconOaOg</guid>
       <pubDate>Fri, 05 Sep 2025 18:08:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧</title>
+      <link>https://mp.weixin.qq.com/s/sgrhwLwJskBQYHFdq3rBMQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/sgrhwLwJskBQYHFdq3rBMQ</guid>
+      <pubDate>Sat, 06 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>记录一款Unity il2cpp lua手游的逆向全过程</title>
+      <link>https://mp.weixin.qq.com/s/coeZ1k7k-5oRCjh72wKDNQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/coeZ1k7k-5oRCjh72wKDNQ</guid>
+      <pubDate>Sat, 06 Sep 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
