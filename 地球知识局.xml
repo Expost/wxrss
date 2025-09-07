@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 06 Sep 2025 14:58:21 +0000</lastBuildDate>
-    <item>
-      <title>特朗普，怎么突然软了？</title>
-      <link>https://mp.weixin.qq.com/s/1kY4wnDwxzQWKuQBY_1IHg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/1kY4wnDwxzQWKuQBY_1IHg</guid>
-      <pubDate>Mon, 18 Aug 2025 20:02:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Sep 2025 14:56:30 +0000</lastBuildDate>
     <item>
       <title>河北被切断的城市，太低调了</title>
       <link>https://mp.weixin.qq.com/s/mye4nOMVevLuQIw2aAh5cw</link>
@@ -127,6 +121,12 @@
       <link>https://mp.weixin.qq.com/s/fK0FRKbP5yCMsCMd4WLH_g</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/fK0FRKbP5yCMsCMd4WLH_g</guid>
       <pubDate>Sat, 06 Sep 2025 20:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>“血月”，将笼罩整个中国</title>
+      <link>https://mp.weixin.qq.com/s/pPgPIKRHk4a56gr4vlp5Lw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/pPgPIKRHk4a56gr4vlp5Lw</guid>
+      <pubDate>Sun, 07 Sep 2025 22:56:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
