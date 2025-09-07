@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 06 Sep 2025 14:57:40 +0000</lastBuildDate>
-    <item>
-      <title>他们让一串代码，追赶那颗即将引爆的心脏。</title>
-      <link>https://mp.weixin.qq.com/s/HQJEvn1ozzDaVJLl_ROnMg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HQJEvn1ozzDaVJLl_ROnMg</guid>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>车企为了让你买车，连订单数都开始瞎编了。</title>
-      <link>https://mp.weixin.qq.com/s/9l6WtT7fR9pmQgbU54OrYw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9l6WtT7fR9pmQgbU54OrYw</guid>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>微信QQ支持绑定Steam，英伟达回应芯片售罄，联通被曝支持eSIM，奥迪或将年销量目标提升至200万，这就是今天的其他大新闻！</title>
-      <link>https://mp.weixin.qq.com/s/Wf4OaDXIGsowXW9aRP8aqA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Wf4OaDXIGsowXW9aRP8aqA</guid>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>聊一聊：你是因为哪个游戏下的steam？</title>
-      <link>https://mp.weixin.qq.com/s/CzkrfNDjMj_cNN7eO2zItw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/CzkrfNDjMj_cNN7eO2zItw</guid>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>今日最佳：原来你长这样。</title>
-      <link>https://mp.weixin.qq.com/s/OuzCtFFz-fNbuJya5O-75Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/OuzCtFFz-fNbuJya5O-75Q</guid>
-      <pubDate>Thu, 04 Sep 2025 00:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 07 Sep 2025 14:56:00 +0000</lastBuildDate>
     <item>
       <title>那些自愿把脸卖给AI的人，已经后悔了。</title>
       <link>https://mp.weixin.qq.com/s/d-BsLIgfloEe-0gK4u9wAA</link>
@@ -127,6 +97,36 @@
       <link>https://mp.weixin.qq.com/s/IYt_Mr3B2kxS2yLdaKMTVQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/IYt_Mr3B2kxS2yLdaKMTVQ</guid>
       <pubDate>Sat, 06 Sep 2025 00:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>聊一聊：你换手机一般是因为啥？</title>
+      <link>https://mp.weixin.qq.com/s/UrrQ-iWV_fJV97Rwli1piQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/UrrQ-iWV_fJV97Rwli1piQ</guid>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>今日最佳：怕鬼休息一天</title>
+      <link>https://mp.weixin.qq.com/s/1Losl00_-JeDBDUt_DL2qw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/1Losl00_-JeDBDUt_DL2qw</guid>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>一代神作《方舟：生存进化》，快被自己新出的DLC搞死了？</title>
+      <link>https://mp.weixin.qq.com/s/RzfyfgTg1W1C0IEmJtZ_Qw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/RzfyfgTg1W1C0IEmJtZ_Qw</guid>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>每月都有新bug，微软啥时候才能修好Windows？</title>
+      <link>https://mp.weixin.qq.com/s/3kSPUl3NJRkR7NAVZdrS8Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/3kSPUl3NJRkR7NAVZdrS8Q</guid>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>我国规划撞击小行星，iPhone17 Air国行或缺席，OpenAI称已破解幻觉，特斯拉不再承诺无监督，这就是今天的其他大新闻！</title>
+      <link>https://mp.weixin.qq.com/s/PMBNXSGbaFtOhUlDLH5vRg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/PMBNXSGbaFtOhUlDLH5vRg</guid>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
