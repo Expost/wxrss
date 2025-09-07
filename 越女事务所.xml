@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 04 Sep 2025 14:54:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 14:53:33 +0000</lastBuildDate>
     <item>
       <title>不爽，老板要砍薪水</title>
       <link>https://mp.weixin.qq.com/s/K1gjnh-FTv2fEg-BQL6fNQ</link>
@@ -109,6 +109,12 @@
       <link>https://mp.weixin.qq.com/s/vN1Jhvu5KqsFZj2aDKFS4g</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/vN1Jhvu5KqsFZj2aDKFS4g</guid>
       <pubDate>Thu, 04 Sep 2025 21:38:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>一代人的噩梦</title>
+      <link>https://mp.weixin.qq.com/s/jBrCPlrOVD-IeKyxChK5gA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jBrCPlrOVD-IeKyxChK5gA</guid>
+      <pubDate>Sun, 07 Sep 2025 22:24:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
