@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 07 Sep 2025 14:58:02 +0000</lastBuildDate>
-    <item>
-      <title>Claude Code凭什么牛？大模型团队天天用自家产品，发现bug直接就改了</title>
-      <link>https://mp.weixin.qq.com/s/Ip8XSHi90GRQJUiQ3oAqmA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Ip8XSHi90GRQJUiQ3oAqmA</guid>
-      <pubDate>Thu, 04 Sep 2025 15:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>PosterGen：告别学术海报制作烦恼，从PDF一键生成「演示级」可编辑PPTX学术海报</title>
-      <link>https://mp.weixin.qq.com/s/CdZg7EGphyTVy3x0Hqv3bg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/CdZg7EGphyTVy3x0Hqv3bg</guid>
-      <pubDate>Thu, 04 Sep 2025 17:33:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>又多了一个哄孩子AI神器，一张破涂鸦竟能秒变迪士尼动画</title>
-      <link>https://mp.weixin.qq.com/s/5WyUp8LhXRvJ6IgKE8iUoQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5WyUp8LhXRvJ6IgKE8iUoQ</guid>
-      <pubDate>Thu, 04 Sep 2025 17:33:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，李飞飞主讲的斯坦福经典CV课「2025 CS231n」免费可看了</title>
-      <link>https://mp.weixin.qq.com/s/Vo_wxXQW-ILXHTayNzgqtQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Vo_wxXQW-ILXHTayNzgqtQ</guid>
-      <pubDate>Thu, 04 Sep 2025 17:33:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>多模态大模型持续学习系列研究，综述+Benchmark+方法+Codebase一网打尽！</title>
-      <link>https://mp.weixin.qq.com/s/FBZw95e_0WibVbV075OyCA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/FBZw95e_0WibVbV075OyCA</guid>
-      <pubDate>Fri, 05 Sep 2025 12:28:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>沉寂一个月，openPangu性能飙升8%！华为1B开源模型来了</title>
-      <link>https://mp.weixin.qq.com/s/Ty7g5sLqgCgWQaYENAVm0A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Ty7g5sLqgCgWQaYENAVm0A</guid>
-      <pubDate>Fri, 05 Sep 2025 12:28:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Nano Banana爆火之后，一个神秘的「胡萝卜」代码模型又上线了</title>
-      <link>https://mp.weixin.qq.com/s/lPhqjD-xYFlYB0nC9x9lxA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/lPhqjD-xYFlYB0nC9x9lxA</guid>
-      <pubDate>Fri, 05 Sep 2025 12:28:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 14:59:34 +0000</lastBuildDate>
     <item>
       <title>不止会动嘴，还会「思考」！字节跳动发布OmniHuman-1.5，让虚拟人拥有逻辑灵魂</title>
       <link>https://mp.weixin.qq.com/s/zTsVDez9MAZgkxD55gVpuw</link>
@@ -127,6 +85,48 @@
       <link>https://mp.weixin.qq.com/s/w2MqwtrABzXFsliGpen9LA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/w2MqwtrABzXFsliGpen9LA</guid>
       <pubDate>Sun, 07 Sep 2025 16:20:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>空间智能新高度：港科大谭平团队SAIL-Recon突破万帧级图像大规模3D场景重建Transformer</title>
+      <link>https://mp.weixin.qq.com/s/5CZFIhy-mAia8gIw0SsDug</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5CZFIhy-mAia8gIw0SsDug</guid>
+      <pubDate>Mon, 08 Sep 2025 09:21:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>具身VLA后训练：TeleAI提出潜空间引导的VLA跨本体泛化方法</title>
+      <link>https://mp.weixin.qq.com/s/NChG3VeyMaKhJi61X_ON_A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NChG3VeyMaKhJi61X_ON_A</guid>
+      <pubDate>Mon, 08 Sep 2025 14:20:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>扎克伯格的豪赌初见成效？Meta新方法让LLM长上下文处理提速30倍</title>
+      <link>https://mp.weixin.qq.com/s/q-T8xtQNqmqj6PkXfASBsA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/q-T8xtQNqmqj6PkXfASBsA</guid>
+      <pubDate>Mon, 08 Sep 2025 14:20:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球图生视频榜单第一，爱诗科技PixVerse V5如何改变一亿用户的视频创作</title>
+      <link>https://mp.weixin.qq.com/s/Sk5lEfj-1R5zhV6tNVPI2A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Sk5lEfj-1R5zhV6tNVPI2A</guid>
+      <pubDate>Mon, 08 Sep 2025 14:20:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>字节Seedream 4.0将全量开放！抢先评测来了，我们摸索出AI生图20种「邪修」玩法</title>
+      <link>https://mp.weixin.qq.com/s/m6NMdvxyS_eFxdG3T3wGNg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/m6NMdvxyS_eFxdG3T3wGNg</guid>
+      <pubDate>Mon, 08 Sep 2025 17:17:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>从「会说」迈向「会做」，LLM下半场：Agentic强化学习范式综述</title>
+      <link>https://mp.weixin.qq.com/s/4pxol6OmgXAlzsj_Zx5yQA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/4pxol6OmgXAlzsj_Zx5yQA</guid>
+      <pubDate>Mon, 08 Sep 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Hinton自曝：前女友提分手，用ChatGPT列出自己「七宗罪」</title>
+      <link>https://mp.weixin.qq.com/s/GkthzDcnDYLCo_-UeaA2Rw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/GkthzDcnDYLCo_-UeaA2Rw</guid>
+      <pubDate>Mon, 08 Sep 2025 18:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
