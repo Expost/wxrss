@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 07 Sep 2025 15:00:54 +0000</lastBuildDate>
-    <item>
-      <title>论宜居，这里是天花板！</title>
-      <link>https://mp.weixin.qq.com/s/YXgxKx127j-0cHjrshnWUg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/YXgxKx127j-0cHjrshnWUg</guid>
-      <pubDate>Wed, 27 Aug 2025 17:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>“诺亚方舟”真的存在！</title>
-      <link>https://mp.weixin.qq.com/s/67QJLl4FclPIZsiXWlnpVQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/67QJLl4FclPIZsiXWlnpVQ</guid>
-      <pubDate>Thu, 28 Aug 2025 17:01:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 15:03:58 +0000</lastBuildDate>
     <item>
       <title>雅安，必经之地</title>
       <link>https://mp.weixin.qq.com/s/-isxntrfGFIXSCASXftD0Q</link>
@@ -127,6 +115,18 @@
       <link>https://mp.weixin.qq.com/s/L7uskaegrvz80vvM1mSFLw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/L7uskaegrvz80vvM1mSFLw</guid>
       <pubDate>Sun, 07 Sep 2025 09:06:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>开学前吃顿“鸳鸯锅”！</title>
+      <link>https://mp.weixin.qq.com/s/4Qu4mee2tRzdsQEDIAT7UQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/4Qu4mee2tRzdsQEDIAT7UQ</guid>
+      <pubDate>Mon, 08 Sep 2025 17:12:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>击败南方的水果大省，有多甜?</title>
+      <link>https://mp.weixin.qq.com/s/4TjNVXNxlwCD8i81IxHx7g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/4TjNVXNxlwCD8i81IxHx7g</guid>
+      <pubDate>Mon, 08 Sep 2025 17:12:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
