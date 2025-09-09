@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 08 Sep 2025 15:00:29 +0000</lastBuildDate>
-    <item>
-      <title>CVSS 评分9.8！高通两严重漏洞或致设备远程被控</title>
-      <link>https://mp.weixin.qq.com/s/sgQhQe3wefj1Yq2uM5PF5w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/sgQhQe3wefj1Yq2uM5PF5w</guid>
-      <pubDate>Tue, 02 Sep 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>【报名中】2025Inclusion·外滩大会“AI驱动的变革与挑战：重构网络安全的未来边界” 见解论坛</title>
-      <link>https://mp.weixin.qq.com/s/e184GSTSfdtLE3WgYC1gAA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/e184GSTSfdtLE3WgYC1gAA</guid>
-      <pubDate>Tue, 02 Sep 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025 KCTF | 第九题《智斗邪首》设计思路及解析</title>
-      <link>https://mp.weixin.qq.com/s/MNVOD7XfCXuTLDNE3qdt-A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/MNVOD7XfCXuTLDNE3qdt-A</guid>
-      <pubDate>Tue, 02 Sep 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025 KCTF 第十题战况 | 即将完赛！COMPASS 拿下本题“一血”</title>
-      <link>https://mp.weixin.qq.com/s/1RE-wLCFWMLuAzeDys_uEg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/1RE-wLCFWMLuAzeDys_uEg</guid>
-      <pubDate>Wed, 03 Sep 2025 18:05:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 15:00:16 +0000</lastBuildDate>
     <item>
       <title>捷豹路虎遇网络攻击，全球 IT 系统陷瘫痪，生产受阻</title>
       <link>https://mp.weixin.qq.com/s/-izxkYH-97dMvOFbvPWgBA</link>
@@ -127,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/prU9qjV_dadcn_drYx9-7A</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/prU9qjV_dadcn_drYx9-7A</guid>
       <pubDate>Mon, 08 Sep 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>国产大模型 Deepseek实战：10节课精通大语言模型安全应用开发</title>
+      <link>https://mp.weixin.qq.com/s/2XLDzPp-xkzz700HIHnE4Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2XLDzPp-xkzz700HIHnE4Q</guid>
+      <pubDate>Tue, 09 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Magento 现史上最严重漏洞之一，Adobe 火速推补丁</title>
+      <link>https://mp.weixin.qq.com/s/1bPTwx21c_tst7TZ8pZoaw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/1bPTwx21c_tst7TZ8pZoaw</guid>
+      <pubDate>Tue, 09 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>R0下不一样的SSDT Hook</title>
+      <link>https://mp.weixin.qq.com/s/9rLjUWbV7uIi7sCwRZQmQg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9rLjUWbV7uIi7sCwRZQmQg</guid>
+      <pubDate>Tue, 09 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025 KCTF 大赛终极对决落幕：166支战队激战21天，获奖战队公布</title>
+      <link>https://mp.weixin.qq.com/s/bg2egCcxavK0hA9l-_UoUA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/bg2egCcxavK0hA9l-_UoUA</guid>
+      <pubDate>Tue, 09 Sep 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
