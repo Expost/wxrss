@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 08 Sep 2025 14:59:34 +0000</lastBuildDate>
-    <item>
-      <title>不止会动嘴，还会「思考」！字节跳动发布OmniHuman-1.5，让虚拟人拥有逻辑灵魂</title>
-      <link>https://mp.weixin.qq.com/s/zTsVDez9MAZgkxD55gVpuw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/zTsVDez9MAZgkxD55gVpuw</guid>
-      <pubDate>Fri, 05 Sep 2025 15:11:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>被网友逼着改名的谷歌Nano Banana，正在抢99%时尚博主的饭碗</title>
-      <link>https://mp.weixin.qq.com/s/5fr705U3mOrh15EOpg9Ayw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5fr705U3mOrh15EOpg9Ayw</guid>
-      <pubDate>Fri, 05 Sep 2025 15:11:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>任意骨骼系统的模型都能驱动？AnimaX提出基于世界模型的3D动画生成新范式</title>
-      <link>https://mp.weixin.qq.com/s/C96-KmRbDZl_YWxNigOqMA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/C96-KmRbDZl_YWxNigOqMA</guid>
-      <pubDate>Sat, 06 Sep 2025 11:11:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>00后以1.1亿美金「掀桌」，硅谷AI将书写影视新传奇 终结制片旧时代</title>
-      <link>https://mp.weixin.qq.com/s/ODV7RLSUWvC5YGLkgToxuA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ODV7RLSUWvC5YGLkgToxuA</guid>
-      <pubDate>Sat, 06 Sep 2025 11:11:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>OpenAI罕见发论文：我们找到了AI幻觉的罪魁祸首</title>
-      <link>https://mp.weixin.qq.com/s/f6pTUhzn9NjA_xWSvTmG4A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/f6pTUhzn9NjA_xWSvTmG4A</guid>
-      <pubDate>Sat, 06 Sep 2025 11:11:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>英伟达的局：狂撒15亿美元，从Lambda那租到了搭载自家AI芯片的GPU服务器</title>
-      <link>https://mp.weixin.qq.com/s/pdSY5zi2z18IFDQeIz-yTw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/pdSY5zi2z18IFDQeIz-yTw</guid>
-      <pubDate>Sat, 06 Sep 2025 14:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 09 Sep 2025 14:59:28 +0000</lastBuildDate>
     <item>
       <title>Anthropic被作家告了，违规下载700万本书，15亿美元和解了</title>
       <link>https://mp.weixin.qq.com/s/d5VxPDuEwm587zhQCwtZLw</link>
@@ -127,6 +91,42 @@
       <link>https://mp.weixin.qq.com/s/GkthzDcnDYLCo_-UeaA2Rw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/GkthzDcnDYLCo_-UeaA2Rw</guid>
       <pubDate>Mon, 08 Sep 2025 18:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Altman亲自发博客点赞，这两大杰出人才是谁？</title>
+      <link>https://mp.weixin.qq.com/s/zV3CYpWMY_8ZUfcv8VVyKA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/zV3CYpWMY_8ZUfcv8VVyKA</guid>
+      <pubDate>Tue, 09 Sep 2025 14:44:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>DPad: 扩散大语言模型的中庸之道，杜克大学陈怡然团队免训推理加速61倍</title>
+      <link>https://mp.weixin.qq.com/s/43x8EX8EER-68eFVCgXRew</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/43x8EX8EER-68eFVCgXRew</guid>
+      <pubDate>Tue, 09 Sep 2025 16:56:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>硅谷也996实锤了？AI的火，烧掉了硅谷的周末</title>
+      <link>https://mp.weixin.qq.com/s/QNpqA_UYUPVyl6kYY7QE6Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/QNpqA_UYUPVyl6kYY7QE6Q</guid>
+      <pubDate>Tue, 09 Sep 2025 16:56:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>从第一性原理出发的RAG推理新范式来了，蚂蚁DIVER登顶权威基准</title>
+      <link>https://mp.weixin.qq.com/s/Oe8pg3yD06h0Bwh7_35Zaw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Oe8pg3yD06h0Bwh7_35Zaw</guid>
+      <pubDate>Tue, 09 Sep 2025 19:44:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>SFT远不如RL？永不过时的剃刀原则打开「终身学习」大模型训练的大门</title>
+      <link>https://mp.weixin.qq.com/s/yNufp4GxLVKWJMmpusYWwQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/yNufp4GxLVKWJMmpusYWwQ</guid>
+      <pubDate>Tue, 09 Sep 2025 19:44:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>文心新出的推理大模型，给了我们信心</title>
+      <link>https://mp.weixin.qq.com/s/8OtoVFCLLYLSY3MWuofdyw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8OtoVFCLLYLSY3MWuofdyw</guid>
+      <pubDate>Tue, 09 Sep 2025 19:44:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
