@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 08 Sep 2025 15:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 15:04:05 +0000</lastBuildDate>
     <item>
       <title>WebAssembly 逆向工程挑战赛</title>
       <link>https://mp.weixin.qq.com/s/ADFdYMXTqbdg4CRJu09cMg</link>
@@ -55,6 +55,12 @@
       <link>https://mp.weixin.qq.com/s/2YaxMSimbffbXcyiomKzPg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/2YaxMSimbffbXcyiomKzPg</guid>
       <pubDate>Mon, 08 Sep 2025 14:48:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>【Web逆向】极验4代 九宫格协议分析</title>
+      <link>https://mp.weixin.qq.com/s/bSrpmtk1eKikCitb3OvTUA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/bSrpmtk1eKikCitb3OvTUA</guid>
+      <pubDate>Tue, 09 Sep 2025 15:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
