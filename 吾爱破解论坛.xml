@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 09 Sep 2025 15:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 15:02:56 +0000</lastBuildDate>
     <item>
       <title>WebAssembly 逆向工程挑战赛</title>
       <link>https://mp.weixin.qq.com/s/ADFdYMXTqbdg4CRJu09cMg</link>
@@ -61,6 +61,12 @@
       <link>https://mp.weixin.qq.com/s/bSrpmtk1eKikCitb3OvTUA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/bSrpmtk1eKikCitb3OvTUA</guid>
       <pubDate>Tue, 09 Sep 2025 15:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>（图作者 | @Aoemax）</title>
+      <link>https://mp.weixin.qq.com/s/Lt0m4zauMPntwkgpIxhuSw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Lt0m4zauMPntwkgpIxhuSw</guid>
+      <pubDate>Wed, 10 Sep 2025 23:02:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
