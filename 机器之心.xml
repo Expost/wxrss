@@ -7,55 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 09 Sep 2025 14:59:28 +0000</lastBuildDate>
-    <item>
-      <title>Anthropic被作家告了，违规下载700万本书，15亿美元和解了</title>
-      <link>https://mp.weixin.qq.com/s/d5VxPDuEwm587zhQCwtZLw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/d5VxPDuEwm587zhQCwtZLw</guid>
-      <pubDate>Sat, 06 Sep 2025 14:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>想要「版本」超车，Agent 需要怎样的「Environment」？</title>
-      <link>https://mp.weixin.qq.com/s/hyPbK4jmNekkmChcXK4DeA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/hyPbK4jmNekkmChcXK4DeA</guid>
-      <pubDate>Sat, 06 Sep 2025 15:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>字节跳动Seed推出「机器人大脑」Robix：让机器人学会思考、规划与灵活互动</title>
-      <link>https://mp.weixin.qq.com/s/S2TY124YgC7sx1VkVZviXg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/S2TY124YgC7sx1VkVZviXg</guid>
-      <pubDate>Sun, 07 Sep 2025 13:11:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>斯坦福：优化器「诸神之战」？AdamW 凭「稳定」胜出</title>
-      <link>https://mp.weixin.qq.com/s/zC9waUxOwPT-m6QN-8IPuA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/zC9waUxOwPT-m6QN-8IPuA</guid>
-      <pubDate>Sun, 07 Sep 2025 13:11:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>国内外AI大厂重押，初创梭哈，谁能凭「记忆」成为下一个「DeepSeek」？</title>
-      <link>https://mp.weixin.qq.com/s/HYoyAJ5tV5FivXqeL0Vqjw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HYoyAJ5tV5FivXqeL0Vqjw</guid>
-      <pubDate>Sun, 07 Sep 2025 13:11:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>SceneSplat: 基于3DGS的场景理解和视觉语言预训练，让3D高斯「听懂人话」的一跃</title>
-      <link>https://mp.weixin.qq.com/s/_yKgZrDx8BcN9RHJMMVJlw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_yKgZrDx8BcN9RHJMMVJlw</guid>
-      <pubDate>Sun, 07 Sep 2025 16:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Claude不让我们用！国产平替能顶上吗？</title>
-      <link>https://mp.weixin.qq.com/s/w2MqwtrABzXFsliGpen9LA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/w2MqwtrABzXFsliGpen9LA</guid>
-      <pubDate>Sun, 07 Sep 2025 16:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>空间智能新高度：港科大谭平团队SAIL-Recon突破万帧级图像大规模3D场景重建Transformer</title>
-      <link>https://mp.weixin.qq.com/s/5CZFIhy-mAia8gIw0SsDug</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5CZFIhy-mAia8gIw0SsDug</guid>
-      <pubDate>Mon, 08 Sep 2025 09:21:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Sep 2025 14:58:24 +0000</lastBuildDate>
     <item>
       <title>具身VLA后训练：TeleAI提出潜空间引导的VLA跨本体泛化方法</title>
       <link>https://mp.weixin.qq.com/s/NChG3VeyMaKhJi61X_ON_A</link>
@@ -127,6 +79,54 @@
       <link>https://mp.weixin.qq.com/s/8OtoVFCLLYLSY3MWuofdyw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/8OtoVFCLLYLSY3MWuofdyw</guid>
       <pubDate>Tue, 09 Sep 2025 19:44:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>苹果发布会：耳机测心率、手表听音乐、iPhone Air超级薄</title>
+      <link>https://mp.weixin.qq.com/s/wEtHapTtt4Ie30eafx3oyA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/wEtHapTtt4Ie30eafx3oyA</guid>
+      <pubDate>Wed, 10 Sep 2025 07:21:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>人人都能炼专属Agent，上海交大开源端侧Agent全栈工具链，真实场景性能超GPT-5！</title>
+      <link>https://mp.weixin.qq.com/s/ylbyEGyj3-kl7Ta6a4OPUw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ylbyEGyj3-kl7Ta6a4OPUw</guid>
+      <pubDate>Wed, 10 Sep 2025 12:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI胡说八道这事，终于有人管了？</title>
+      <link>https://mp.weixin.qq.com/s/sYLvDQ7p7jjQcctGyA5hFg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/sYLvDQ7p7jjQcctGyA5hFg</guid>
+      <pubDate>Wed, 10 Sep 2025 12:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI应用元年，这场标杆赛事见证了中国创新速度与野心</title>
+      <link>https://mp.weixin.qq.com/s/IoojnACLPm3UbjkIm0evjQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/IoojnACLPm3UbjkIm0evjQ</guid>
+      <pubDate>Wed, 10 Sep 2025 12:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>谷歌AI新里程碑：一个能「做研究」的系统诞生了，用LLM+树搜索编写专家级软件</title>
+      <link>https://mp.weixin.qq.com/s/iwm-a9-Xv717rmwUF2L32g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/iwm-a9-Xv717rmwUF2L32g</guid>
+      <pubDate>Wed, 10 Sep 2025 16:14:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>英伟达下一代GPU登场，Rubin CPX一次推理数百万Token，网友：这是头野兽</title>
+      <link>https://mp.weixin.qq.com/s/f0p0o5Vvq0v4TpV14vZZyA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/f0p0o5Vvq0v4TpV14vZZyA</guid>
+      <pubDate>Wed, 10 Sep 2025 16:14:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CoRL 2025 | 港大InfoBodied AI团队首发具身表征新范式，构建任务自适应的感知框架</title>
+      <link>https://mp.weixin.qq.com/s/0wE3K6bMR--LiubKs5ucIA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0wE3K6bMR--LiubKs5ucIA</guid>
+      <pubDate>Wed, 10 Sep 2025 19:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>00后挑大梁！近20国选手激战外滩大会，AI科创赛三赛道冠军诞生</title>
+      <link>https://mp.weixin.qq.com/s/zT5V7fjdo3f3Fwbtw7H8Fw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/zT5V7fjdo3f3Fwbtw7H8Fw</guid>
+      <pubDate>Wed, 10 Sep 2025 19:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
