@@ -7,43 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 10 Sep 2025 14:58:24 +0000</lastBuildDate>
-    <item>
-      <title>具身VLA后训练：TeleAI提出潜空间引导的VLA跨本体泛化方法</title>
-      <link>https://mp.weixin.qq.com/s/NChG3VeyMaKhJi61X_ON_A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NChG3VeyMaKhJi61X_ON_A</guid>
-      <pubDate>Mon, 08 Sep 2025 14:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>扎克伯格的豪赌初见成效？Meta新方法让LLM长上下文处理提速30倍</title>
-      <link>https://mp.weixin.qq.com/s/q-T8xtQNqmqj6PkXfASBsA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/q-T8xtQNqmqj6PkXfASBsA</guid>
-      <pubDate>Mon, 08 Sep 2025 14:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>全球图生视频榜单第一，爱诗科技PixVerse V5如何改变一亿用户的视频创作</title>
-      <link>https://mp.weixin.qq.com/s/Sk5lEfj-1R5zhV6tNVPI2A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Sk5lEfj-1R5zhV6tNVPI2A</guid>
-      <pubDate>Mon, 08 Sep 2025 14:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>字节Seedream 4.0将全量开放！抢先评测来了，我们摸索出AI生图20种「邪修」玩法</title>
-      <link>https://mp.weixin.qq.com/s/m6NMdvxyS_eFxdG3T3wGNg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/m6NMdvxyS_eFxdG3T3wGNg</guid>
-      <pubDate>Mon, 08 Sep 2025 17:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>从「会说」迈向「会做」，LLM下半场：Agentic强化学习范式综述</title>
-      <link>https://mp.weixin.qq.com/s/4pxol6OmgXAlzsj_Zx5yQA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/4pxol6OmgXAlzsj_Zx5yQA</guid>
-      <pubDate>Mon, 08 Sep 2025 18:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Hinton自曝：前女友提分手，用ChatGPT列出自己「七宗罪」</title>
-      <link>https://mp.weixin.qq.com/s/GkthzDcnDYLCo_-UeaA2Rw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/GkthzDcnDYLCo_-UeaA2Rw</guid>
-      <pubDate>Mon, 08 Sep 2025 18:30:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Sep 2025 15:00:59 +0000</lastBuildDate>
     <item>
       <title>Altman亲自发博客点赞，这两大杰出人才是谁？</title>
       <link>https://mp.weixin.qq.com/s/zV3CYpWMY_8ZUfcv8VVyKA</link>
@@ -127,6 +91,42 @@
       <link>https://mp.weixin.qq.com/s/zT5V7fjdo3f3Fwbtw7H8Fw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/zT5V7fjdo3f3Fwbtw7H8Fw</guid>
       <pubDate>Wed, 10 Sep 2025 19:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>大模型智能体不止能写代码，还能被训练成白帽黑客</title>
+      <link>https://mp.weixin.qq.com/s/uKZVy3CzPcqK_iCNzfxm0g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/uKZVy3CzPcqK_iCNzfxm0g</guid>
+      <pubDate>Thu, 11 Sep 2025 11:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>英伟达的AI已经开始接管整个项目了？SATLUTION自主进化代码库登顶SAT竞赛</title>
+      <link>https://mp.weixin.qq.com/s/6nlr6RUS71uI2PrDLKQhgw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/6nlr6RUS71uI2PrDLKQhgw</guid>
+      <pubDate>Thu, 11 Sep 2025 11:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，Thinking Machines Lab首次发长文，揭开LLM推理不确定性真相</title>
+      <link>https://mp.weixin.qq.com/s/Xv32OYDaH0aN2_LWLP9A-Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Xv32OYDaH0aN2_LWLP9A-Q</guid>
+      <pubDate>Thu, 11 Sep 2025 11:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>交互扩展时代来临:创智复旦字节重磅发布AgentGym-RL，昇腾加持，开创智能体训练新范式</title>
+      <link>https://mp.weixin.qq.com/s/_s1c2uj8B9u-i7wgoM2gwA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_s1c2uj8B9u-i7wgoM2gwA</guid>
+      <pubDate>Thu, 11 Sep 2025 12:53:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>攻克大模型「表格盲区」！ST-Raptor框架发布，实现复杂半结构化表格的精准理解与信息抽取</title>
+      <link>https://mp.weixin.qq.com/s/_JGJLEVfd5FlWuT8yqEvIA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_JGJLEVfd5FlWuT8yqEvIA</guid>
+      <pubDate>Thu, 11 Sep 2025 15:12:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>3000亿美元OpenAI大单，让世界首富位置换人了</title>
+      <link>https://mp.weixin.qq.com/s/vtEQhFDTHF0oA7fFQlSXiQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/vtEQhFDTHF0oA7fFQlSXiQ</guid>
+      <pubDate>Thu, 11 Sep 2025 15:12:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
