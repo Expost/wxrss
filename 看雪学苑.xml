@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 11 Sep 2025 15:01:40 +0000</lastBuildDate>
-    <item>
-      <title>2025 KCTF | 第十题《涅磐，亦是新生》设计思路及解析</title>
-      <link>https://mp.weixin.qq.com/s/4kzr7faP8IEBLHO-Xc8Akg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/4kzr7faP8IEBLHO-Xc8Akg</guid>
-      <pubDate>Thu, 04 Sep 2025 18:05:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>未修补！TP-Link路由器零日漏洞影响多款热门型号</title>
-      <link>https://mp.weixin.qq.com/s/0lMEYqKwa5AP7zC01Cb2aQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0lMEYqKwa5AP7zC01Cb2aQ</guid>
-      <pubDate>Fri, 05 Sep 2025 18:08:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025大厂技术岗实时更新！企业新增职位汇总</title>
-      <link>https://mp.weixin.qq.com/s/jd6fUQiTR1ujTs3CWhgZsQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jd6fUQiTR1ujTs3CWhgZsQ</guid>
-      <pubDate>Fri, 05 Sep 2025 18:08:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>DRM 视频流程简析</title>
-      <link>https://mp.weixin.qq.com/s/22DpUXCtvulxv5zD91kTqA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/22DpUXCtvulxv5zD91kTqA</guid>
-      <pubDate>Fri, 05 Sep 2025 18:08:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Sep 2025 14:58:08 +0000</lastBuildDate>
     <item>
       <title>荣耀 SRC 即将亮相 SDC2025 | 年度奖励计划冲刺中，2025双11保卫战已开启</title>
       <link>https://mp.weixin.qq.com/s/FnxfHJ4pg8xKqQjconOaOg</link>
@@ -127,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/gsR16D6tWRdgfBdxD2SXfg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/gsR16D6tWRdgfBdxD2SXfg</guid>
       <pubDate>Thu, 11 Sep 2025 18:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>苹果警告：多起雇佣间谍软件攻击瞄准用户设备</title>
+      <link>https://mp.weixin.qq.com/s/Q7LBv6nVqshtcLQeN-TRKA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Q7LBv6nVqshtcLQeN-TRKA</guid>
+      <pubDate>Fri, 12 Sep 2025 18:06:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025大厂技术岗实时更新！企业新增职位汇总</title>
+      <link>https://mp.weixin.qq.com/s/dZkPDO-ZF4UG-avJAnw8ug</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/dZkPDO-ZF4UG-avJAnw8ug</guid>
+      <pubDate>Fri, 12 Sep 2025 18:06:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Apatch内核模块之svc监控和栈回溯</title>
+      <link>https://mp.weixin.qq.com/s/L2_k-ve4VO9N6Kz2b5jNBg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/L2_k-ve4VO9N6Kz2b5jNBg</guid>
+      <pubDate>Fri, 12 Sep 2025 18:06:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>智能时代·可信安全 | 弦盾科技，助力第九届安全开发者峰会（SDC2025）</title>
+      <link>https://mp.weixin.qq.com/s/1Jnv5259ARD66Ad73BjeUw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/1Jnv5259ARD66Ad73BjeUw</guid>
+      <pubDate>Fri, 12 Sep 2025 18:06:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
