@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 11 Sep 2025 15:00:59 +0000</lastBuildDate>
-    <item>
-      <title>Altman亲自发博客点赞，这两大杰出人才是谁？</title>
-      <link>https://mp.weixin.qq.com/s/zV3CYpWMY_8ZUfcv8VVyKA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/zV3CYpWMY_8ZUfcv8VVyKA</guid>
-      <pubDate>Tue, 09 Sep 2025 14:44:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>DPad: 扩散大语言模型的中庸之道，杜克大学陈怡然团队免训推理加速61倍</title>
-      <link>https://mp.weixin.qq.com/s/43x8EX8EER-68eFVCgXRew</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/43x8EX8EER-68eFVCgXRew</guid>
-      <pubDate>Tue, 09 Sep 2025 16:56:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>硅谷也996实锤了？AI的火，烧掉了硅谷的周末</title>
-      <link>https://mp.weixin.qq.com/s/QNpqA_UYUPVyl6kYY7QE6Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/QNpqA_UYUPVyl6kYY7QE6Q</guid>
-      <pubDate>Tue, 09 Sep 2025 16:56:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>从第一性原理出发的RAG推理新范式来了，蚂蚁DIVER登顶权威基准</title>
-      <link>https://mp.weixin.qq.com/s/Oe8pg3yD06h0Bwh7_35Zaw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Oe8pg3yD06h0Bwh7_35Zaw</guid>
-      <pubDate>Tue, 09 Sep 2025 19:44:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>SFT远不如RL？永不过时的剃刀原则打开「终身学习」大模型训练的大门</title>
-      <link>https://mp.weixin.qq.com/s/yNufp4GxLVKWJMmpusYWwQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/yNufp4GxLVKWJMmpusYWwQ</guid>
-      <pubDate>Tue, 09 Sep 2025 19:44:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>文心新出的推理大模型，给了我们信心</title>
-      <link>https://mp.weixin.qq.com/s/8OtoVFCLLYLSY3MWuofdyw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8OtoVFCLLYLSY3MWuofdyw</guid>
-      <pubDate>Tue, 09 Sep 2025 19:44:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>苹果发布会：耳机测心率、手表听音乐、iPhone Air超级薄</title>
-      <link>https://mp.weixin.qq.com/s/wEtHapTtt4Ie30eafx3oyA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/wEtHapTtt4Ie30eafx3oyA</guid>
-      <pubDate>Wed, 10 Sep 2025 07:21:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Sep 2025 14:57:20 +0000</lastBuildDate>
     <item>
       <title>人人都能炼专属Agent，上海交大开源端侧Agent全栈工具链，真实场景性能超GPT-5！</title>
       <link>https://mp.weixin.qq.com/s/ylbyEGyj3-kl7Ta6a4OPUw</link>
@@ -127,6 +85,48 @@
       <link>https://mp.weixin.qq.com/s/vtEQhFDTHF0oA7fFQlSXiQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/vtEQhFDTHF0oA7fFQlSXiQ</guid>
       <pubDate>Thu, 11 Sep 2025 15:12:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>告别错误累计与噪声干扰，EviNote-RAG 开启 RAG 新范式</title>
+      <link>https://mp.weixin.qq.com/s/FOo38trc3OSEx2EXqVwyFA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/FOo38trc3OSEx2EXqVwyFA</guid>
+      <pubDate>Fri, 12 Sep 2025 08:51:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>全新MoE架构！阿里开源Qwen3-Next，训练成本直降9成</title>
+      <link>https://mp.weixin.qq.com/s/0vxwsFo1cAcLluBgz8UvTg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0vxwsFo1cAcLluBgz8UvTg</guid>
+      <pubDate>Fri, 12 Sep 2025 08:51:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>姚顺雨离职OpenAI，「亿元入职腾讯」传闻引爆AI圈，鹅厂辟谣了</title>
+      <link>https://mp.weixin.qq.com/s/Q-NT5y6M1snOVR9DrhhIWg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Q-NT5y6M1snOVR9DrhhIWg</guid>
+      <pubDate>Fri, 12 Sep 2025 10:17:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>腾讯优图重磅开源Youtu-GraphRAG，实现图检索增强技术新突破</title>
+      <link>https://mp.weixin.qq.com/s/vm6yuZi4PIs2wizycnnfRg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/vm6yuZi4PIs2wizycnnfRg</guid>
+      <pubDate>Fri, 12 Sep 2025 19:28:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>如何为LLM智能体编写工具？Anthropic官方教程来了</title>
+      <link>https://mp.weixin.qq.com/s/Kix0pLGJPd9m0X3zAS7m6Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Kix0pLGJPd9m0X3zAS7m6Q</guid>
+      <pubDate>Fri, 12 Sep 2025 19:28:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>扩散语言模型也有MoE版本了！蚂蚁&amp;人大从头训练LLaDA-MoE，即将完全开源</title>
+      <link>https://mp.weixin.qq.com/s/-WPNt0QMgfTH1JeYew468A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-WPNt0QMgfTH1JeYew468A</guid>
+      <pubDate>Fri, 12 Sep 2025 19:28:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>自适应快慢思考，华为openPangu-Embedded-7B-V1.1刚开源了</title>
+      <link>https://mp.weixin.qq.com/s/e1dHT3yOAIM-O1g9Tj3g6w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/e1dHT3yOAIM-O1g9Tj3g6w</guid>
+      <pubDate>Fri, 12 Sep 2025 22:56:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
