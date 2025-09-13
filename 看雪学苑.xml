@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 12 Sep 2025 14:58:08 +0000</lastBuildDate>
-    <item>
-      <title>荣耀 SRC 即将亮相 SDC2025 | 年度奖励计划冲刺中，2025双11保卫战已开启</title>
-      <link>https://mp.weixin.qq.com/s/FnxfHJ4pg8xKqQjconOaOg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/FnxfHJ4pg8xKqQjconOaOg</guid>
-      <pubDate>Fri, 05 Sep 2025 18:08:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>3个月直通大厂高新岗位！全程实战案例解析，掌握高危漏洞攻防技巧</title>
-      <link>https://mp.weixin.qq.com/s/sgrhwLwJskBQYHFdq3rBMQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/sgrhwLwJskBQYHFdq3rBMQ</guid>
-      <pubDate>Sat, 06 Sep 2025 17:59:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Sep 2025 14:58:09 +0000</lastBuildDate>
     <item>
       <title>记录一款Unity il2cpp lua手游的逆向全过程</title>
       <link>https://mp.weixin.qq.com/s/coeZ1k7k-5oRCjh72wKDNQ</link>
@@ -127,6 +115,18 @@
       <link>https://mp.weixin.qq.com/s/1Jnv5259ARD66Ad73BjeUw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/1Jnv5259ARD66Ad73BjeUw</guid>
       <pubDate>Fri, 12 Sep 2025 18:06:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>《进阶逆向工程实战》：解锁逆向技术的全链路实战能力</title>
+      <link>https://mp.weixin.qq.com/s/MI_aZhAt9GGKuCXpOhnC4A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/MI_aZhAt9GGKuCXpOhnC4A</guid>
+      <pubDate>Sat, 13 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Dropping-elephant rat恶意样本分析</title>
+      <link>https://mp.weixin.qq.com/s/VwDmH-vZNOPTQbKGmAbBtQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/VwDmH-vZNOPTQbKGmAbBtQ</guid>
+      <pubDate>Sat, 13 Sep 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
