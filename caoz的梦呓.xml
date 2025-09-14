@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 13 Sep 2025 14:54:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 14:57:14 +0000</lastBuildDate>
     <item>
       <title>抠门精出游 - 欧洲街溜子记录</title>
       <link>https://mp.weixin.qq.com/s/lV9bVn_Pv0Lt9-dd3YUFzg</link>
@@ -55,6 +55,12 @@
       <link>https://mp.weixin.qq.com/s/S_6JK0DLA1Gz_zxAZ8KSxw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/S_6JK0DLA1Gz_zxAZ8KSxw</guid>
       <pubDate>Sat, 13 Sep 2025 12:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI零代码编程-你不死磕，它就逃避</title>
+      <link>https://mp.weixin.qq.com/s/nEb3Br7kDoKU4iaavB8QcA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/nEb3Br7kDoKU4iaavB8QcA</guid>
+      <pubDate>Sun, 14 Sep 2025 21:14:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
