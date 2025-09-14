@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 13 Sep 2025 14:55:33 +0000</lastBuildDate>
-    <item>
-      <title>一张图带你看苹果2025秋季发布会</title>
-      <link>https://mp.weixin.qq.com/s/_IIextS7L6vS5eGsoPOG_g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_IIextS7L6vS5eGsoPOG_g</guid>
-      <pubDate>Wed, 10 Sep 2025 07:41:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>加量不加价！iPhone 17 就是这几年最值得买的 iPhone。</title>
-      <link>https://mp.weixin.qq.com/s/OC-mV5u8tMNdzcKfpXS0Ww</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/OC-mV5u8tMNdzcKfpXS0Ww</guid>
-      <pubDate>Wed, 10 Sep 2025 07:41:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>饿了么将取消骑手超时扣款，大众点评重启品质外卖，追觅首款车型渲染图神似布加迪，苹果辟谣强制供应链自动化，这就是今天的其他大新闻！</title>
-      <link>https://mp.weixin.qq.com/s/2elqyQ_XhX8A0XZeerBK3Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2elqyQ_XhX8A0XZeerBK3Q</guid>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>聊一聊：说说你被坑得最惨的一次经历。</title>
-      <link>https://mp.weixin.qq.com/s/DWRU1NlhkJDFEK-s6NGJPw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/DWRU1NlhkJDFEK-s6NGJPw</guid>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>今日最佳：这怎么排版的？</title>
-      <link>https://mp.weixin.qq.com/s/fR25Mw72hJD_vqm1yOmggg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/fR25Mw72hJD_vqm1yOmggg</guid>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 14 Sep 2025 14:58:25 +0000</lastBuildDate>
     <item>
       <title>为了打败中国电车，BBA们有点用力过猛了。。。</title>
       <link>https://mp.weixin.qq.com/s/qKItfDMj7s2MIxuJRTGrVg</link>
@@ -127,6 +97,36 @@
       <link>https://mp.weixin.qq.com/s/NylaLdhqqjHF1zPoebgVgA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/NylaLdhqqjHF1zPoebgVgA</guid>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>聊一聊：最近有什么单曲循环的歌？</title>
+      <link>https://mp.weixin.qq.com/s/am-o1SJNXY33qr1UPh72Fw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/am-o1SJNXY33qr1UPh72Fw</guid>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>今日最佳：你最好找我有事。</title>
+      <link>https://mp.weixin.qq.com/s/DFta5zZaGL2TOJzbDCg8EA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/DFta5zZaGL2TOJzbDCg8EA</guid>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>你的AI越来越蠢？因为它学会见人下菜碟了。</title>
+      <link>https://mp.weixin.qq.com/s/B-lLhLkLK_aCo_Iv-iDniw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/B-lLhLkLK_aCo_Iv-iDniw</guid>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>二手机贩子的新套路，盯上了每个小孩的零花钱。</title>
+      <link>https://mp.weixin.qq.com/s/5jsLwlAy2QWpVVaitit6Mg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5jsLwlAy2QWpVVaitit6Mg</guid>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>餐厅使用预制菜或强制披露，娃哈哈或启用新品牌娃小宗，iPhone 17首发售罄，雷军回应黑公关黑水军，这就是今天的其他大新闻！</title>
+      <link>https://mp.weixin.qq.com/s/o8Zn1CasBo-IKnwezfbK5w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/o8Zn1CasBo-IKnwezfbK5w</guid>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
