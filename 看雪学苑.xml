@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 13 Sep 2025 14:58:09 +0000</lastBuildDate>
-    <item>
-      <title>记录一款Unity il2cpp lua手游的逆向全过程</title>
-      <link>https://mp.weixin.qq.com/s/coeZ1k7k-5oRCjh72wKDNQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/coeZ1k7k-5oRCjh72wKDNQ</guid>
-      <pubDate>Sat, 06 Sep 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>『2025秋季班』看雪安卓高级研修班（月薪一万计划）</title>
-      <link>https://mp.weixin.qq.com/s/9ux4KfEX02mEJV-ONPOgDw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9ux4KfEX02mEJV-ONPOgDw</guid>
-      <pubDate>Mon, 08 Sep 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>我国拟修改网络安全法，强化法律责任</title>
-      <link>https://mp.weixin.qq.com/s/1dFbFUw_6gJydLNEfLxjqQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/1dFbFUw_6gJydLNEfLxjqQ</guid>
-      <pubDate>Mon, 08 Sep 2025 18:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Sep 2025 14:58:29 +0000</lastBuildDate>
     <item>
       <title>专访｜riusksk（泉哥）的跨界人生：近百 CVE 致谢、《漏洞战争》作者</title>
       <link>https://mp.weixin.qq.com/s/prU9qjV_dadcn_drYx9-7A</link>
@@ -127,6 +109,24 @@
       <link>https://mp.weixin.qq.com/s/VwDmH-vZNOPTQbKGmAbBtQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/VwDmH-vZNOPTQbKGmAbBtQ</guid>
       <pubDate>Sat, 13 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>速更9月补丁！三星设备遇图像漏洞，不点开图片也能被入侵</title>
+      <link>https://mp.weixin.qq.com/s/2QTgQrTOoeree3iB2-1UDQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2QTgQrTOoeree3iB2-1UDQ</guid>
+      <pubDate>Mon, 15 Sep 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>实现简易ARK工具-GDT表</title>
+      <link>https://mp.weixin.qq.com/s/0EDc_x_gqMfCwFtieaJgeQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0EDc_x_gqMfCwFtieaJgeQ</guid>
+      <pubDate>Mon, 15 Sep 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>智能时代·可信安全 | 纽创信安——即将亮相第九届安全开发者峰会（SDC2025）</title>
+      <link>https://mp.weixin.qq.com/s/DBSrL20Xgl8bPh4eWpZgkw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/DBSrL20Xgl8bPh4eWpZgkw</guid>
+      <pubDate>Mon, 15 Sep 2025 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
