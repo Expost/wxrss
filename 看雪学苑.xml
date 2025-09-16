@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Sep 2025 14:58:29 +0000</lastBuildDate>
-    <item>
-      <title>专访｜riusksk（泉哥）的跨界人生：近百 CVE 致谢、《漏洞战争》作者</title>
-      <link>https://mp.weixin.qq.com/s/prU9qjV_dadcn_drYx9-7A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/prU9qjV_dadcn_drYx9-7A</guid>
-      <pubDate>Mon, 08 Sep 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>国产大模型 Deepseek实战：10节课精通大语言模型安全应用开发</title>
-      <link>https://mp.weixin.qq.com/s/2XLDzPp-xkzz700HIHnE4Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2XLDzPp-xkzz700HIHnE4Q</guid>
-      <pubDate>Tue, 09 Sep 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Magento 现史上最严重漏洞之一，Adobe 火速推补丁</title>
-      <link>https://mp.weixin.qq.com/s/1bPTwx21c_tst7TZ8pZoaw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/1bPTwx21c_tst7TZ8pZoaw</guid>
-      <pubDate>Tue, 09 Sep 2025 17:59:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 15:01:10 +0000</lastBuildDate>
     <item>
       <title>R0下不一样的SSDT Hook</title>
       <link>https://mp.weixin.qq.com/s/9rLjUWbV7uIi7sCwRZQmQg</link>
@@ -127,6 +109,24 @@
       <link>https://mp.weixin.qq.com/s/DBSrL20Xgl8bPh4eWpZgkw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/DBSrL20Xgl8bPh4eWpZgkw</guid>
       <pubDate>Mon, 15 Sep 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>25年秋季班招生啦 | 系统0day安全-IOT设备漏洞挖掘（第6期）</title>
+      <link>https://mp.weixin.qq.com/s/VOUkv_-XlEF5cpqUO4pgYQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/VOUkv_-XlEF5cpqUO4pgYQ</guid>
+      <pubDate>Tue, 16 Sep 2025 18:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>GUCCI、BALENCIAGA、ALEXANDER MCQUEEN 客户记录失窃，黑客或另有图谋</title>
+      <link>https://mp.weixin.qq.com/s/FGhVUGx4VYWqf5YywpGvLw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/FGhVUGx4VYWqf5YywpGvLw</guid>
+      <pubDate>Tue, 16 Sep 2025 18:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>一次完整的App设备注册参数逆向分析之旅</title>
+      <link>https://mp.weixin.qq.com/s/94lfNP8HrgQRobvAYjhk0g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/94lfNP8HrgQRobvAYjhk0g</guid>
+      <pubDate>Tue, 16 Sep 2025 18:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
