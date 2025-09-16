@@ -7,55 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 15 Sep 2025 14:57:47 +0000</lastBuildDate>
-    <item>
-      <title>姚顺雨离职OpenAI，「亿元入职腾讯」传闻引爆AI圈，鹅厂辟谣了</title>
-      <link>https://mp.weixin.qq.com/s/Q-NT5y6M1snOVR9DrhhIWg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Q-NT5y6M1snOVR9DrhhIWg</guid>
-      <pubDate>Fri, 12 Sep 2025 10:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>腾讯优图重磅开源Youtu-GraphRAG，实现图检索增强技术新突破</title>
-      <link>https://mp.weixin.qq.com/s/vm6yuZi4PIs2wizycnnfRg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/vm6yuZi4PIs2wizycnnfRg</guid>
-      <pubDate>Fri, 12 Sep 2025 19:28:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>如何为LLM智能体编写工具？Anthropic官方教程来了</title>
-      <link>https://mp.weixin.qq.com/s/Kix0pLGJPd9m0X3zAS7m6Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Kix0pLGJPd9m0X3zAS7m6Q</guid>
-      <pubDate>Fri, 12 Sep 2025 19:28:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>扩散语言模型也有MoE版本了！蚂蚁&amp;人大从头训练LLaDA-MoE，即将完全开源</title>
-      <link>https://mp.weixin.qq.com/s/-WPNt0QMgfTH1JeYew468A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-WPNt0QMgfTH1JeYew468A</guid>
-      <pubDate>Fri, 12 Sep 2025 19:28:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>自适应快慢思考，华为openPangu-Embedded-7B-V1.1刚开源了</title>
-      <link>https://mp.weixin.qq.com/s/e1dHT3yOAIM-O1g9Tj3g6w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/e1dHT3yOAIM-O1g9Tj3g6w</guid>
-      <pubDate>Fri, 12 Sep 2025 22:56:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>AI 硬件，将带来下一个「苹果」还是昙花一现？</title>
-      <link>https://mp.weixin.qq.com/s/zcMoNoWETyqknNHXuZNBfg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/zcMoNoWETyqknNHXuZNBfg</guid>
-      <pubDate>Sat, 13 Sep 2025 09:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>快手可灵团队提出MIDAS：压缩比64倍、延迟低于500ms，多模态互动数字人框架实现交互生成新突破</title>
-      <link>https://mp.weixin.qq.com/s/2pfS1zGF8OBeVtjtmosnYw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2pfS1zGF8OBeVtjtmosnYw</guid>
-      <pubDate>Sat, 13 Sep 2025 16:52:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>清华、上海AI Lab等顶级团队发布推理模型RL超全综述，探索通往超级智能之路</title>
-      <link>https://mp.weixin.qq.com/s/CkKlHplf-kO30L6B_ucv1g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/CkKlHplf-kO30L6B_ucv1g</guid>
-      <pubDate>Sat, 13 Sep 2025 16:52:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Sep 2025 15:00:31 +0000</lastBuildDate>
     <item>
       <title>Meta开源MobileLLM-R1模型，不到1B参数，用1/10的训练就超越了Qwen3</title>
       <link>https://mp.weixin.qq.com/s/wQysh8qKFynOUQ20fvUfcQ</link>
@@ -127,6 +79,54 @@
       <link>https://mp.weixin.qq.com/s/IaFZy46DxSzcy2q2l10ojA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/IaFZy46DxSzcy2q2l10ojA</guid>
       <pubDate>Mon, 15 Sep 2025 20:17:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>多模态BUG修复新SOTA：慕尼黑工大GUIRepair登上SWE-bench Multimodal榜单第一</title>
+      <link>https://mp.weixin.qq.com/s/0mwYeGLpfEf1J9ItdqCoeA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0mwYeGLpfEf1J9ItdqCoeA</guid>
+      <pubDate>Tue, 16 Sep 2025 08:21:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，OpenAI发布GPT-5-Codex：可独立工作超7小时，还能审查、重构大型项目</title>
+      <link>https://mp.weixin.qq.com/s/f6zSmd2no70eAk_hu-hfmA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/f6zSmd2no70eAk_hu-hfmA</guid>
+      <pubDate>Tue, 16 Sep 2025 08:21:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>从少样本到千样本！MachineLearningLM给大模型上下文学习装上「机器学习引擎」</title>
+      <link>https://mp.weixin.qq.com/s/ad4tvAD7pi-jJ91RiEP4Ng</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ad4tvAD7pi-jJ91RiEP4Ng</guid>
+      <pubDate>Tue, 16 Sep 2025 12:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>谁说Scaling Law到头了？新研究：每一步的微小提升会带来指数级增长</title>
+      <link>https://mp.weixin.qq.com/s/xT1yUL__w5m-XwF3-02jmQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/xT1yUL__w5m-XwF3-02jmQ</guid>
+      <pubDate>Tue, 16 Sep 2025 12:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>在「外滩大会·具身智能：从泛化到行动，重塑产业未来」上，这些大牛都说了什么？</title>
+      <link>https://mp.weixin.qq.com/s/3t-3IGwtEYyzBtKywJw6OA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/3t-3IGwtEYyzBtKywJw6OA</guid>
+      <pubDate>Tue, 16 Sep 2025 16:37:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>具身智能能力狂飙，安全却严重滞后？首个安全可信EAI框架与路线图出炉！</title>
+      <link>https://mp.weixin.qq.com/s/CgBf-ZvMgfsWOrFlGKPZ8g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/CgBf-ZvMgfsWOrFlGKPZ8g</guid>
+      <pubDate>Tue, 16 Sep 2025 19:55:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>网络顶会获奖！华为提出端网协同RDMA传输架构，解决大规模AI集群网络可扩展性问题</title>
+      <link>https://mp.weixin.qq.com/s/cgOrRtkQqDfMIcN1ClPzgQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cgOrRtkQqDfMIcN1ClPzgQ</guid>
+      <pubDate>Tue, 16 Sep 2025 19:55:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>高阶程序，让AI从技术可行到商业可信的最后一公里</title>
+      <link>https://mp.weixin.qq.com/s/-afSfoPrDeS3bR-cYuS70A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-afSfoPrDeS3bR-cYuS70A</guid>
+      <pubDate>Tue, 16 Sep 2025 19:55:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
