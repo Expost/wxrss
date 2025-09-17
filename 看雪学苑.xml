@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 16 Sep 2025 15:01:10 +0000</lastBuildDate>
-    <item>
-      <title>R0下不一样的SSDT Hook</title>
-      <link>https://mp.weixin.qq.com/s/9rLjUWbV7uIi7sCwRZQmQg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9rLjUWbV7uIi7sCwRZQmQg</guid>
-      <pubDate>Tue, 09 Sep 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025 KCTF 大赛终极对决落幕：166支战队激战21天，获奖战队公布</title>
-      <link>https://mp.weixin.qq.com/s/bg2egCcxavK0hA9l-_UoUA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/bg2egCcxavK0hA9l-_UoUA</guid>
-      <pubDate>Tue, 09 Sep 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>BitLocker 曝两提权漏洞，微软紧急打补丁</title>
-      <link>https://mp.weixin.qq.com/s/K0ybtvuYdpU75IEym_NCBg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/K0ybtvuYdpU75IEym_NCBg</guid>
-      <pubDate>Wed, 10 Sep 2025 18:03:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 15:01:20 +0000</lastBuildDate>
     <item>
       <title>无痕HOOK 检测及对抗</title>
       <link>https://mp.weixin.qq.com/s/612JMcP8Uh0CxhtuqzbegQ</link>
@@ -127,6 +109,24 @@
       <link>https://mp.weixin.qq.com/s/94lfNP8HrgQRobvAYjhk0g</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/94lfNP8HrgQRobvAYjhk0g</guid>
       <pubDate>Tue, 16 Sep 2025 18:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Linux KSMBD子系统漏洞可让服务器资源被耗尽</title>
+      <link>https://mp.weixin.qq.com/s/_0X-BeKZEspje18UmLb_xQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_0X-BeKZEspje18UmLb_xQ</guid>
+      <pubDate>Wed, 17 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>OLLVM混淆技术与反混淆实战：从环境搭建到控制流还原</title>
+      <link>https://mp.weixin.qq.com/s/j0_Db-pLiE5IjmEDny2X8A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/j0_Db-pLiE5IjmEDny2X8A</guid>
+      <pubDate>Wed, 17 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>智能时代·可信安全 | 豹趣科技——即将亮相第九届安全开发者峰会（SDC2025）</title>
+      <link>https://mp.weixin.qq.com/s/SkcmHBdCTGy1qD_-qE-Vpw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/SkcmHBdCTGy1qD_-qE-Vpw</guid>
+      <pubDate>Wed, 17 Sep 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
