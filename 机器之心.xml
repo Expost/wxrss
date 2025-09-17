@@ -7,55 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 16 Sep 2025 15:00:31 +0000</lastBuildDate>
-    <item>
-      <title>Meta开源MobileLLM-R1模型，不到1B参数，用1/10的训练就超越了Qwen3</title>
-      <link>https://mp.weixin.qq.com/s/wQysh8qKFynOUQ20fvUfcQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/wQysh8qKFynOUQ20fvUfcQ</guid>
-      <pubDate>Sat, 13 Sep 2025 16:52:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>大模型碰到真难题了，测了500道，o3 Pro仅通过15%</title>
-      <link>https://mp.weixin.qq.com/s/7qqhCcSInFIb0SERkY9GqQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/7qqhCcSInFIb0SERkY9GqQ</guid>
-      <pubDate>Sun, 14 Sep 2025 11:07:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>小红书智创音频技术团队：SOTA对话生成模型FireRedTTS-2来了，轻松做出AI播客！</title>
-      <link>https://mp.weixin.qq.com/s/XUiCDtUqrYGsy-LkE6aKwA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/XUiCDtUqrYGsy-LkE6aKwA</guid>
-      <pubDate>Sun, 14 Sep 2025 11:07:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>为这一个Tab键，我愿意单独付费：Cursor用在线强化学习优化代码建议，护城河有了？</title>
-      <link>https://mp.weixin.qq.com/s/ShalRibfp9YSE5UFS0GLVg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ShalRibfp9YSE5UFS0GLVg</guid>
-      <pubDate>Sun, 14 Sep 2025 11:07:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>LLaSO 横空出世：逻辑智能推出全球首个完全开源语音大模型框架，定义 LSLM 研究新基准</title>
-      <link>https://mp.weixin.qq.com/s/JvFzf-UkRJz3Cv-h8Er1yw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/JvFzf-UkRJz3Cv-h8Er1yw</guid>
-      <pubDate>Sun, 14 Sep 2025 13:14:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>将KV Cache预算降至1.5%！他们用进化算法把大模型内存占用砍下来了</title>
-      <link>https://mp.weixin.qq.com/s/55WixgmHnpsKc9q5hnS7bA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/55WixgmHnpsKc9q5hnS7bA</guid>
-      <pubDate>Sun, 14 Sep 2025 13:14:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>抢先实测美团首个AI Agent，让我体验一把「懒人点餐」的快乐</title>
-      <link>https://mp.weixin.qq.com/s/oISuURyCcBwbmFQyUsddwg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/oISuURyCcBwbmFQyUsddwg</guid>
-      <pubDate>Sun, 14 Sep 2025 13:14:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>告别ROS的繁琐, 易用易学的机器人学习系统: 华为诺亚面向机器人学习的开源Python框架</title>
-      <link>https://mp.weixin.qq.com/s/8oKsS9NZCT7O2scODSU4eA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8oKsS9NZCT7O2scODSU4eA</guid>
-      <pubDate>Mon, 15 Sep 2025 12:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Sep 2025 15:00:28 +0000</lastBuildDate>
     <item>
       <title>用光学生成图像，几乎0耗电，浙大校友一作研究登Nature</title>
       <link>https://mp.weixin.qq.com/s/94s3MtZ815etYqcvdvmR2w</link>
@@ -127,6 +79,54 @@
       <link>https://mp.weixin.qq.com/s/-afSfoPrDeS3bR-cYuS70A</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/-afSfoPrDeS3bR-cYuS70A</guid>
       <pubDate>Tue, 16 Sep 2025 19:55:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>突破单链思考上限，清华团队提出原生「并行思考」scale范式</title>
+      <link>https://mp.weixin.qq.com/s/jkDVYxiuplNrFfZYKLjkxg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jkDVYxiuplNrFfZYKLjkxg</guid>
+      <pubDate>Wed, 17 Sep 2025 08:07:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，李飞飞空间智能新成果震撼问世！3D世界生成进入「无限探索」时代</title>
+      <link>https://mp.weixin.qq.com/s/-hw_l9Pk72IIify0WUYZJA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-hw_l9Pk72IIify0WUYZJA</guid>
+      <pubDate>Wed, 17 Sep 2025 08:07:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>LLM开源2.0大洗牌：60个出局，39个上桌，AI Coding疯魔，TensorFlow已死</title>
+      <link>https://mp.weixin.qq.com/s/D58GfDHogMS43Dl75fostw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/D58GfDHogMS43Dl75fostw</guid>
+      <pubDate>Wed, 17 Sep 2025 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>腾讯AI Lab首创RL框架Parallel-R1，教大模型学会「并行思维」</title>
+      <link>https://mp.weixin.qq.com/s/s1IS-8lHQi6VvXqExi0V9A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/s1IS-8lHQi6VvXqExi0V9A</guid>
+      <pubDate>Wed, 17 Sep 2025 17:35:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「AI助手」真来了？谷歌牵头推进Agent支付协议AP2</title>
+      <link>https://mp.weixin.qq.com/s/hIcWM2dlYK1mL2pPqLCvWQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/hIcWM2dlYK1mL2pPqLCvWQ</guid>
+      <pubDate>Wed, 17 Sep 2025 17:35:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>6.1B打平40B Dense模型，蚂蚁开源最新MoE模型Ling-flash-2.0</title>
+      <link>https://mp.weixin.qq.com/s/sWmYK-umJ9mvxx7hn4O6KA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/sWmYK-umJ9mvxx7hn4O6KA</guid>
+      <pubDate>Wed, 17 Sep 2025 17:35:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>没想到，音频大模型开源最彻底的，居然是小红书</title>
+      <link>https://mp.weixin.qq.com/s/0ij7-jNw3cfUvU_0Mb1NeA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0ij7-jNw3cfUvU_0Mb1NeA</guid>
+      <pubDate>Wed, 17 Sep 2025 17:35:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>字节Seedream 4.0登顶LMArena和Artificial Analysis两大权威榜单</title>
+      <link>https://mp.weixin.qq.com/s/YXWQrcoq67I9UKdPf3-mPQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/YXWQrcoq67I9UKdPf3-mPQ</guid>
+      <pubDate>Wed, 17 Sep 2025 22:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
