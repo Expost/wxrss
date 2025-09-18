@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Sep 2025 15:00:28 +0000</lastBuildDate>
-    <item>
-      <title>用光学生成图像，几乎0耗电，浙大校友一作研究登Nature</title>
-      <link>https://mp.weixin.qq.com/s/94s3MtZ815etYqcvdvmR2w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/94s3MtZ815etYqcvdvmR2w</guid>
-      <pubDate>Mon, 15 Sep 2025 12:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>OpenVision 2：大道至简的生成式预训练视觉编码器</title>
-      <link>https://mp.weixin.qq.com/s/hJEwRF4kW7Y4r8kpk5iXKg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/hJEwRF4kW7Y4r8kpk5iXKg</guid>
-      <pubDate>Mon, 15 Sep 2025 20:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>数字生活的原生入口：蚂蚁集团发布AI眼镜全新技术框架gPass</title>
-      <link>https://mp.weixin.qq.com/s/LeR_TyV5iGCJQi0QvPrcpA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/LeR_TyV5iGCJQi0QvPrcpA</guid>
-      <pubDate>Mon, 15 Sep 2025 20:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>从「对口型」到「会表演」，刚进化的可灵AI数字人，技术公开了</title>
-      <link>https://mp.weixin.qq.com/s/IaFZy46DxSzcy2q2l10ojA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/IaFZy46DxSzcy2q2l10ojA</guid>
-      <pubDate>Mon, 15 Sep 2025 20:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>多模态BUG修复新SOTA：慕尼黑工大GUIRepair登上SWE-bench Multimodal榜单第一</title>
-      <link>https://mp.weixin.qq.com/s/0mwYeGLpfEf1J9ItdqCoeA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0mwYeGLpfEf1J9ItdqCoeA</guid>
-      <pubDate>Tue, 16 Sep 2025 08:21:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，OpenAI发布GPT-5-Codex：可独立工作超7小时，还能审查、重构大型项目</title>
-      <link>https://mp.weixin.qq.com/s/f6zSmd2no70eAk_hu-hfmA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/f6zSmd2no70eAk_hu-hfmA</guid>
-      <pubDate>Tue, 16 Sep 2025 08:21:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>从少样本到千样本！MachineLearningLM给大模型上下文学习装上「机器学习引擎」</title>
-      <link>https://mp.weixin.qq.com/s/ad4tvAD7pi-jJ91RiEP4Ng</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ad4tvAD7pi-jJ91RiEP4Ng</guid>
-      <pubDate>Tue, 16 Sep 2025 12:01:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Sep 2025 14:57:56 +0000</lastBuildDate>
     <item>
       <title>谁说Scaling Law到头了？新研究：每一步的微小提升会带来指数级增长</title>
       <link>https://mp.weixin.qq.com/s/xT1yUL__w5m-XwF3-02jmQ</link>
@@ -127,6 +85,48 @@
       <link>https://mp.weixin.qq.com/s/YXWQrcoq67I9UKdPf3-mPQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/YXWQrcoq67I9UKdPf3-mPQ</guid>
       <pubDate>Wed, 17 Sep 2025 22:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，DeepSeek-R1论文登上Nature封面，通讯作者梁文锋</title>
+      <link>https://mp.weixin.qq.com/s/lR8kPjslLa9HFIOz1lxZKg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/lR8kPjslLa9HFIOz1lxZKg</guid>
+      <pubDate>Thu, 18 Sep 2025 01:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>让机器人「不只是走路」，Nav-R1引领带推理的导航新时代</title>
+      <link>https://mp.weixin.qq.com/s/2huKYeV82Vv7Q8HfiXS5FQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2huKYeV82Vv7Q8HfiXS5FQ</guid>
+      <pubDate>Thu, 18 Sep 2025 09:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>通义DeepResearch震撼发布！性能比肩OpenAI，模型、框架、方案完全开源</title>
+      <link>https://mp.weixin.qq.com/s/XLpRvvpG7XPX1GmpwG3BMQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/XLpRvvpG7XPX1GmpwG3BMQ</guid>
+      <pubDate>Thu, 18 Sep 2025 09:01:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>B站出海的强有力支柱：最新开源文本转语音模型IndexTTS-2.0标志零样本TTS进入双维度时代</title>
+      <link>https://mp.weixin.qq.com/s/T9ol2agv2oB_pac15iQHzQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/T9ol2agv2oB_pac15iQHzQ</guid>
+      <pubDate>Thu, 18 Sep 2025 12:29:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>从一个公众号智能体说起：好用的Agent，究竟需要什么?</title>
+      <link>https://mp.weixin.qq.com/s/GVKXVOkdRA8fNgtPXY1ewg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/GVKXVOkdRA8fNgtPXY1ewg</guid>
+      <pubDate>Thu, 18 Sep 2025 12:29:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，OpenAI在ICPC 2025编程赛上满分登顶，Gemini也达到金牌水平</title>
+      <link>https://mp.weixin.qq.com/s/Bws9enDXB5CvyhW1cG5DYw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Bws9enDXB5CvyhW1cG5DYw</guid>
+      <pubDate>Thu, 18 Sep 2025 12:29:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>OneSearch，揭开快手电商搜索「一步到位」的秘技</title>
+      <link>https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw</guid>
+      <pubDate>Thu, 18 Sep 2025 12:29:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
