@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Sep 2025 15:04:22 +0000</lastBuildDate>
-    <item>
-      <title>苏超，真的只是球赛吗？</title>
-      <link>https://mp.weixin.qq.com/s/SItxZ7d93VPmazFuAK-ZbA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/SItxZ7d93VPmazFuAK-ZbA</guid>
-      <pubDate>Tue, 09 Sep 2025 17:15:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Thu, 18 Sep 2025 15:02:19 +0000</lastBuildDate>
     <item>
       <title>出发G331 ！北境寻秋3000里</title>
       <link>https://mp.weixin.qq.com/s/71SsjuEn1jn9JntGvxgP-g</link>
@@ -127,6 +121,12 @@
       <link>https://mp.weixin.qq.com/s/FKpZR8Q3r0m_Vksvk1gQ9w</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/FKpZR8Q3r0m_Vksvk1gQ9w</guid>
       <pubDate>Wed, 17 Sep 2025 17:10:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>勿忘，九一八！</title>
+      <link>https://mp.weixin.qq.com/s/7sAR4KH0xQSVzJdWdaptoA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/7sAR4KH0xQSVzJdWdaptoA</guid>
+      <pubDate>Thu, 18 Sep 2025 07:31:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
