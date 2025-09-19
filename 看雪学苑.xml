@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 18 Sep 2025 14:58:34 +0000</lastBuildDate>
-    <item>
-      <title>1.5Gpps！西欧 DDoS 防护商遭巨型攻击，FastNetMon 助力化解</title>
-      <link>https://mp.weixin.qq.com/s/aYhu3qisvjnc4tMxo6gimQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/aYhu3qisvjnc4tMxo6gimQ</guid>
-      <pubDate>Thu, 11 Sep 2025 18:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>银狐木马-搜狗拼音安装包木马分析</title>
-      <link>https://mp.weixin.qq.com/s/gsR16D6tWRdgfBdxD2SXfg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/gsR16D6tWRdgfBdxD2SXfg</guid>
-      <pubDate>Thu, 11 Sep 2025 18:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>苹果警告：多起雇佣间谍软件攻击瞄准用户设备</title>
-      <link>https://mp.weixin.qq.com/s/Q7LBv6nVqshtcLQeN-TRKA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Q7LBv6nVqshtcLQeN-TRKA</guid>
-      <pubDate>Fri, 12 Sep 2025 18:06:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025大厂技术岗实时更新！企业新增职位汇总</title>
-      <link>https://mp.weixin.qq.com/s/dZkPDO-ZF4UG-avJAnw8ug</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/dZkPDO-ZF4UG-avJAnw8ug</guid>
-      <pubDate>Fri, 12 Sep 2025 18:06:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 14:58:01 +0000</lastBuildDate>
     <item>
       <title>Apatch内核模块之svc监控和栈回溯</title>
       <link>https://mp.weixin.qq.com/s/L2_k-ve4VO9N6Kz2b5jNBg</link>
@@ -127,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/NbUf_fOhg5jQ3i9ugyvOBg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/NbUf_fOhg5jQ3i9ugyvOBg</guid>
       <pubDate>Thu, 18 Sep 2025 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>7天打造 IDA 9.0 大师：从零基础到逆向精英</title>
+      <link>https://mp.weixin.qq.com/s/GtVd9EmMPswgC-_Xeptduw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/GtVd9EmMPswgC-_Xeptduw</guid>
+      <pubDate>Fri, 19 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2025大厂技术岗实时更新！企业新增职位汇总</title>
+      <link>https://mp.weixin.qq.com/s/SJkxVtzBSoVdzwvS-zkbcg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/SJkxVtzBSoVdzwvS-zkbcg</guid>
+      <pubDate>Fri, 19 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>新型工具可绕过越狱 iPhone 生物验证</title>
+      <link>https://mp.weixin.qq.com/s/Fgpn_AYmnaeVjEEI-daTlA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Fgpn_AYmnaeVjEEI-daTlA</guid>
+      <pubDate>Fri, 19 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>PC单机游戏无限金币-新手初体验</title>
+      <link>https://mp.weixin.qq.com/s/hvZCM5fsdg4dc4v9wxWIiQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/hvZCM5fsdg4dc4v9wxWIiQ</guid>
+      <pubDate>Fri, 19 Sep 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
