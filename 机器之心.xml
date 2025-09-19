@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 18 Sep 2025 14:57:56 +0000</lastBuildDate>
-    <item>
-      <title>谁说Scaling Law到头了？新研究：每一步的微小提升会带来指数级增长</title>
-      <link>https://mp.weixin.qq.com/s/xT1yUL__w5m-XwF3-02jmQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/xT1yUL__w5m-XwF3-02jmQ</guid>
-      <pubDate>Tue, 16 Sep 2025 12:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>在「外滩大会·具身智能：从泛化到行动，重塑产业未来」上，这些大牛都说了什么？</title>
-      <link>https://mp.weixin.qq.com/s/3t-3IGwtEYyzBtKywJw6OA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/3t-3IGwtEYyzBtKywJw6OA</guid>
-      <pubDate>Tue, 16 Sep 2025 16:37:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>具身智能能力狂飙，安全却严重滞后？首个安全可信EAI框架与路线图出炉！</title>
-      <link>https://mp.weixin.qq.com/s/CgBf-ZvMgfsWOrFlGKPZ8g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/CgBf-ZvMgfsWOrFlGKPZ8g</guid>
-      <pubDate>Tue, 16 Sep 2025 19:55:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>网络顶会获奖！华为提出端网协同RDMA传输架构，解决大规模AI集群网络可扩展性问题</title>
-      <link>https://mp.weixin.qq.com/s/cgOrRtkQqDfMIcN1ClPzgQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cgOrRtkQqDfMIcN1ClPzgQ</guid>
-      <pubDate>Tue, 16 Sep 2025 19:55:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>高阶程序，让AI从技术可行到商业可信的最后一公里</title>
-      <link>https://mp.weixin.qq.com/s/-afSfoPrDeS3bR-cYuS70A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-afSfoPrDeS3bR-cYuS70A</guid>
-      <pubDate>Tue, 16 Sep 2025 19:55:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>突破单链思考上限，清华团队提出原生「并行思考」scale范式</title>
-      <link>https://mp.weixin.qq.com/s/jkDVYxiuplNrFfZYKLjkxg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jkDVYxiuplNrFfZYKLjkxg</guid>
-      <pubDate>Wed, 17 Sep 2025 08:07:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，李飞飞空间智能新成果震撼问世！3D世界生成进入「无限探索」时代</title>
-      <link>https://mp.weixin.qq.com/s/-hw_l9Pk72IIify0WUYZJA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-hw_l9Pk72IIify0WUYZJA</guid>
-      <pubDate>Wed, 17 Sep 2025 08:07:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Sep 2025 14:57:16 +0000</lastBuildDate>
     <item>
       <title>LLM开源2.0大洗牌：60个出局，39个上桌，AI Coding疯魔，TensorFlow已死</title>
       <link>https://mp.weixin.qq.com/s/D58GfDHogMS43Dl75fostw</link>
@@ -127,6 +85,48 @@
       <link>https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw</guid>
       <pubDate>Thu, 18 Sep 2025 12:29:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>理解帮助生成？RecA自监督训练让统一多模态模型直升SOTA</title>
+      <link>https://mp.weixin.qq.com/s/stEchntnx1QuzPcMAlcMsw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/stEchntnx1QuzPcMAlcMsw</guid>
+      <pubDate>Fri, 19 Sep 2025 08:46:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>英伟达50亿美元入股英特尔，将发布CPU+GPU合体芯片，大结局来了？</title>
+      <link>https://mp.weixin.qq.com/s/BrIWQdsYU-BrZu_FxdOEDg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/BrIWQdsYU-BrZu_FxdOEDg</guid>
+      <pubDate>Fri, 19 Sep 2025 08:46:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>给大模型「精准手术」：美团智能客服提出逆向学习技术精准纠偏，风险控制提升38%</title>
+      <link>https://mp.weixin.qq.com/s/izPa_zqG4eVWpMoG8i3KIA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/izPa_zqG4eVWpMoG8i3KIA</guid>
+      <pubDate>Fri, 19 Sep 2025 18:41:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>攻克大模型训推差异难题，蚂蚁开源新一代推理模型Ring-flash-2.0</title>
+      <link>https://mp.weixin.qq.com/s/GP6SkIP0Pq1j08XL0XccoQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/GP6SkIP0Pq1j08XL0XccoQ</guid>
+      <pubDate>Fri, 19 Sep 2025 18:41:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>超强开源模型Qwen3、DeepSeek-V3.1，都被云计算一哥「收」了</title>
+      <link>https://mp.weixin.qq.com/s/5WnSRRKZ5-3cJ9bB2Vq5Sw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5WnSRRKZ5-3cJ9bB2Vq5Sw</guid>
+      <pubDate>Fri, 19 Sep 2025 18:41:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>5555被拒稿，AC接收但PC强拒，NeurIPS揭榜引争议</title>
+      <link>https://mp.weixin.qq.com/s/2qtuNfOO4uQh5algh8EqUw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2qtuNfOO4uQh5algh8EqUw</guid>
+      <pubDate>Fri, 19 Sep 2025 21:22:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>华为超节点：用「一台机器」的逻辑，驱动AI万卡集群</title>
+      <link>https://mp.weixin.qq.com/s/dhXeLcok8e32lvJ0fhZjgQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/dhXeLcok8e32lvJ0fhZjgQ</guid>
+      <pubDate>Fri, 19 Sep 2025 21:22:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
