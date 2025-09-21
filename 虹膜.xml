@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 20 Sep 2025 15:30:19 +0000</lastBuildDate>
-    <item>
-      <title>伊纳里图拍电影，有一定秘诀</title>
-      <link>https://mp.weixin.qq.com/s/9vkhAkT-Xhu4GqU1HRWwPQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9vkhAkT-Xhu4GqU1HRWwPQ</guid>
-      <pubDate>Thu, 11 Sep 2025 20:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>今天看，这还是本世纪最牛的恐怖片创意</title>
-      <link>https://mp.weixin.qq.com/s/reviLDL0hVeQDJDR2bO9Kw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/reviLDL0hVeQDJDR2bO9Kw</guid>
-      <pubDate>Thu, 11 Sep 2025 20:30:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Sep 2025 14:57:14 +0000</lastBuildDate>
     <item>
       <title>美国电影历史上，这几乎是公认的最伟大恐怖片</title>
       <link>https://mp.weixin.qq.com/s/eoKKRMyHvwexZZKNaerFkg</link>
@@ -127,6 +115,18 @@
       <link>https://mp.weixin.qq.com/s/yUYfuqQEzObN9Tch9pkhXQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/yUYfuqQEzObN9Tch9pkhXQ</guid>
       <pubDate>Sat, 20 Sep 2025 20:29:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>如果没有他的故事，恐怖片会逊色很多</title>
+      <link>https://mp.weixin.qq.com/s/LLDZuYXM2Gf6ELTby3CIKw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/LLDZuYXM2Gf6ELTby3CIKw</guid>
+      <pubDate>Sun, 21 Sep 2025 20:33:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>获取标题失败</title>
+      <link>https://mp.weixin.qq.com/s/oR77keFJD5RZ8KUAMXoDow</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/oR77keFJD5RZ8KUAMXoDow</guid>
+      <pubDate>Sun, 21 Sep 2025 22:56:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
