@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 20 Sep 2025 15:31:05 +0000</lastBuildDate>
-    <item>
-      <title>没想到，音频大模型开源最彻底的，居然是小红书</title>
-      <link>https://mp.weixin.qq.com/s/0ij7-jNw3cfUvU_0Mb1NeA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0ij7-jNw3cfUvU_0Mb1NeA</guid>
-      <pubDate>Wed, 17 Sep 2025 17:35:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>字节Seedream 4.0登顶LMArena和Artificial Analysis两大权威榜单</title>
-      <link>https://mp.weixin.qq.com/s/YXWQrcoq67I9UKdPf3-mPQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/YXWQrcoq67I9UKdPf3-mPQ</guid>
-      <pubDate>Wed, 17 Sep 2025 22:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，DeepSeek-R1论文登上Nature封面，通讯作者梁文锋</title>
-      <link>https://mp.weixin.qq.com/s/lR8kPjslLa9HFIOz1lxZKg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/lR8kPjslLa9HFIOz1lxZKg</guid>
-      <pubDate>Thu, 18 Sep 2025 01:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>让机器人「不只是走路」，Nav-R1引领带推理的导航新时代</title>
-      <link>https://mp.weixin.qq.com/s/2huKYeV82Vv7Q8HfiXS5FQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2huKYeV82Vv7Q8HfiXS5FQ</guid>
-      <pubDate>Thu, 18 Sep 2025 09:01:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 21 Sep 2025 14:58:03 +0000</lastBuildDate>
     <item>
       <title>通义DeepResearch震撼发布！性能比肩OpenAI，模型、框架、方案完全开源</title>
       <link>https://mp.weixin.qq.com/s/XLpRvvpG7XPX1GmpwG3BMQ</link>
@@ -127,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/nY1eY0OMd3c-srfwkGMdHA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/nY1eY0OMd3c-srfwkGMdHA</guid>
       <pubDate>Sat, 20 Sep 2025 12:35:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>集合通信库VCCL释放GPU极致算力，创智、基流、智谱、联通、北航、清华、东南重磅开源</title>
+      <link>https://mp.weixin.qq.com/s/_Tb5FGApGrAl7_Wjym1Ejg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_Tb5FGApGrAl7_Wjym1Ejg</guid>
+      <pubDate>Sun, 21 Sep 2025 08:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>工业级3D世界构建提速90倍！全新框架LatticeWorld让虚拟世界「一句话成真」</title>
+      <link>https://mp.weixin.qq.com/s/KUZj2FN93PEBmagehv9lXg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/KUZj2FN93PEBmagehv9lXg</guid>
+      <pubDate>Sun, 21 Sep 2025 13:24:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>谷歌Gemini IMO和ICPC夺金功臣之一被xAI挖走，马斯克直呼：起飞</title>
+      <link>https://mp.weixin.qq.com/s/3u_H759vC5PIeZglGVO23w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/3u_H759vC5PIeZglGVO23w</guid>
+      <pubDate>Sun, 21 Sep 2025 13:24:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>全球双榜SOTA！明略科技专有大模型 Mano开启GUI智能操作新时代</title>
+      <link>https://mp.weixin.qq.com/s/42u9eZbGHj7S6Evvh_cE9A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/42u9eZbGHj7S6Evvh_cE9A</guid>
+      <pubDate>Sun, 21 Sep 2025 13:24:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
