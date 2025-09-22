@@ -7,61 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 21 Sep 2025 14:58:03 +0000</lastBuildDate>
-    <item>
-      <title>通义DeepResearch震撼发布！性能比肩OpenAI，模型、框架、方案完全开源</title>
-      <link>https://mp.weixin.qq.com/s/XLpRvvpG7XPX1GmpwG3BMQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/XLpRvvpG7XPX1GmpwG3BMQ</guid>
-      <pubDate>Thu, 18 Sep 2025 09:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>B站出海的强有力支柱：最新开源文本转语音模型IndexTTS-2.0标志零样本TTS进入双维度时代</title>
-      <link>https://mp.weixin.qq.com/s/T9ol2agv2oB_pac15iQHzQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/T9ol2agv2oB_pac15iQHzQ</guid>
-      <pubDate>Thu, 18 Sep 2025 12:29:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>从一个公众号智能体说起：好用的Agent，究竟需要什么?</title>
-      <link>https://mp.weixin.qq.com/s/GVKXVOkdRA8fNgtPXY1ewg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/GVKXVOkdRA8fNgtPXY1ewg</guid>
-      <pubDate>Thu, 18 Sep 2025 12:29:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，OpenAI在ICPC 2025编程赛上满分登顶，Gemini也达到金牌水平</title>
-      <link>https://mp.weixin.qq.com/s/Bws9enDXB5CvyhW1cG5DYw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Bws9enDXB5CvyhW1cG5DYw</guid>
-      <pubDate>Thu, 18 Sep 2025 12:29:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>OneSearch，揭开快手电商搜索「一步到位」的秘技</title>
-      <link>https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw</guid>
-      <pubDate>Thu, 18 Sep 2025 12:29:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>理解帮助生成？RecA自监督训练让统一多模态模型直升SOTA</title>
-      <link>https://mp.weixin.qq.com/s/stEchntnx1QuzPcMAlcMsw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/stEchntnx1QuzPcMAlcMsw</guid>
-      <pubDate>Fri, 19 Sep 2025 08:46:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>英伟达50亿美元入股英特尔，将发布CPU+GPU合体芯片，大结局来了？</title>
-      <link>https://mp.weixin.qq.com/s/BrIWQdsYU-BrZu_FxdOEDg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/BrIWQdsYU-BrZu_FxdOEDg</guid>
-      <pubDate>Fri, 19 Sep 2025 08:46:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>给大模型「精准手术」：美团智能客服提出逆向学习技术精准纠偏，风险控制提升38%</title>
-      <link>https://mp.weixin.qq.com/s/izPa_zqG4eVWpMoG8i3KIA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/izPa_zqG4eVWpMoG8i3KIA</guid>
-      <pubDate>Fri, 19 Sep 2025 18:41:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>攻克大模型训推差异难题，蚂蚁开源新一代推理模型Ring-flash-2.0</title>
-      <link>https://mp.weixin.qq.com/s/GP6SkIP0Pq1j08XL0XccoQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/GP6SkIP0Pq1j08XL0XccoQ</guid>
-      <pubDate>Fri, 19 Sep 2025 18:41:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 15:00:43 +0000</lastBuildDate>
     <item>
       <title>超强开源模型Qwen3、DeepSeek-V3.1，都被云计算一哥「收」了</title>
       <link>https://mp.weixin.qq.com/s/5WnSRRKZ5-3cJ9bB2Vq5Sw</link>
@@ -127,6 +73,60 @@
       <link>https://mp.weixin.qq.com/s/42u9eZbGHj7S6Evvh_cE9A</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/42u9eZbGHj7S6Evvh_cE9A</guid>
       <pubDate>Sun, 21 Sep 2025 13:24:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>EMNLP2025 | SFT与RL的结合，vivo AI Lab提出新的后训练方法</title>
+      <link>https://mp.weixin.qq.com/s/dTACgW9_GAkCLS9dR0ag9Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/dTACgW9_GAkCLS9dR0ag9Q</guid>
+      <pubDate>Mon, 22 Sep 2025 10:05:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>突破后训练瓶颈？Meta超级智能实验室又一力作：CaT解决RL监督难题</title>
+      <link>https://mp.weixin.qq.com/s/_WK8Vn3bhtrbqePsanKYEQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_WK8Vn3bhtrbqePsanKYEQ</guid>
+      <pubDate>Mon, 22 Sep 2025 10:05:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>加速近5倍！北大与字节团队提出BranchGRPO，用「树形分叉 + 剪枝」重塑扩散模型对齐</title>
+      <link>https://mp.weixin.qq.com/s/AvV0WVQcopmvy-BeAzOD4A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AvV0WVQcopmvy-BeAzOD4A</guid>
+      <pubDate>Mon, 22 Sep 2025 15:26:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>LeCun力荐的JEPA杀入LLM，用CV的思路训练LLM，性能鲁棒性双丰收</title>
+      <link>https://mp.weixin.qq.com/s/iJBi0gahRcxFXjn8tR2jkA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/iJBi0gahRcxFXjn8tR2jkA</guid>
+      <pubDate>Mon, 22 Sep 2025 15:26:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>用2D数据解锁3D世界：首个面向运动学部件分解的多视角视频扩散框架</title>
+      <link>https://mp.weixin.qq.com/s/mON11i3O2j4-RlnG-t3n_Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/mON11i3O2j4-RlnG-t3n_Q</guid>
+      <pubDate>Mon, 22 Sep 2025 18:24:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>图灵得主Yoshua Bengio，开始警惕AI有意识了</title>
+      <link>https://mp.weixin.qq.com/s/YVIInXfUbrY4ae0xCOFqxg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/YVIInXfUbrY4ae0xCOFqxg</guid>
+      <pubDate>Mon, 22 Sep 2025 18:24:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>苹果传统强项再发力，视觉领域三种模态终于统一</title>
+      <link>https://mp.weixin.qq.com/s/EsfNO75XmOJjRqj_hIF2XA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/EsfNO75XmOJjRqj_hIF2XA</guid>
+      <pubDate>Mon, 22 Sep 2025 18:24:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>这一次，天玑9500的端侧AI能力，友商赶不上了</title>
+      <link>https://mp.weixin.qq.com/s/GaB-mrV5ifkwQZdNFF_Qcw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/GaB-mrV5ifkwQZdNFF_Qcw</guid>
+      <pubDate>Mon, 22 Sep 2025 18:24:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，DeepSeek更新了</title>
+      <link>https://mp.weixin.qq.com/s/g8E5yQ6elAhHuRZrYZlcrw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/g8E5yQ6elAhHuRZrYZlcrw</guid>
+      <pubDate>Mon, 22 Sep 2025 22:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
