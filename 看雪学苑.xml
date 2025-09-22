@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 20 Sep 2025 15:31:39 +0000</lastBuildDate>
-    <item>
-      <title>《进阶逆向工程实战》：解锁逆向技术的全链路实战能力</title>
-      <link>https://mp.weixin.qq.com/s/MI_aZhAt9GGKuCXpOhnC4A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/MI_aZhAt9GGKuCXpOhnC4A</guid>
-      <pubDate>Sat, 13 Sep 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Dropping-elephant rat恶意样本分析</title>
-      <link>https://mp.weixin.qq.com/s/VwDmH-vZNOPTQbKGmAbBtQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/VwDmH-vZNOPTQbKGmAbBtQ</guid>
-      <pubDate>Sat, 13 Sep 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>速更9月补丁！三星设备遇图像漏洞，不点开图片也能被入侵</title>
-      <link>https://mp.weixin.qq.com/s/2QTgQrTOoeree3iB2-1UDQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2QTgQrTOoeree3iB2-1UDQ</guid>
-      <pubDate>Mon, 15 Sep 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>实现简易ARK工具-GDT表</title>
-      <link>https://mp.weixin.qq.com/s/0EDc_x_gqMfCwFtieaJgeQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0EDc_x_gqMfCwFtieaJgeQ</guid>
-      <pubDate>Mon, 15 Sep 2025 18:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Sep 2025 15:01:40 +0000</lastBuildDate>
     <item>
       <title>智能时代·可信安全 | 纽创信安——即将亮相第九届安全开发者峰会（SDC2025）</title>
       <link>https://mp.weixin.qq.com/s/DBSrL20Xgl8bPh4eWpZgkw</link>
@@ -127,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/_3XK4pQgFMAda9Hd8ICYWQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/_3XK4pQgFMAda9Hd8ICYWQ</guid>
       <pubDate>Sat, 20 Sep 2025 17:55:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>国产大模型 Deepseek实战：10节课精通大语言模型安全应用开发</title>
+      <link>https://mp.weixin.qq.com/s/vZO4SClVOztiUu_Q_WkgaQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/vZO4SClVOztiUu_Q_WkgaQ</guid>
+      <pubDate>Mon, 22 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Unicode漏洞“BiDi Swap”十年未修复，仍被用于实施网址欺骗</title>
+      <link>https://mp.weixin.qq.com/s/QLCvrVBAfMv4Wv84ghEBTw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/QLCvrVBAfMv4Wv84ghEBTw</guid>
+      <pubDate>Mon, 22 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>诸子云知识星球：史上最强福利纳新，限时加入即刻尽享！</title>
+      <link>https://mp.weixin.qq.com/s/seN1NuG8ct4KJOFa-3CVXA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/seN1NuG8ct4KJOFa-3CVXA</guid>
+      <pubDate>Mon, 22 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>渣浪的S参数分析</title>
+      <link>https://mp.weixin.qq.com/s/R_tay_9MUavrBZVE8Z0L6Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/R_tay_9MUavrBZVE8Z0L6Q</guid>
+      <pubDate>Mon, 22 Sep 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
