@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 22 Sep 2025 15:01:40 +0000</lastBuildDate>
-    <item>
-      <title>智能时代·可信安全 | 纽创信安——即将亮相第九届安全开发者峰会（SDC2025）</title>
-      <link>https://mp.weixin.qq.com/s/DBSrL20Xgl8bPh4eWpZgkw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/DBSrL20Xgl8bPh4eWpZgkw</guid>
-      <pubDate>Mon, 15 Sep 2025 18:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>25年秋季班招生啦 | 系统0day安全-IOT设备漏洞挖掘（第6期）</title>
-      <link>https://mp.weixin.qq.com/s/VOUkv_-XlEF5cpqUO4pgYQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/VOUkv_-XlEF5cpqUO4pgYQ</guid>
-      <pubDate>Tue, 16 Sep 2025 18:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>GUCCI、BALENCIAGA、ALEXANDER MCQUEEN 客户记录失窃，黑客或另有图谋</title>
-      <link>https://mp.weixin.qq.com/s/FGhVUGx4VYWqf5YywpGvLw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/FGhVUGx4VYWqf5YywpGvLw</guid>
-      <pubDate>Tue, 16 Sep 2025 18:04:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 15:01:02 +0000</lastBuildDate>
     <item>
       <title>一次完整的App设备注册参数逆向分析之旅</title>
       <link>https://mp.weixin.qq.com/s/94lfNP8HrgQRobvAYjhk0g</link>
@@ -127,6 +109,24 @@
       <link>https://mp.weixin.qq.com/s/R_tay_9MUavrBZVE8Z0L6Q</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/R_tay_9MUavrBZVE8Z0L6Q</guid>
       <pubDate>Mon, 22 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>警惕！Steam游戏以补丁更新之名，向玩家电脑植入恶意软件</title>
+      <link>https://mp.weixin.qq.com/s/ID2bSwtwMTjNkvxeZ1IIYQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ID2bSwtwMTjNkvxeZ1IIYQ</guid>
+      <pubDate>Tue, 23 Sep 2025 18:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>CVE-2018-0798相关恶意文档分析</title>
+      <link>https://mp.weixin.qq.com/s/R07mSNpGVbBIfZqrBkvrUg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/R07mSNpGVbBIfZqrBkvrUg</guid>
+      <pubDate>Tue, 23 Sep 2025 18:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>智能时代·可信AI安全 | TSRC，即将亮相第九届安全开发者峰会（SDC2025）</title>
+      <link>https://mp.weixin.qq.com/s/0IH_aJxzuHrm7O7xQMC2yg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0IH_aJxzuHrm7O7xQMC2yg</guid>
+      <pubDate>Tue, 23 Sep 2025 18:03:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
