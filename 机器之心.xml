@@ -7,49 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 22 Sep 2025 15:00:43 +0000</lastBuildDate>
-    <item>
-      <title>超强开源模型Qwen3、DeepSeek-V3.1，都被云计算一哥「收」了</title>
-      <link>https://mp.weixin.qq.com/s/5WnSRRKZ5-3cJ9bB2Vq5Sw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5WnSRRKZ5-3cJ9bB2Vq5Sw</guid>
-      <pubDate>Fri, 19 Sep 2025 18:41:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>5555被拒稿，AC接收但PC强拒，NeurIPS揭榜引争议</title>
-      <link>https://mp.weixin.qq.com/s/2qtuNfOO4uQh5algh8EqUw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2qtuNfOO4uQh5algh8EqUw</guid>
-      <pubDate>Fri, 19 Sep 2025 21:22:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>华为超节点：用「一台机器」的逻辑，驱动AI万卡集群</title>
-      <link>https://mp.weixin.qq.com/s/dhXeLcok8e32lvJ0fhZjgQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/dhXeLcok8e32lvJ0fhZjgQ</guid>
-      <pubDate>Fri, 19 Sep 2025 21:22:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>「一人公司」不强求，「Copilots 」更能填平 AI 产业落地的「Massive Delta」？</title>
-      <link>https://mp.weixin.qq.com/s/eD8PX77ynNOG8lZtX7PcnQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/eD8PX77ynNOG8lZtX7PcnQ</guid>
-      <pubDate>Sat, 20 Sep 2025 09:30:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Mini-Omni-Reasoner：实时推理，定义下一代端到端对话模型</title>
-      <link>https://mp.weixin.qq.com/s/HnmKxecS4ZzrVj-rQC4Qrw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HnmKxecS4ZzrVj-rQC4Qrw</guid>
-      <pubDate>Sat, 20 Sep 2025 12:35:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>OpenAI从苹果挖了20多人搞硬件，知情人士：苹果创新缓慢、官僚主义令人厌倦</title>
-      <link>https://mp.weixin.qq.com/s/F5qS8Vb_CbBZFnGA0oSjsg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/F5qS8Vb_CbBZFnGA0oSjsg</guid>
-      <pubDate>Sat, 20 Sep 2025 12:35:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>陈天桥旗下AI公司MiroMind打造全球顶尖预测型大模型，性能登顶行业基准</title>
-      <link>https://mp.weixin.qq.com/s/nY1eY0OMd3c-srfwkGMdHA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/nY1eY0OMd3c-srfwkGMdHA</guid>
-      <pubDate>Sat, 20 Sep 2025 12:35:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Sep 2025 15:00:05 +0000</lastBuildDate>
     <item>
       <title>集合通信库VCCL释放GPU极致算力，创智、基流、智谱、联通、北航、清华、东南重磅开源</title>
       <link>https://mp.weixin.qq.com/s/_Tb5FGApGrAl7_Wjym1Ejg</link>
@@ -127,6 +85,48 @@
       <link>https://mp.weixin.qq.com/s/g8E5yQ6elAhHuRZrYZlcrw</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/g8E5yQ6elAhHuRZrYZlcrw</guid>
       <pubDate>Mon, 22 Sep 2025 22:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Claude Code被攻破「后门」，港科大&amp;复旦研究曝出TIP漏洞</title>
+      <link>https://mp.weixin.qq.com/s/NyNHgKSBUYDK1BVDBChsdQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NyNHgKSBUYDK1BVDBChsdQ</guid>
+      <pubDate>Tue, 23 Sep 2025 07:29:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，英伟达官宣向OpenAI投资1000亿美元！用至少400万GPU打造超级AI巨兽</title>
+      <link>https://mp.weixin.qq.com/s/2dYep4i5eH2U5bJ5jRGViQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2dYep4i5eH2U5bJ5jRGViQ</guid>
+      <pubDate>Tue, 23 Sep 2025 07:29:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>无需训练，即插即用：西湖大学发布世界模型WorldForge，让普通视频模型秒变「世界引擎」</title>
+      <link>https://mp.weixin.qq.com/s/nFvXijDhA35e04a4yB1P5w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/nFvXijDhA35e04a4yB1P5w</guid>
+      <pubDate>Tue, 23 Sep 2025 11:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>范式转移！无问芯穹推出基础设施智能体蜂群，开启Agentic智能体基础设施新纪元</title>
+      <link>https://mp.weixin.qq.com/s/CJFMtgF6fyzClU7mlOqA2g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/CJFMtgF6fyzClU7mlOqA2g</guid>
+      <pubDate>Tue, 23 Sep 2025 11:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>超越免训练剪枝：LightVLA引入可微分token剪枝，首次实现VLA模型性能和效率的双重突破</title>
+      <link>https://mp.weixin.qq.com/s/qzozyaHoEqFzCKLkZX-qNg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/qzozyaHoEqFzCKLkZX-qNg</guid>
+      <pubDate>Tue, 23 Sep 2025 12:05:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>庞若鸣还有苹果论文？改善预训练高质量数据枯竭困境</title>
+      <link>https://mp.weixin.qq.com/s/0RK2b-2y5_8_etb38LKYJA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0RK2b-2y5_8_etb38LKYJA</guid>
+      <pubDate>Tue, 23 Sep 2025 12:05:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>快手解密「AI印钞机」，首提生成式强化学习出价技术，为平台实现超过3%的广告收入提升</title>
+      <link>https://mp.weixin.qq.com/s/dTHPyEmImRO944BvV3-XAg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/dTHPyEmImRO944BvV3-XAg</guid>
+      <pubDate>Tue, 23 Sep 2025 12:05:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
