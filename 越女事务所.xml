@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 23 Sep 2025 14:54:39 +0000</lastBuildDate>
-    <item>
-      <title>白玩了三天，刺激</title>
-      <link>https://mp.weixin.qq.com/s/9VMC7jUoD14VijDIYYM00A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9VMC7jUoD14VijDIYYM00A</guid>
-      <pubDate>Wed, 27 Aug 2025 21:38:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Sep 2025 14:54:32 +0000</lastBuildDate>
     <item>
       <title>天天数钱，天天想跑</title>
       <link>https://mp.weixin.qq.com/s/aRhRw78Wi7vb4K6ZstA5nw</link>
@@ -127,6 +121,12 @@
       <link>https://mp.weixin.qq.com/s/oFKMcb76QL9JyEGyJrxkYQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/oFKMcb76QL9JyEGyJrxkYQ</guid>
       <pubDate>Tue, 23 Sep 2025 22:22:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>省税大杀器，仍然牛</title>
+      <link>https://mp.weixin.qq.com/s/dNXbchVbrleX4hLYqylDqA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/dNXbchVbrleX4hLYqylDqA</guid>
+      <pubDate>Wed, 24 Sep 2025 21:38:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
