@@ -7,25 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 23 Sep 2025 15:01:02 +0000</lastBuildDate>
-    <item>
-      <title>一次完整的App设备注册参数逆向分析之旅</title>
-      <link>https://mp.weixin.qq.com/s/94lfNP8HrgQRobvAYjhk0g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/94lfNP8HrgQRobvAYjhk0g</guid>
-      <pubDate>Tue, 16 Sep 2025 18:04:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Linux KSMBD子系统漏洞可让服务器资源被耗尽</title>
-      <link>https://mp.weixin.qq.com/s/_0X-BeKZEspje18UmLb_xQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_0X-BeKZEspje18UmLb_xQ</guid>
-      <pubDate>Wed, 17 Sep 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>OLLVM混淆技术与反混淆实战：从环境搭建到控制流还原</title>
-      <link>https://mp.weixin.qq.com/s/j0_Db-pLiE5IjmEDny2X8A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/j0_Db-pLiE5IjmEDny2X8A</guid>
-      <pubDate>Wed, 17 Sep 2025 17:59:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Sep 2025 15:01:45 +0000</lastBuildDate>
     <item>
       <title>智能时代·可信安全 | 豹趣科技——即将亮相第九届安全开发者峰会（SDC2025）</title>
       <link>https://mp.weixin.qq.com/s/SkcmHBdCTGy1qD_-qE-Vpw</link>
@@ -127,6 +109,24 @@
       <link>https://mp.weixin.qq.com/s/0IH_aJxzuHrm7O7xQMC2yg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/0IH_aJxzuHrm7O7xQMC2yg</guid>
       <pubDate>Tue, 23 Sep 2025 18:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>一加 OxygenOS 漏洞曝光，短信数据可被任意读取</title>
+      <link>https://mp.weixin.qq.com/s/ozC7Vb3hPKUwZA5BkWikkw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ozC7Vb3hPKUwZA5BkWikkw</guid>
+      <pubDate>Wed, 24 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>文末留言赠门票 | GEEKCON 2025 赛程议题公布！</title>
+      <link>https://mp.weixin.qq.com/s/kKjbPG1KcncRI6DTtGKNCQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/kKjbPG1KcncRI6DTtGKNCQ</guid>
+      <pubDate>Wed, 24 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>易语言编译器逆向</title>
+      <link>https://mp.weixin.qq.com/s/gOMyro1n98S4-5xVx79JHg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/gOMyro1n98S4-5xVx79JHg</guid>
+      <pubDate>Wed, 24 Sep 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
