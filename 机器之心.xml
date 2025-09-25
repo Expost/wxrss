@@ -7,37 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 24 Sep 2025 15:00:55 +0000</lastBuildDate>
-    <item>
-      <title>LeCun力荐的JEPA杀入LLM，用CV的思路训练LLM，性能鲁棒性双丰收</title>
-      <link>https://mp.weixin.qq.com/s/iJBi0gahRcxFXjn8tR2jkA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/iJBi0gahRcxFXjn8tR2jkA</guid>
-      <pubDate>Mon, 22 Sep 2025 15:26:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>用2D数据解锁3D世界：首个面向运动学部件分解的多视角视频扩散框架</title>
-      <link>https://mp.weixin.qq.com/s/mON11i3O2j4-RlnG-t3n_Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/mON11i3O2j4-RlnG-t3n_Q</guid>
-      <pubDate>Mon, 22 Sep 2025 18:24:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>图灵得主Yoshua Bengio，开始警惕AI有意识了</title>
-      <link>https://mp.weixin.qq.com/s/YVIInXfUbrY4ae0xCOFqxg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/YVIInXfUbrY4ae0xCOFqxg</guid>
-      <pubDate>Mon, 22 Sep 2025 18:24:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>苹果传统强项再发力，视觉领域三种模态终于统一</title>
-      <link>https://mp.weixin.qq.com/s/EsfNO75XmOJjRqj_hIF2XA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/EsfNO75XmOJjRqj_hIF2XA</guid>
-      <pubDate>Mon, 22 Sep 2025 18:24:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>这一次，天玑9500的端侧AI能力，友商赶不上了</title>
-      <link>https://mp.weixin.qq.com/s/GaB-mrV5ifkwQZdNFF_Qcw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/GaB-mrV5ifkwQZdNFF_Qcw</guid>
-      <pubDate>Mon, 22 Sep 2025 18:24:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 15:01:02 +0000</lastBuildDate>
     <item>
       <title>刚刚，DeepSeek更新了</title>
       <link>https://mp.weixin.qq.com/s/g8E5yQ6elAhHuRZrYZlcrw</link>
@@ -127,6 +97,36 @@
       <link>https://mp.weixin.qq.com/s/LrdZM1JKIQUHfojphVtcjg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/LrdZM1JKIQUHfojphVtcjg</guid>
       <pubDate>Wed, 24 Sep 2025 17:22:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>具身智能从此「边听边说」，智源研究院开源原生全双工语音大模型RoboBrain-Audio</title>
+      <link>https://mp.weixin.qq.com/s/TWCTjICOXZquFNRjUmmL5g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/TWCTjICOXZquFNRjUmmL5g</guid>
+      <pubDate>Thu, 25 Sep 2025 11:20:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>首个代码世界模型引爆AI圈，能让智能体学会「真推理」，Meta开源</title>
+      <link>https://mp.weixin.qq.com/s/YH7ExmqjIZ14QWaFOc_SeA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/YH7ExmqjIZ14QWaFOc_SeA</guid>
+      <pubDate>Thu, 25 Sep 2025 11:20:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI视频生成走向「演技生成」时代，生数科技Vidu全球发布Vidu Q2</title>
+      <link>https://mp.weixin.qq.com/s/jZLoHyclAGpgFDTecEHOUQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jZLoHyclAGpgFDTecEHOUQ</guid>
+      <pubDate>Thu, 25 Sep 2025 13:24:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>NeurIPS 2025 | 面向具身场景的生成式渲染器TC-Light来了，代码已开源</title>
+      <link>https://mp.weixin.qq.com/s/YKT9cpsgcjdP4xgRxYO91g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/YKT9cpsgcjdP4xgRxYO91g</guid>
+      <pubDate>Thu, 25 Sep 2025 17:42:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刚刚，Meta挖走OpenAI清华校友宋飏，任超级智能实验室研究负责人</title>
+      <link>https://mp.weixin.qq.com/s/Jq8SV_PgyALpK6E2XwKpSA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Jq8SV_PgyALpK6E2XwKpSA</guid>
+      <pubDate>Thu, 25 Sep 2025 17:42:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
