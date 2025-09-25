@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 24 Sep 2025 14:54:32 +0000</lastBuildDate>
-    <item>
-      <title>天天数钱，天天想跑</title>
-      <link>https://mp.weixin.qq.com/s/aRhRw78Wi7vb4K6ZstA5nw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/aRhRw78Wi7vb4K6ZstA5nw</guid>
-      <pubDate>Thu, 28 Aug 2025 22:20:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Sep 2025 14:54:04 +0000</lastBuildDate>
     <item>
       <title>狗屎运，捡了意外之财</title>
       <link>https://mp.weixin.qq.com/s/3drR8oKCuVN6yG-wWyQwOw</link>
@@ -127,6 +121,12 @@
       <link>https://mp.weixin.qq.com/s/dNXbchVbrleX4hLYqylDqA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/dNXbchVbrleX4hLYqylDqA</guid>
       <pubDate>Wed, 24 Sep 2025 21:38:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>老登跌倒，小登吃饱...</title>
+      <link>https://mp.weixin.qq.com/s/ZMNK1CBMDGnbuh3lXudGiA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ZMNK1CBMDGnbuh3lXudGiA</guid>
+      <pubDate>Thu, 25 Sep 2025 21:47:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
