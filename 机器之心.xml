@@ -7,73 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 25 Sep 2025 15:01:02 +0000</lastBuildDate>
-    <item>
-      <title>刚刚，DeepSeek更新了</title>
-      <link>https://mp.weixin.qq.com/s/g8E5yQ6elAhHuRZrYZlcrw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/g8E5yQ6elAhHuRZrYZlcrw</guid>
-      <pubDate>Mon, 22 Sep 2025 22:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Claude Code被攻破「后门」，港科大&amp;复旦研究曝出TIP漏洞</title>
-      <link>https://mp.weixin.qq.com/s/NyNHgKSBUYDK1BVDBChsdQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NyNHgKSBUYDK1BVDBChsdQ</guid>
-      <pubDate>Tue, 23 Sep 2025 07:29:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，英伟达官宣向OpenAI投资1000亿美元！用至少400万GPU打造超级AI巨兽</title>
-      <link>https://mp.weixin.qq.com/s/2dYep4i5eH2U5bJ5jRGViQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2dYep4i5eH2U5bJ5jRGViQ</guid>
-      <pubDate>Tue, 23 Sep 2025 07:29:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>无需训练，即插即用：西湖大学发布世界模型WorldForge，让普通视频模型秒变「世界引擎」</title>
-      <link>https://mp.weixin.qq.com/s/nFvXijDhA35e04a4yB1P5w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/nFvXijDhA35e04a4yB1P5w</guid>
-      <pubDate>Tue, 23 Sep 2025 11:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>范式转移！无问芯穹推出基础设施智能体蜂群，开启Agentic智能体基础设施新纪元</title>
-      <link>https://mp.weixin.qq.com/s/CJFMtgF6fyzClU7mlOqA2g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/CJFMtgF6fyzClU7mlOqA2g</guid>
-      <pubDate>Tue, 23 Sep 2025 11:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>超越免训练剪枝：LightVLA引入可微分token剪枝，首次实现VLA模型性能和效率的双重突破</title>
-      <link>https://mp.weixin.qq.com/s/qzozyaHoEqFzCKLkZX-qNg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/qzozyaHoEqFzCKLkZX-qNg</guid>
-      <pubDate>Tue, 23 Sep 2025 12:05:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>庞若鸣还有苹果论文？改善预训练高质量数据枯竭困境</title>
-      <link>https://mp.weixin.qq.com/s/0RK2b-2y5_8_etb38LKYJA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/0RK2b-2y5_8_etb38LKYJA</guid>
-      <pubDate>Tue, 23 Sep 2025 12:05:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>快手解密「AI印钞机」，首提生成式强化学习出价技术，为平台实现超过3%的广告收入提升</title>
-      <link>https://mp.weixin.qq.com/s/dTHPyEmImRO944BvV3-XAg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/dTHPyEmImRO944BvV3-XAg</guid>
-      <pubDate>Tue, 23 Sep 2025 12:05:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>机器人界的「Imagenet 时刻」，李飞飞团队官宣全球顶级具身智能挑战赛</title>
-      <link>https://mp.weixin.qq.com/s/WUqvv2K9Tht5u2-JiLbKrA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/WUqvv2K9Tht5u2-JiLbKrA</guid>
-      <pubDate>Wed, 24 Sep 2025 10:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，Sam Altman发文，透露OpenAI正在干的大事业</title>
-      <link>https://mp.weixin.qq.com/s/iXAGsCpiWlfKJUA-GthNJQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/iXAGsCpiWlfKJUA-GthNJQ</guid>
-      <pubDate>Wed, 24 Sep 2025 10:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>对抗协作+原型学习！深北莫FedPall开源，联邦学习破局特征漂移，准确率登顶SOTA</title>
-      <link>https://mp.weixin.qq.com/s/j6YzLsemSn_Zoh07R0zDvA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/j6YzLsemSn_Zoh07R0zDvA</guid>
-      <pubDate>Wed, 24 Sep 2025 15:45:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Sep 2025 15:00:26 +0000</lastBuildDate>
     <item>
       <title>AI4S新势力齐聚「SAIS Talk上智院星辰之夜」：五大前沿分享，等你来听</title>
       <link>https://mp.weixin.qq.com/s/kjo7DtBSI9sp5P6kPq6cNQ</link>
@@ -127,6 +61,72 @@
       <link>https://mp.weixin.qq.com/s/Jq8SV_PgyALpK6E2XwKpSA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/Jq8SV_PgyALpK6E2XwKpSA</guid>
       <pubDate>Thu, 25 Sep 2025 17:42:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>给几何图片写标题就能让AI更聪明，UIUC发布高质量可泛化几何数据集</title>
+      <link>https://mp.weixin.qq.com/s/f2e-k_taiioFW0WcUfYPPw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/f2e-k_taiioFW0WcUfYPPw</guid>
+      <pubDate>Thu, 25 Sep 2025 23:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>高通祭出全球最快移动SoC！卢伟冰携全球首发小米17Pro现身</title>
+      <link>https://mp.weixin.qq.com/s/I8_cMB2befyefAL2Dnpymg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/I8_cMB2befyefAL2Dnpymg</guid>
+      <pubDate>Thu, 25 Sep 2025 23:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI视频进入蒸汽机时代</title>
+      <link>https://mp.weixin.qq.com/s/9NHzO11CCdHIHpVd9c-kSg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9NHzO11CCdHIHpVd9c-kSg</guid>
+      <pubDate>Thu, 25 Sep 2025 23:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>NeurIPS Spotlight｜运动遮挡都不怕，0先验、一段视频精准预测相机参数</title>
+      <link>https://mp.weixin.qq.com/s/o62qFPUFQ1OD4_afsP159g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/o62qFPUFQ1OD4_afsP159g</guid>
+      <pubDate>Fri, 26 Sep 2025 08:32:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT新功能Pulse，GPT-5主动给你推消息，大家玩得停不下来</title>
+      <link>https://mp.weixin.qq.com/s/df4q_gQzxk_bm1KbsaLOrA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/df4q_gQzxk_bm1KbsaLOrA</guid>
+      <pubDate>Fri, 26 Sep 2025 08:32:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>视远·正心明智——机器之心2025年度AI榜单正式启动</title>
+      <link>https://mp.weixin.qq.com/s/_blusiPacpaqezJ6zm_kFA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_blusiPacpaqezJ6zm_kFA</guid>
+      <pubDate>Fri, 26 Sep 2025 11:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>学三年动画被AI秒杀，OpenAI要拍电影，好莱坞不敢买账</title>
+      <link>https://mp.weixin.qq.com/s/-Lbabr2H-nXZ848IAQOlNQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-Lbabr2H-nXZ848IAQOlNQ</guid>
+      <pubDate>Fri, 26 Sep 2025 16:26:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>创智&amp;交大发现AI能动性新规律, 78样本胜GPT5实现软件+科研自动化</title>
+      <link>https://mp.weixin.qq.com/s/cDlxo_4vz3do4PNUfImyMw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cDlxo_4vz3do4PNUfImyMw</guid>
+      <pubDate>Fri, 26 Sep 2025 16:26:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>IEEE TPAMI 2025 | 北京大学提出分布驱动的终身学习范式，用结构建模解决灾难性遗忘</title>
+      <link>https://mp.weixin.qq.com/s/MlhPz3YdOOZLewrtp_62Fw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/MlhPz3YdOOZLewrtp_62Fw</guid>
+      <pubDate>Fri, 26 Sep 2025 17:36:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Agentic Coding表现创新高，全新KAT系列模型上榜SWE-Bench</title>
+      <link>https://mp.weixin.qq.com/s/VQQbkVa6AV1K1o8sgRArJw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/VQQbkVa6AV1K1o8sgRArJw</guid>
+      <pubDate>Fri, 26 Sep 2025 17:36:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>京东AI「结果」：深度应用已成当下，万亿生态瞄准未来</title>
+      <link>https://mp.weixin.qq.com/s/Xv3quW4ZsyVU9Mcloc7CqA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Xv3quW4ZsyVU9Mcloc7CqA</guid>
+      <pubDate>Fri, 26 Sep 2025 17:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
