@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 26 Sep 2025 15:01:33 +0000</lastBuildDate>
-    <item>
-      <title>2025大厂技术岗实时更新！企业新增职位汇总</title>
-      <link>https://mp.weixin.qq.com/s/SJkxVtzBSoVdzwvS-zkbcg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/SJkxVtzBSoVdzwvS-zkbcg</guid>
-      <pubDate>Fri, 19 Sep 2025 17:59:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>新型工具可绕过越狱 iPhone 生物验证</title>
-      <link>https://mp.weixin.qq.com/s/Fgpn_AYmnaeVjEEI-daTlA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Fgpn_AYmnaeVjEEI-daTlA</guid>
-      <pubDate>Fri, 19 Sep 2025 17:59:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Sep 2025 15:00:34 +0000</lastBuildDate>
     <item>
       <title>PC单机游戏无限金币-新手初体验</title>
       <link>https://mp.weixin.qq.com/s/hvZCM5fsdg4dc4v9wxWIiQ</link>
@@ -127,6 +115,18 @@
       <link>https://mp.weixin.qq.com/s/sR8-jCt8Y1Mzy5lBmtWZCg</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/sR8-jCt8Y1Mzy5lBmtWZCg</guid>
       <pubDate>Fri, 26 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>应对量子计算威胁！格尔软件官网已启用抗量子密码技术</title>
+      <link>https://mp.weixin.qq.com/s/JQ3hlMOJF6PWr5awkI-8iA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/JQ3hlMOJF6PWr5awkI-8iA</guid>
+      <pubDate>Sat, 27 Sep 2025 17:59:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>Nepctf2025 PWN部分题解</title>
+      <link>https://mp.weixin.qq.com/s/yH465zC9nYItxC0VDKbDMg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/yH465zC9nYItxC0VDKbDMg</guid>
+      <pubDate>Sat, 27 Sep 2025 17:59:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
