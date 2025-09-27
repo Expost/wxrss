@@ -7,31 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 26 Sep 2025 15:00:26 +0000</lastBuildDate>
-    <item>
-      <title>AI4S新势力齐聚「SAIS Talk上智院星辰之夜」：五大前沿分享，等你来听</title>
-      <link>https://mp.weixin.qq.com/s/kjo7DtBSI9sp5P6kPq6cNQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/kjo7DtBSI9sp5P6kPq6cNQ</guid>
-      <pubDate>Wed, 24 Sep 2025 15:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>数智赋能：建筑地产行业的转型突围与未来筑造</title>
-      <link>https://mp.weixin.qq.com/s/lXRxamKMWM5U6cKFYOCgFA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/lXRxamKMWM5U6cKFYOCgFA</guid>
-      <pubDate>Wed, 24 Sep 2025 15:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>ICCV 25 Highlight | 扩散过程「早预警」实现6x加速，AIGC生图的高效后门防御</title>
-      <link>https://mp.weixin.qq.com/s/yaiDxLU0DYd1-F5A-f8kCg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/yaiDxLU0DYd1-F5A-f8kCg</guid>
-      <pubDate>Wed, 24 Sep 2025 17:22:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>大模型七连发，外国人馋透了！阿里云栖大会全栈升级够狠</title>
-      <link>https://mp.weixin.qq.com/s/LrdZM1JKIQUHfojphVtcjg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/LrdZM1JKIQUHfojphVtcjg</guid>
-      <pubDate>Wed, 24 Sep 2025 17:22:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sat, 27 Sep 2025 14:59:41 +0000</lastBuildDate>
     <item>
       <title>具身智能从此「边听边说」，智源研究院开源原生全双工语音大模型RoboBrain-Audio</title>
       <link>https://mp.weixin.qq.com/s/TWCTjICOXZquFNRjUmmL5g</link>
@@ -127,6 +103,30 @@
       <link>https://mp.weixin.qq.com/s/Xv3quW4ZsyVU9Mcloc7CqA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/Xv3quW4ZsyVU9Mcloc7CqA</guid>
       <pubDate>Fri, 26 Sep 2025 17:36:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>先验+后验加持，大模型能否 hold 住推理预测的现实「溢出」？</title>
+      <link>https://mp.weixin.qq.com/s/90n_lQxKA7er41zcXfWd3g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/90n_lQxKA7er41zcXfWd3g</guid>
+      <pubDate>Sat, 27 Sep 2025 09:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>规范对齐时代：GPT-5 断层领先，让安全与行为边界更明晰</title>
+      <link>https://mp.weixin.qq.com/s/tw15KvvsQ5CEk9eSK9NcmA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/tw15KvvsQ5CEk9eSK9NcmA</guid>
+      <pubDate>Sat, 27 Sep 2025 13:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI研究大模型对GDP贡献，三大行业已能代替人类，并自曝不敌Claude</title>
+      <link>https://mp.weixin.qq.com/s/W7RKw7j34P7NAj_UqA1_WA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/W7RKw7j34P7NAj_UqA1_WA</guid>
+      <pubDate>Sat, 27 Sep 2025 13:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>AI能「拍」好电影？五部短片亮相釜山电影节，答案出乎意料</title>
+      <link>https://mp.weixin.qq.com/s/A46cYph1aIfnuueOO6tJxQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/A46cYph1aIfnuueOO6tJxQ</guid>
+      <pubDate>Sat, 27 Sep 2025 13:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
