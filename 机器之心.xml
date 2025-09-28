@@ -7,67 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 27 Sep 2025 14:59:41 +0000</lastBuildDate>
-    <item>
-      <title>具身智能从此「边听边说」，智源研究院开源原生全双工语音大模型RoboBrain-Audio</title>
-      <link>https://mp.weixin.qq.com/s/TWCTjICOXZquFNRjUmmL5g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/TWCTjICOXZquFNRjUmmL5g</guid>
-      <pubDate>Thu, 25 Sep 2025 11:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>首个代码世界模型引爆AI圈，能让智能体学会「真推理」，Meta开源</title>
-      <link>https://mp.weixin.qq.com/s/YH7ExmqjIZ14QWaFOc_SeA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/YH7ExmqjIZ14QWaFOc_SeA</guid>
-      <pubDate>Thu, 25 Sep 2025 11:20:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>AI视频生成走向「演技生成」时代，生数科技Vidu全球发布Vidu Q2</title>
-      <link>https://mp.weixin.qq.com/s/jZLoHyclAGpgFDTecEHOUQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jZLoHyclAGpgFDTecEHOUQ</guid>
-      <pubDate>Thu, 25 Sep 2025 13:24:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>NeurIPS 2025 | 面向具身场景的生成式渲染器TC-Light来了，代码已开源</title>
-      <link>https://mp.weixin.qq.com/s/YKT9cpsgcjdP4xgRxYO91g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/YKT9cpsgcjdP4xgRxYO91g</guid>
-      <pubDate>Thu, 25 Sep 2025 17:42:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，Meta挖走OpenAI清华校友宋飏，任超级智能实验室研究负责人</title>
-      <link>https://mp.weixin.qq.com/s/Jq8SV_PgyALpK6E2XwKpSA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Jq8SV_PgyALpK6E2XwKpSA</guid>
-      <pubDate>Thu, 25 Sep 2025 17:42:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>给几何图片写标题就能让AI更聪明，UIUC发布高质量可泛化几何数据集</title>
-      <link>https://mp.weixin.qq.com/s/f2e-k_taiioFW0WcUfYPPw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/f2e-k_taiioFW0WcUfYPPw</guid>
-      <pubDate>Thu, 25 Sep 2025 23:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>高通祭出全球最快移动SoC！卢伟冰携全球首发小米17Pro现身</title>
-      <link>https://mp.weixin.qq.com/s/I8_cMB2befyefAL2Dnpymg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/I8_cMB2befyefAL2Dnpymg</guid>
-      <pubDate>Thu, 25 Sep 2025 23:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>AI视频进入蒸汽机时代</title>
-      <link>https://mp.weixin.qq.com/s/9NHzO11CCdHIHpVd9c-kSg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9NHzO11CCdHIHpVd9c-kSg</guid>
-      <pubDate>Thu, 25 Sep 2025 23:15:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>NeurIPS Spotlight｜运动遮挡都不怕，0先验、一段视频精准预测相机参数</title>
-      <link>https://mp.weixin.qq.com/s/o62qFPUFQ1OD4_afsP159g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/o62qFPUFQ1OD4_afsP159g</guid>
-      <pubDate>Fri, 26 Sep 2025 08:32:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT新功能Pulse，GPT-5主动给你推消息，大家玩得停不下来</title>
-      <link>https://mp.weixin.qq.com/s/df4q_gQzxk_bm1KbsaLOrA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/df4q_gQzxk_bm1KbsaLOrA</guid>
-      <pubDate>Fri, 26 Sep 2025 08:32:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 28 Sep 2025 15:01:54 +0000</lastBuildDate>
     <item>
       <title>视远·正心明智——机器之心2025年度AI榜单正式启动</title>
       <link>https://mp.weixin.qq.com/s/_blusiPacpaqezJ6zm_kFA</link>
@@ -127,6 +67,66 @@
       <link>https://mp.weixin.qq.com/s/A46cYph1aIfnuueOO6tJxQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/A46cYph1aIfnuueOO6tJxQ</guid>
       <pubDate>Sat, 27 Sep 2025 13:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>让大模型合成检查器：UIUC团队挖出Linux内核90余个长期潜伏漏洞</title>
+      <link>https://mp.weixin.qq.com/s/6ayMsGjfhft7KdpPfG4kSA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/6ayMsGjfhft7KdpPfG4kSA</guid>
+      <pubDate>Sun, 28 Sep 2025 08:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>新一代AI教师是什么样？学而思让它从L2「助手」跃迁至L3「老师」</title>
+      <link>https://mp.weixin.qq.com/s/Jhg7k_G6RygM1nSt-8sSUw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Jhg7k_G6RygM1nSt-8sSUw</guid>
+      <pubDate>Sun, 28 Sep 2025 08:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>登上NeurIPS，Genesis开创无需OCC引导的多模态生成新范式，在视频与激光雷达指标上达到SOTA水平</title>
+      <link>https://mp.weixin.qq.com/s/np5US9uEb72KUbi2-KIoTg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/np5US9uEb72KUbi2-KIoTg</guid>
+      <pubDate>Sun, 28 Sep 2025 12:48:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>一文读懂鲸智百应：驱动组织进化的企业AI操作系统，让企业从「用AI」到「是AI」</title>
+      <link>https://mp.weixin.qq.com/s/vzWrQLMguxvcLkDCptst3g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/vzWrQLMguxvcLkDCptst3g</guid>
+      <pubDate>Sun, 28 Sep 2025 12:48:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>RLHF与RLVR全都要，陈丹琦团队最新力作将推理能力拓展到通用智能</title>
+      <link>https://mp.weixin.qq.com/s/NdmF8GAuf-wCnop3I1Edtw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NdmF8GAuf-wCnop3I1Edtw</guid>
+      <pubDate>Sun, 28 Sep 2025 12:48:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「从追赶者到引领者，路有多远？」 我们和CANN一线开发者聊了聊</title>
+      <link>https://mp.weixin.qq.com/s/9l4SqONak3OHTj2NfYoRKw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9l4SqONak3OHTj2NfYoRKw</guid>
+      <pubDate>Sun, 28 Sep 2025 12:48:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>OpenAI被指欺诈，用户输入可能会被秘密路由到新模型GPT-5-Chat-Safety</title>
+      <link>https://mp.weixin.qq.com/s/f-mdNj5ZMJIRveepLqrTHA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/f-mdNj5ZMJIRveepLqrTHA</guid>
+      <pubDate>Sun, 28 Sep 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>普通人也能「炼丹」了？我拿小红书文案喂给openPangu-Embedded-1B的模型，几步就把它变成了专属文案大师！</title>
+      <link>https://mp.weixin.qq.com/s/WQKmptrd2t4nufVwgfrQaQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/WQKmptrd2t4nufVwgfrQaQ</guid>
+      <pubDate>Sun, 28 Sep 2025 15:04:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>下一代推荐系统长这样，Meta最新研究RecoWorld，从「猜你喜欢」到「听你指令」</title>
+      <link>https://mp.weixin.qq.com/s/J2qoNk3UCRlT1wHLsvOHTA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/J2qoNk3UCRlT1wHLsvOHTA</guid>
+      <pubDate>Sun, 28 Sep 2025 18:29:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>大神爆肝一个月，复刻DeepMind世界模型，300万参数就能玩实时交互像素游戏</title>
+      <link>https://mp.weixin.qq.com/s/X9i0w_W1IDpuRj_22tWUng</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/X9i0w_W1IDpuRj_22tWUng</guid>
+      <pubDate>Sun, 28 Sep 2025 18:29:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
