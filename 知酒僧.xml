@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>知酒僧</title>
+    <link>https://mp.weixin.qq.com</link>
+    <description>知酒僧</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 06 Oct 2025 16:13:57 +0000</lastBuildDate>
+    <item>
+      <title>酒后闲话</title>
+      <link>https://mp.weixin.qq.com/s/dB-0pqPgB5gj2t9rlVWDqw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/dB-0pqPgB5gj2t9rlVWDqw</guid>
+      <pubDate>Fri, 02 Aug 2024 14:32:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>好久不见</title>
+      <link>https://mp.weixin.qq.com/s/WRgefGJVbge2o9PFAhwjMw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/WRgefGJVbge2o9PFAhwjMw</guid>
+      <pubDate>Tue, 14 Jan 2025 16:19:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>月末闲聊</title>
+      <link>https://mp.weixin.qq.com/s/tIzLwQLY7aRVmpiC-JC1gg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/tIzLwQLY7aRVmpiC-JC1gg</guid>
+      <pubDate>Fri, 28 Feb 2025 16:27:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>一场拎壶冲的“友好局”品鉴</title>
+      <link>https://mp.weixin.qq.com/s/HpCS1zQDwpilZKx7WJTQCw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HpCS1zQDwpilZKx7WJTQCw</guid>
+      <pubDate>Wed, 26 Mar 2025 18:28:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>白酒购酒指南：终于回来了！</title>
+      <link>https://mp.weixin.qq.com/s/cwNIbZQQH538EVsoeOXuOw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cwNIbZQQH538EVsoeOXuOw</guid>
+      <pubDate>Thu, 17 Apr 2025 16:52:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>扯闲篇</title>
+      <link>https://mp.weixin.qq.com/s/qiiaVU5b7hvBPQ427GyxbA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/qiiaVU5b7hvBPQ427GyxbA</guid>
+      <pubDate>Mon, 23 Jun 2025 13:43:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>品鉴实录：酒中渣男</title>
+      <link>https://mp.weixin.qq.com/s/eZj2YnaoI1tbRVIuRY-tRQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/eZj2YnaoI1tbRVIuRY-tRQ</guid>
+      <pubDate>Mon, 28 Jul 2025 14:43:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>八月白酒购酒指南：拿什么拯救你？</title>
+      <link>https://mp.weixin.qq.com/s/156vls_cBQW0az_eG2SpJw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/156vls_cBQW0az_eG2SpJw</guid>
+      <pubDate>Tue, 12 Aug 2025 13:16:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>滴酒不剩局：老和尚娶媳妇——头一回！</title>
+      <link>https://mp.weixin.qq.com/s/xovUHh8a_pHsMdBYUhi7ww</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/xovUHh8a_pHsMdBYUhi7ww</guid>
+      <pubDate>Mon, 15 Sep 2025 14:32:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>中秋购酒指南：自喝和送礼的白酒怎么选？</title>
+      <link>https://mp.weixin.qq.com/s/DBYhZR-lD5koGe_0WKmMHQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/DBYhZR-lD5koGe_0WKmMHQ</guid>
+      <pubDate>Mon, 29 Sep 2025 18:29:00 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
