@@ -1,132 +1,60 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>晚点LatePost</title>
+    <title>晚点latepost</title>
     <link>https://mp.weixin.qq.com</link>
-    <description>晚点LatePost</description>
+    <description>晚点latepost</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 27 Sep 2025 15:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 09:46:31 +0000</lastBuildDate>
     <item>
-      <title>当酒店业卷成鱿鱼游戏，中国经营最多酒店的品牌怎么突围？</title>
-      <link>https://mp.weixin.qq.com/s/n5uq0DX4IR1TKQcFt4dU4Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/n5uq0DX4IR1TKQcFt4dU4Q</guid>
-      <pubDate>Thu, 18 Sep 2025 22:42:00 +0800</pubDate>
+      <title>无人配送车半年吸金 35 亿，智驾内卷的受益者</title>
+      <link>https://mp.weixin.qq.com/s/NvRmYwdmzT720EDjbaTh8g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NvRmYwdmzT720EDjbaTh8g</guid>
+      <pubDate>Sun, 28 Sep 2025 23:23:00 +0800</pubDate>
     </item>
     <item>
-      <title>晚点独家丨淘宝闪购和饿了么做团购，与高德扫街榜双线作战</title>
-      <link>https://mp.weixin.qq.com/s/lKjSwTLLjJchB6dpCBJBbA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/lKjSwTLLjJchB6dpCBJBbA</guid>
-      <pubDate>Fri, 19 Sep 2025 14:12:00 +0800</pubDate>
+      <title>智平方创始人郭彦东：没有技术自信，中国机器人就没有创新突破</title>
+      <link>https://mp.weixin.qq.com/s/nkhDVXdaw_U_v-87XoJe2g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/nkhDVXdaw_U_v-87XoJe2g</guid>
+      <pubDate>Sun, 28 Sep 2025 23:23:00 +0800</pubDate>
     </item>
     <item>
-      <title>手机厂商下场造屏，意味着什么？</title>
-      <link>https://mp.weixin.qq.com/s/xEu_whAzn5PZgK1-rM1O3w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/xEu_whAzn5PZgK1-rM1O3w</guid>
-      <pubDate>Sat, 20 Sep 2025 23:38:00 +0800</pubDate>
+      <title>晚点专访张益唐：70 岁数学家，追逐第二次闪电</title>
+      <link>https://mp.weixin.qq.com/s/mGMYqJQlsg0_vgtr6huqtw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/mGMYqJQlsg0_vgtr6huqtw</guid>
+      <pubDate>Mon, 29 Sep 2025 09:27:00 +0800</pubDate>
     </item>
     <item>
-      <title>当奶茶店变成快消工厂：现制茶饮的效率算法丨晚点小数据</title>
-      <link>https://mp.weixin.qq.com/s/wgOPR22nb0U4_PvTmECQuQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/wgOPR22nb0U4_PvTmECQuQ</guid>
-      <pubDate>Sat, 20 Sep 2025 23:38:00 +0800</pubDate>
+      <title>纺织代工龙头的又一次周期下注，申洲国际在赌什么？</title>
+      <link>https://mp.weixin.qq.com/s/-XQ4MP-jju9O6IQTSvVqdw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-XQ4MP-jju9O6IQTSvVqdw</guid>
+      <pubDate>Mon, 29 Sep 2025 11:55:00 +0800</pubDate>
     </item>
     <item>
-      <title>君乐宝的 2 万亩 “试验”：用极致工业化，重构乳业逻辑</title>
-      <link>https://mp.weixin.qq.com/s/P771U1x3zKNaGcWPqvvgcg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/P771U1x3zKNaGcWPqvvgcg</guid>
-      <pubDate>Tue, 23 Sep 2025 00:23:00 +0800</pubDate>
+      <title>四维图新 2.5 亿入股鉴智，后者管理层暂不调整</title>
+      <link>https://mp.weixin.qq.com/s/pZppFjrjhHKkgYxG63UMFg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/pZppFjrjhHKkgYxG63UMFg</guid>
+      <pubDate>Tue, 30 Sep 2025 08:28:00 +0800</pubDate>
     </item>
     <item>
-      <title>禾赛科技 CEO 李一帆：“每天早上起来，我都在想昨天的自己的傻”</title>
-      <link>https://mp.weixin.qq.com/s/D5sK38cl-3rJmkpPt96bUg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/D5sK38cl-3rJmkpPt96bUg</guid>
-      <pubDate>Tue, 23 Sep 2025 00:23:00 +0800</pubDate>
+      <title>贝壳再次选择了 “难”</title>
+      <link>https://mp.weixin.qq.com/s/2VvsQKIz-5u2fzB01BviAQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2VvsQKIz-5u2fzB01BviAQ</guid>
+      <pubDate>Tue, 30 Sep 2025 08:28:00 +0800</pubDate>
     </item>
     <item>
-      <title>晚点年度招聘丨招 AI、消费、人物作者</title>
-      <link>https://mp.weixin.qq.com/s/cOdd5aa0wZVUHG7qIFfQ1w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cOdd5aa0wZVUHG7qIFfQ1w</guid>
-      <pubDate>Tue, 23 Sep 2025 12:37:00 +0800</pubDate>
+      <title>半年 8 款新车，大六座 SUV 的 “最卷之战” 即将上演</title>
+      <link>https://mp.weixin.qq.com/s/LGAdbH93kZx3KfpjuBtq_g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/LGAdbH93kZx3KfpjuBtq_g</guid>
+      <pubDate>Wed, 01 Oct 2025 11:08:00 +0800</pubDate>
     </item>
     <item>
-      <title>晚点独家丨阿里速卖通转移战略重心，要和亚马逊在全球抢夺头部品牌</title>
-      <link>https://mp.weixin.qq.com/s/wqGbvnsyOZparmukeAgAjw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/wqGbvnsyOZparmukeAgAjw</guid>
-      <pubDate>Tue, 23 Sep 2025 21:56:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>当 AI 从试点进入规模化，华为数字金融的长期选择</title>
-      <link>https://mp.weixin.qq.com/s/dm1DvtBd4-xM81xhIrflUA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/dm1DvtBd4-xM81xhIrflUA</guid>
-      <pubDate>Tue, 23 Sep 2025 21:56:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>Meta AI 人才动荡，上亿美元为何留不住人？丨晚点聊</title>
-      <link>https://mp.weixin.qq.com/s/umysNN7pDXSbvqCnOhed9Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/umysNN7pDXSbvqCnOhed9Q</guid>
-      <pubDate>Wed, 24 Sep 2025 23:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>阿里饱和式投入 AI，目标超级智能</title>
-      <link>https://mp.weixin.qq.com/s/7UW4NUPN0KyiK8NXQY3cCw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/7UW4NUPN0KyiK8NXQY3cCw</guid>
-      <pubDate>Wed, 24 Sep 2025 23:26:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>打破外资品牌垄断，问界 M9 的同级销冠之路</title>
-      <link>https://mp.weixin.qq.com/s/aCYiBHChntrQxYDKsNP7GA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/aCYiBHChntrQxYDKsNP7GA</guid>
-      <pubDate>Wed, 24 Sep 2025 23:26:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025丨四年极限自救，变成一个有吸引力的筹码</title>
-      <link>https://mp.weixin.qq.com/s/ChYHrhgXBzerPRV46aV35w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ChYHrhgXBzerPRV46aV35w</guid>
-      <pubDate>Fri, 26 Sep 2025 08:32:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025丨对话前白宫官员和资深律师丨TikTok 美国大局已定</title>
-      <link>https://mp.weixin.qq.com/s/3pHP5om0cYwoZCLnBcfzHg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/3pHP5om0cYwoZCLnBcfzHg</guid>
-      <pubDate>Fri, 26 Sep 2025 08:32:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2023丨直击 TikTok 听证会，日益收紧的包围圈</title>
-      <link>https://mp.weixin.qq.com/s/AMnFxSpaDCf_hNKZWcEe0Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/AMnFxSpaDCf_hNKZWcEe0Q</guid>
-      <pubDate>Fri, 26 Sep 2025 08:32:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2022丨谁在管理 TikTok：五年五任管理者，没有中心的网状组织</title>
-      <link>https://mp.weixin.qq.com/s/diMrKR4Yllv9Zs5xPHMe3g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/diMrKR4Yllv9Zs5xPHMe3g</guid>
-      <pubDate>Fri, 26 Sep 2025 08:32:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2020丨等待 2:30，印度封杀中国手机应用那一夜</title>
-      <link>https://mp.weixin.qq.com/s/Mv6Hbqf-SZlMm1bzJwtLVw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Mv6Hbqf-SZlMm1bzJwtLVw</guid>
-      <pubDate>Fri, 26 Sep 2025 08:32:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2020丨直击 TikTok 美国听证会</title>
-      <link>https://mp.weixin.qq.com/s/xTA5WTVPmyem-Pug7RP_pg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/xTA5WTVPmyem-Pug7RP_pg</guid>
-      <pubDate>Fri, 26 Sep 2025 08:32:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>晚点独家丨红杉中国独家领投 AI 陪伴硬件，珞博智能完成数千万天使 + 轮融资</title>
-      <link>https://mp.weixin.qq.com/s/NKwQDzKTTQ3mBb8t4gsJ2g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NKwQDzKTTQ3mBb8t4gsJ2g</guid>
-      <pubDate>Sat, 27 Sep 2025 10:05:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>国产制造业在发生什么：走进尊界 S800 工厂</title>
-      <link>https://mp.weixin.qq.com/s/qz1a88au2TjVSSDQCZtEOg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/qz1a88au2TjVSSDQCZtEOg</guid>
-      <pubDate>Sat, 27 Sep 2025 10:05:00 +0800</pubDate>
+      <title>新势力不再只是 “蔚小理”，“BIG 6+1” 挑战比亚迪</title>
+      <link>https://mp.weixin.qq.com/s/NGrwF9JTmQJvNki8baRboQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NGrwF9JTmQJvNki8baRboQ</guid>
+      <pubDate>Wed, 01 Oct 2025 11:08:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
