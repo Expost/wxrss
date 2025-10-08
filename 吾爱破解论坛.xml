@@ -7,84 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 24 Sep 2025 15:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 14:05:08 +0000</lastBuildDate>
     <item>
-      <title>WebAssembly 逆向工程挑战赛</title>
-      <link>https://mp.weixin.qq.com/s/ADFdYMXTqbdg4CRJu09cMg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ADFdYMXTqbdg4CRJu09cMg</guid>
-      <pubDate>Fri, 25 Jul 2025 11:52:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>某米无线键鼠2逆向初探</title>
-      <link>https://mp.weixin.qq.com/s/5zT1Wnex0uOKiuiI-2DYlg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/5zT1Wnex0uOKiuiI-2DYlg</guid>
-      <pubDate>Mon, 28 Jul 2025 18:13:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>获取windbgx离线安装包</title>
-      <link>https://mp.weixin.qq.com/s/O9H8jOiEexhKTgA5Zru8IA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/O9H8jOiEexhKTgA5Zru8IA</guid>
-      <pubDate>Thu, 07 Aug 2025 15:16:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>【PC样本分析】某多多上steamcdk激活码的操作分析</title>
-      <link>https://mp.weixin.qq.com/s/sMV3WIU-3n_vHtamOeljCw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/sMV3WIU-3n_vHtamOeljCw</guid>
-      <pubDate>Thu, 04 Sep 2025 15:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>【MacOS逆向] DaisyDisk v4.31 破解记录</title>
-      <link>https://mp.weixin.qq.com/s/74Qo-cXw3PfEyId03Ktczg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/74Qo-cXw3PfEyId03Ktczg</guid>
-      <pubDate>Fri, 05 Sep 2025 08:24:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>“一款优秀的网页表格控件的逆向分析”-探讨完全AI编程实现逆向分析的可能性和价值</title>
-      <link>https://mp.weixin.qq.com/s/So5x_nLhACpcMLhYRFZUJA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/So5x_nLhACpcMLhYRFZUJA</guid>
-      <pubDate>Sat, 06 Sep 2025 08:33:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>年更预警，三连准备！</title>
-      <link>https://mp.weixin.qq.com/s/cQr9sCIFXzD8BulNG3PtjQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cQr9sCIFXzD8BulNG3PtjQ</guid>
-      <pubDate>Sun, 07 Sep 2025 23:01:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>吾爱破解安卓逆向入门教程《安卓逆向这档事》二十四课、Unidbg之补完环境我就睡(上)</title>
-      <link>https://mp.weixin.qq.com/s/2YaxMSimbffbXcyiomKzPg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2YaxMSimbffbXcyiomKzPg</guid>
-      <pubDate>Mon, 08 Sep 2025 14:48:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>【Web逆向】极验4代 九宫格协议分析</title>
-      <link>https://mp.weixin.qq.com/s/bSrpmtk1eKikCitb3OvTUA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/bSrpmtk1eKikCitb3OvTUA</guid>
-      <pubDate>Tue, 09 Sep 2025 15:00:00 +0800</pubDate>
+      <title>（图作者 | @Aoemax）</title>
+      <link>https://mp.weixin.qq.com/s/hUbRgyMFwHxKaGJ0fjhRUQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/hUbRgyMFwHxKaGJ0fjhRUQ</guid>
+      <pubDate>Wed, 08 Oct 2025 22:04:00 +0800</pubDate>
     </item>
     <item>
       <title>（图作者 | @Aoemax）</title>
-      <link>https://mp.weixin.qq.com/s/Lt0m4zauMPntwkgpIxhuSw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Lt0m4zauMPntwkgpIxhuSw</guid>
-      <pubDate>Wed, 10 Sep 2025 23:02:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>WinRAR之CVE-2025-6218漏洞复现与分析</title>
-      <link>https://mp.weixin.qq.com/s/Rz_YzqHP_PsNEygpFx20rg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Rz_YzqHP_PsNEygpFx20rg</guid>
-      <pubDate>Fri, 12 Sep 2025 18:18:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>【漏洞分析】某度网盘存在rce详解及利用过程</title>
-      <link>https://mp.weixin.qq.com/s/-igwEBiEaDp1cv3aHLTmpg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-igwEBiEaDp1cv3aHLTmpg</guid>
-      <pubDate>Thu, 18 Sep 2025 17:53:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>【MacOS逆向】Reveal逆向破解：从验证废除到凭证植入</title>
-      <link>https://mp.weixin.qq.com/s/QbAwAB5OdgKxxjyV0arF-g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/QbAwAB5OdgKxxjyV0arF-g</guid>
-      <pubDate>Wed, 24 Sep 2025 16:44:00 +0800</pubDate>
+      <link>https://mp.weixin.qq.com/s/x_aVo-T19ieDGeqnbEhDkg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/x_aVo-T19ieDGeqnbEhDkg</guid>
+      <pubDate>Wed, 08 Oct 2025 22:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
