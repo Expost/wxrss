@@ -7,126 +7,48 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Oct 2025 06:59:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 14:02:39 +0000</lastBuildDate>
     <item>
-      <title>1.5B推理模型新SOTA，RL训练新解法打破「简单题过拟合、难题学不动」的魔咒</title>
-      <link>https://mp.weixin.qq.com/s/Mhy9fWM8KVnu3mTy7I3osQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Mhy9fWM8KVnu3mTy7I3osQ</guid>
-      <pubDate>Fri, 03 Oct 2025 16:02:00 +0800</pubDate>
+      <title>Being-VL的视觉BPE路线：把「看」和「说」真正统一起来</title>
+      <link>https://mp.weixin.qq.com/s/c53EDKSD8yGPcqDOAdU6Cg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/c53EDKSD8yGPcqDOAdU6Cg</guid>
+      <pubDate>Thu, 09 Oct 2025 10:21:00 +0800</pubDate>
     </item>
     <item>
-      <title>Insta360最新全景综述：全景视觉的挑战、方法与未来</title>
-      <link>https://mp.weixin.qq.com/s/O-4L9pACS-kGxTX6fCLtOA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/O-4L9pACS-kGxTX6fCLtOA</guid>
-      <pubDate>Sat, 04 Oct 2025 11:36:00 +0800</pubDate>
+      <title>微信公众平台</title>
+      <link>https://mp.weixin.qq.com/s/qolvGDUY22luJYzmq07tgw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/qolvGDUY22luJYzmq07tgw</guid>
+      <pubDate>Thu, 09 Oct 2025 10:21:00 +0800</pubDate>
     </item>
     <item>
-      <title>吴恩达执教的深度学习课程CS230秋季上新，新增GPT-5专题</title>
-      <link>https://mp.weixin.qq.com/s/IONLL-wMSxVgEHHuiIBt1w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/IONLL-wMSxVgEHHuiIBt1w</guid>
-      <pubDate>Sat, 04 Oct 2025 11:36:00 +0800</pubDate>
+      <title>微信公众平台</title>
+      <link>https://mp.weixin.qq.com/s/SQw1EGxj-viONDcRopx3xA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/SQw1EGxj-viONDcRopx3xA</guid>
+      <pubDate>Thu, 09 Oct 2025 10:21:00 +0800</pubDate>
     </item>
     <item>
-      <title>你敢信？GPT-5的电脑操作水平只比人类低2%了</title>
-      <link>https://mp.weixin.qq.com/s/vbTYe2nLljf5hVkhHx7Grw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/vbTYe2nLljf5hVkhHx7Grw</guid>
-      <pubDate>Sat, 04 Oct 2025 11:36:00 +0800</pubDate>
+      <title>微信公众平台</title>
+      <link>https://mp.weixin.qq.com/s/ccGLfIe9CSspVWc3TVf6fA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ccGLfIe9CSspVWc3TVf6fA</guid>
+      <pubDate>Thu, 09 Oct 2025 22:02:00 +0800</pubDate>
     </item>
     <item>
-      <title>北大校友、华人学者金驰新身份——普林斯顿大学终身副教授</title>
-      <link>https://mp.weixin.qq.com/s/ZI2UN8pCrK47bwSeMpvSCA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ZI2UN8pCrK47bwSeMpvSCA</guid>
-      <pubDate>Sat, 04 Oct 2025 13:30:00 +0800</pubDate>
+      <title>微信公众平台</title>
+      <link>https://mp.weixin.qq.com/s/LDokC_fXorPEbX37he-Esg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/LDokC_fXorPEbX37he-Esg</guid>
+      <pubDate>Thu, 09 Oct 2025 12:42:00 +0800</pubDate>
     </item>
     <item>
-      <title>从「知题」到「知人」：UserRL让智能体学会「以人为本」</title>
-      <link>https://mp.weixin.qq.com/s/HpFIFebKAabgvPLC8jeMLA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HpFIFebKAabgvPLC8jeMLA</guid>
-      <pubDate>Sun, 05 Oct 2025 14:40:00 +0800</pubDate>
+      <title>Qwen要做机器人了：林俊旸官宣成立具身智能团队</title>
+      <link>https://mp.weixin.qq.com/s/BM7ochfDUe9wZCklnw3wmw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/BM7ochfDUe9wZCklnw3wmw</guid>
+      <pubDate>Thu, 09 Oct 2025 12:42:00 +0800</pubDate>
     </item>
     <item>
-      <title>Meta FAIR田渊栋唯一作者发文：拆解模型「顿悟时刻」</title>
-      <link>https://mp.weixin.qq.com/s/NTTrbhT2d88eCkDuwL9urg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NTTrbhT2d88eCkDuwL9urg</guid>
-      <pubDate>Sun, 05 Oct 2025 14:40:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>开源仅一周，鹅厂文生图大模型强势登顶，击败谷歌Nano-Banana</title>
-      <link>https://mp.weixin.qq.com/s/9K0lUeGpflawm0qfptzG2A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9K0lUeGpflawm0qfptzG2A</guid>
-      <pubDate>Sun, 05 Oct 2025 14:40:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>EMNLP 2025 | CARE：无需外部工具，让大模型原生检索增强推理实现上下文高保真</title>
-      <link>https://mp.weixin.qq.com/s/-nQcoGJu6zbYygK44EMFyg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-nQcoGJu6zbYygK44EMFyg</guid>
-      <pubDate>Mon, 06 Oct 2025 11:57:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>多个编码智能体同时使用会不会混乱？海外开发者热议</title>
-      <link>https://mp.weixin.qq.com/s/iSnn0oxoOl3YmcPjGrKscQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/iSnn0oxoOl3YmcPjGrKscQ</guid>
-      <pubDate>Mon, 06 Oct 2025 11:57:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>苹果再发论文：精准定位LLM幻觉，GPT-5、o3都办不到</title>
-      <link>https://mp.weixin.qq.com/s/2kk7qE7WxyG1gzBtTl0ZLA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2kk7qE7WxyG1gzBtTl0ZLA</guid>
-      <pubDate>Mon, 06 Oct 2025 11:57:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>清华、NVIDIA、斯坦福提出DiffusionNFT：基于前向过程的扩散强化学习新范式，训练效率提升25倍</title>
-      <link>https://mp.weixin.qq.com/s/1R0D7WN6-t6HBtQ4hpFjwA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/1R0D7WN6-t6HBtQ4hpFjwA</guid>
-      <pubDate>Tue, 07 Oct 2025 08:08:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>刚刚，OpenAI开发者大会重磅发布：AgentKit、Codex正式版、Apps SDK与Sora 2 API</title>
-      <link>https://mp.weixin.qq.com/s/d9-xJiuuxvLyyE52cL6Jog</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/d9-xJiuuxvLyyE52cL6Jog</guid>
-      <pubDate>Tue, 07 Oct 2025 08:08:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>田渊栋与Russell团队联手，证明Transformer能在训练中自然学会叠加推理</title>
-      <link>https://mp.weixin.qq.com/s/gnHQcKaq5Kehr11Jh95AHg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/gnHQcKaq5Kehr11Jh95AHg</guid>
-      <pubDate>Tue, 07 Oct 2025 11:56:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>DeepMind发布代码修复AI智能体CodeMender，实现「被动响应」与「主动防御」一体化</title>
-      <link>https://mp.weixin.qq.com/s/O0hZVicuQDo3jWdAz_uUIw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/O0hZVicuQDo3jWdAz_uUIw</guid>
-      <pubDate>Tue, 07 Oct 2025 15:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>2025诺贝尔物理学奖花落宏观量子隧穿：他们在实验中「造出」了薛定谔的猫</title>
-      <link>https://mp.weixin.qq.com/s/uBYkLOwGqGSM911VvWY_1Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/uBYkLOwGqGSM911VvWY_1Q</guid>
-      <pubDate>Tue, 07 Oct 2025 18:53:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>谷歌加入CUA战场，发布Gemini 2.5 Computer Use：让AI直接操作浏览器</title>
-      <link>https://mp.weixin.qq.com/s/7j9hC317kcixXz2qiPWVBQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/7j9hC317kcixXz2qiPWVBQ</guid>
-      <pubDate>Wed, 08 Oct 2025 11:17:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>开源RL框架Verlog来了，专为LLM智能体打造，400回合不成问题</title>
-      <link>https://mp.weixin.qq.com/s/jBxNXqqjSnDzEfP5ONyrhA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jBxNXqqjSnDzEfP5ONyrhA</guid>
-      <pubDate>Wed, 08 Oct 2025 12:10:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>谷歌大神出手，免费发布《智能体设计模式》，AI Agent开发的终极秘籍</title>
-      <link>https://mp.weixin.qq.com/s/L8M8tb7AksTMiMJ_kJfnkg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/L8M8tb7AksTMiMJ_kJfnkg</guid>
-      <pubDate>Wed, 08 Oct 2025 12:10:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>重磅｜清华物理系传奇姚顺宇离职，不认同Anthropic，加入DeepMind</title>
-      <link>https://mp.weixin.qq.com/s/2KZgrNDfJuIhDHS15f6A_w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2KZgrNDfJuIhDHS15f6A_w</guid>
-      <pubDate>Wed, 08 Oct 2025 12:10:00 +0800</pubDate>
+      <title>微信公众平台</title>
+      <link>https://mp.weixin.qq.com/s/Cw9IO6AW9GEfOffTqTcwdQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Cw9IO6AW9GEfOffTqTcwdQ</guid>
+      <pubDate>Thu, 09 Oct 2025 12:42:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
