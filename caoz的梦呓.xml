@@ -7,60 +7,18 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 28 Sep 2025 14:56:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 13:00:21 +0000</lastBuildDate>
     <item>
-      <title>抠门精出游 - 欧洲街溜子记录</title>
-      <link>https://mp.weixin.qq.com/s/lV9bVn_Pv0Lt9-dd3YUFzg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/lV9bVn_Pv0Lt9-dd3YUFzg</guid>
-      <pubDate>Tue, 05 Aug 2025 00:42:00 +0800</pubDate>
+      <title>登顶峨眉，继续嘴硬</title>
+      <link>https://mp.weixin.qq.com/s/X92rA-sQuG5fQ-u0nDaA7Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/X92rA-sQuG5fQ-u0nDaA7Q</guid>
+      <pubDate>Sat, 11 Oct 2025 23:53:00 +0800</pubDate>
     </item>
     <item>
-      <title>旅游中的一些感悟</title>
-      <link>https://mp.weixin.qq.com/s/SA5IdPvW2bV6ukhlc7xwAA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/SA5IdPvW2bV6ukhlc7xwAA</guid>
-      <pubDate>Mon, 11 Aug 2025 17:14:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>讲一百次正确，不如试一次错。</title>
-      <link>https://mp.weixin.qq.com/s/JO_gFi_JYu7WV12NYMUf1A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/JO_gFi_JYu7WV12NYMUf1A</guid>
-      <pubDate>Sat, 16 Aug 2025 21:03:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>GPT5 编程实战的一些体会</title>
-      <link>https://mp.weixin.qq.com/s/LpSaqRFYccJwic4sk9GvqQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/LpSaqRFYccJwic4sk9GvqQ</guid>
-      <pubDate>Thu, 21 Aug 2025 10:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>我的无聊时光</title>
-      <link>https://mp.weixin.qq.com/s/TsHfaOB8uI_g7r8uU9_Usw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/TsHfaOB8uI_g7r8uU9_Usw</guid>
-      <pubDate>Sat, 23 Aug 2025 22:29:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>零基础AI编程进阶篇</title>
-      <link>https://mp.weixin.qq.com/s/hJBSL8tz2UMm5bHQGMVqug</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/hJBSL8tz2UMm5bHQGMVqug</guid>
-      <pubDate>Fri, 29 Aug 2025 10:49:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>再谈AI时代的平权假象</title>
-      <link>https://mp.weixin.qq.com/s/qlyGx3EY0iab8VsDsPH6zA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/qlyGx3EY0iab8VsDsPH6zA</guid>
-      <pubDate>Thu, 04 Sep 2025 23:42:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>人与人的差距是怎么拉开的</title>
-      <link>https://mp.weixin.qq.com/s/S_6JK0DLA1Gz_zxAZ8KSxw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/S_6JK0DLA1Gz_zxAZ8KSxw</guid>
-      <pubDate>Sat, 13 Sep 2025 12:31:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>AI零代码编程-你不死磕，它就逃避</title>
-      <link>https://mp.weixin.qq.com/s/nEb3Br7kDoKU4iaavB8QcA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/nEb3Br7kDoKU4iaavB8QcA</guid>
-      <pubDate>Sun, 14 Sep 2025 21:14:00 +0800</pubDate>
+      <title>零代码AI编程 - 让它自己跑测试</title>
+      <link>https://mp.weixin.qq.com/s/R2PEY5hm2LXoM9Eh1QawhA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/R2PEY5hm2LXoM9Eh1QawhA</guid>
+      <pubDate>Sun, 28 Sep 2025 10:41:00 +0800</pubDate>
     </item>
     <item>
       <title>DeepSeek，迟来的荣耀</title>
@@ -69,10 +27,58 @@
       <pubDate>Sun, 21 Sep 2025 00:02:00 +0800</pubDate>
     </item>
     <item>
-      <title>零代码AI编程 - 让它自己跑测试</title>
-      <link>https://mp.weixin.qq.com/s/R2PEY5hm2LXoM9Eh1QawhA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/R2PEY5hm2LXoM9Eh1QawhA</guid>
-      <pubDate>Sun, 28 Sep 2025 10:41:00 +0800</pubDate>
+      <title>AI零代码编程-你不死磕，它就逃避</title>
+      <link>https://mp.weixin.qq.com/s/nEb3Br7kDoKU4iaavB8QcA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/nEb3Br7kDoKU4iaavB8QcA</guid>
+      <pubDate>Sun, 14 Sep 2025 21:14:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>人与人的差距是怎么拉开的</title>
+      <link>https://mp.weixin.qq.com/s/S_6JK0DLA1Gz_zxAZ8KSxw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/S_6JK0DLA1Gz_zxAZ8KSxw</guid>
+      <pubDate>Sat, 13 Sep 2025 12:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>再谈AI时代的平权假象</title>
+      <link>https://mp.weixin.qq.com/s/qlyGx3EY0iab8VsDsPH6zA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/qlyGx3EY0iab8VsDsPH6zA</guid>
+      <pubDate>Thu, 04 Sep 2025 23:42:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>零基础AI编程进阶篇</title>
+      <link>https://mp.weixin.qq.com/s/hJBSL8tz2UMm5bHQGMVqug</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/hJBSL8tz2UMm5bHQGMVqug</guid>
+      <pubDate>Fri, 29 Aug 2025 10:49:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>我的无聊时光</title>
+      <link>https://mp.weixin.qq.com/s/TsHfaOB8uI_g7r8uU9_Usw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/TsHfaOB8uI_g7r8uU9_Usw</guid>
+      <pubDate>Sat, 23 Aug 2025 22:29:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>GPT5 编程实战的一些体会</title>
+      <link>https://mp.weixin.qq.com/s/LpSaqRFYccJwic4sk9GvqQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/LpSaqRFYccJwic4sk9GvqQ</guid>
+      <pubDate>Thu, 21 Aug 2025 10:31:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>讲一百次正确，不如试一次错。</title>
+      <link>https://mp.weixin.qq.com/s/JO_gFi_JYu7WV12NYMUf1A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/JO_gFi_JYu7WV12NYMUf1A</guid>
+      <pubDate>Sat, 16 Aug 2025 21:03:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>旅游中的一些感悟</title>
+      <link>https://mp.weixin.qq.com/s/SA5IdPvW2bV6ukhlc7xwAA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/SA5IdPvW2bV6ukhlc7xwAA</guid>
+      <pubDate>Mon, 11 Aug 2025 17:14:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>抠门精出游 - 欧洲街溜子记录</title>
+      <link>https://mp.weixin.qq.com/s/lV9bVn_Pv0Lt9-dd3YUFzg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/lV9bVn_Pv0Lt9-dd3YUFzg</guid>
+      <pubDate>Tue, 05 Aug 2025 00:42:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
