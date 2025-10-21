@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Oct 2025 07:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 07:03:23 +0000</lastBuildDate>
     <item>
-      <title>改变强化学习范式，Meta新作呼应Sutton「经验时代」预言</title>
-      <link>https://mp.weixin.qq.com/s/L1l6YAq0D9VsBsbiYf0-FA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/L1l6YAq0D9VsBsbiYf0-FA</guid>
-      <pubDate>Mon, 13 Oct 2025 14:36:00 +0800</pubDate>
+      <title>DeepSeek的新模型很疯狂：整个AI圈都在研究视觉路线，Karpathy不装了</title>
+      <link>https://mp.weixin.qq.com/s/iJQj9U9MMLBJk_Lbk9BnFQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/iJQj9U9MMLBJk_Lbk9BnFQ</guid>
+      <pubDate>Tue, 21 Oct 2025 11:41:00 +0800</pubDate>
     </item>
     <item>
-      <title>LLaVA-OneVision-1.5全流程开源，8B模型预训练只需4天、1.6万美元</title>
-      <link>https://mp.weixin.qq.com/s/t0oflHZOVU_73zzq2PCLSw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/t0oflHZOVU_73zzq2PCLSw</guid>
-      <pubDate>Mon, 13 Oct 2025 14:36:00 +0800</pubDate>
+      <title>喂了几个月的垃圾推文，大模型得了「脑腐」，这病还治不好</title>
+      <link>https://mp.weixin.qq.com/s/7UDudFAivb80jx15tuf6UA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/7UDudFAivb80jx15tuf6UA</guid>
+      <pubDate>Tue, 21 Oct 2025 11:41:00 +0800</pubDate>
     </item>
     <item>
-      <title>ICLR 2026惊现SAM 3，分割一切的下一步：让模型理解「概念」</title>
-      <link>https://mp.weixin.qq.com/s/7uDHXQd1ES2mV4dZFB7VMw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/7uDHXQd1ES2mV4dZFB7VMw</guid>
-      <pubDate>Mon, 13 Oct 2025 12:18:00 +0800</pubDate>
+      <title>RewardMap: 通过多阶段强化学习解决细粒度视觉推理的Sparse Reward</title>
+      <link>https://mp.weixin.qq.com/s/jTnrxfZ7Secq1-ZO1mDMyg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/jTnrxfZ7Secq1-ZO1mDMyg</guid>
+      <pubDate>Tue, 21 Oct 2025 11:41:00 +0800</pubDate>
     </item>
     <item>
-      <title>大模型追逐星辰大海，GPT和Gemini国际天文奥赛夺金</title>
-      <link>https://mp.weixin.qq.com/s/rZFnDrbIrEnZ4_FqjXzbnw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/rZFnDrbIrEnZ4_FqjXzbnw</guid>
-      <pubDate>Mon, 13 Oct 2025 12:18:00 +0800</pubDate>
+      <title>大模型微调范式认知再被颠覆？UIUC、Amazon团队最新研究指出SFT灾难性遗忘问题或被误解</title>
+      <link>https://mp.weixin.qq.com/s/29pDMmX821Z10yFPFZ-5Ng</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/29pDMmX821Z10yFPFZ-5Ng</guid>
+      <pubDate>Tue, 21 Oct 2025 11:41:00 +0800</pubDate>
     </item>
     <item>
-      <title>为MoE解绑：全新「专家即服务」推理架构发布，超细粒度扩展锐减37.5%成本</title>
-      <link>https://mp.weixin.qq.com/s/7uQSGe6htpQnv881Ayb2YQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/7uQSGe6htpQnv881Ayb2YQ</guid>
-      <pubDate>Mon, 13 Oct 2025 12:18:00 +0800</pubDate>
+      <title>刚刚，Anthropic上线了网页版Claude Code</title>
+      <link>https://mp.weixin.qq.com/s/UddxFp9KURIsWa3pMbocgw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/UddxFp9KURIsWa3pMbocgw</guid>
+      <pubDate>Tue, 21 Oct 2025 08:15:00 +0800</pubDate>
     </item>
     <item>
-      <title>NeurIPS 2025 Spotlight | GeoSVR：稀疏体素的新潜力——超越3DGS系列的高精度三维表面重建</title>
-      <link>https://mp.weixin.qq.com/s/QA4mY7YL3rsVGHl0QONQdQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/QA4mY7YL3rsVGHl0QONQdQ</guid>
-      <pubDate>Mon, 13 Oct 2025 12:18:00 +0800</pubDate>
+      <title>告别「偏科」，UniVid实现视频理解与生成一体化</title>
+      <link>https://mp.weixin.qq.com/s/Ri2wC8tgwut-deKbF2VxZw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Ri2wC8tgwut-deKbF2VxZw</guid>
+      <pubDate>Tue, 21 Oct 2025 08:15:00 +0800</pubDate>
     </item>
     <item>
-      <title>「微调已死」再添筹码，谷歌扩展AI自我进化范式，成功经验与失败教训双向学习</title>
-      <link>https://mp.weixin.qq.com/s/EFFtMwU5asva_IzY2sS79A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/EFFtMwU5asva_IzY2sS79A</guid>
-      <pubDate>Sun, 12 Oct 2025 16:02:00 +0800</pubDate>
+      <title>太强了！DeepSeek刚刚开源新模型，用视觉方式压缩一切</title>
+      <link>https://mp.weixin.qq.com/s/K6DVJGtJUuVudV4rFFS_8A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/K6DVJGtJUuVudV4rFFS_8A</guid>
+      <pubDate>Mon, 20 Oct 2025 17:15:00 +0800</pubDate>
     </item>
     <item>
-      <title>硅谷CEO们高喊AI威胁论，「5年内失业率飙升至20%」，但95%AI项目赔本赚吆喝</title>
-      <link>https://mp.weixin.qq.com/s/adm3yntyFnE9pG0Tq8L7-Q</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/adm3yntyFnE9pG0Tq8L7-Q</guid>
-      <pubDate>Sun, 12 Oct 2025 12:02:00 +0800</pubDate>
+      <title>NeurIPS 2025 | CMU、清华、UTAustin开源ReinFlow，用在线RL微调机器人流匹配策略</title>
+      <link>https://mp.weixin.qq.com/s/aC8XTNCYuAnM0Ar1lkyE9w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/aC8XTNCYuAnM0Ar1lkyE9w</guid>
+      <pubDate>Mon, 20 Oct 2025 17:15:00 +0800</pubDate>
     </item>
     <item>
-      <title>Qwen3 变身扩散语言模型？不从零训练也能跑，30B参数创纪录</title>
-      <link>https://mp.weixin.qq.com/s/MwZ8tQamTMsUkxUJC_Nuiw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/MwZ8tQamTMsUkxUJC_Nuiw</guid>
-      <pubDate>Sun, 12 Oct 2025 12:02:00 +0800</pubDate>
+      <title>ICCV 2025 | 扩散模型生成手写体文本行的首次实战，效果惊艳还开源</title>
+      <link>https://mp.weixin.qq.com/s/6Pyz_XzCn7bFBqNcoH--RA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/6Pyz_XzCn7bFBqNcoH--RA</guid>
+      <pubDate>Mon, 20 Oct 2025 17:15:00 +0800</pubDate>
     </item>
     <item>
-      <title>LLM越狱攻击的威胁被系统性高估? 基于分解式评分的「越狱评估新范式」出炉</title>
-      <link>https://mp.weixin.qq.com/s/9iC87G7N-pw2t86oSU9N1g</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9iC87G7N-pw2t86oSU9N1g</guid>
-      <pubDate>Sun, 12 Oct 2025 12:02:00 +0800</pubDate>
+      <title>微软BitDistill将LLM压缩到1.58比特：10倍内存节省、2.65倍CPU推理加速</title>
+      <link>https://mp.weixin.qq.com/s/4nlj-1dAXaq0VZPDaONlBg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/4nlj-1dAXaq0VZPDaONlBg</guid>
+      <pubDate>Mon, 20 Oct 2025 15:47:00 +0800</pubDate>
     </item>
     <item>
-      <title>曾拒15亿美金，超级天才Andrew Tulloch重返Meta，Thinking Machines Lab痛失联创</title>
-      <link>https://mp.weixin.qq.com/s/dTP8hBgMORbJF5RSUq2izQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/dTP8hBgMORbJF5RSUq2izQ</guid>
-      <pubDate>Sun, 12 Oct 2025 10:41:00 +0800</pubDate>
+      <title>AGILE：视觉学习新范式！自监督+交互式强化学习助力VLMs感知与推理全面提升</title>
+      <link>https://mp.weixin.qq.com/s/z9YFy6sF6w5CenLwN_E3JA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/z9YFy6sF6w5CenLwN_E3JA</guid>
+      <pubDate>Mon, 20 Oct 2025 15:47:00 +0800</pubDate>
     </item>
     <item>
-      <title>RL 将如何提高具身大模型 VLA 泛化性？清华大学团队NeurIPS 2025文章分析 RL 与 SFT 泛化性差异</title>
-      <link>https://mp.weixin.qq.com/s/F5t-8Aou5DJrn2PVqDLQ5w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/F5t-8Aou5DJrn2PVqDLQ5w</guid>
-      <pubDate>Sun, 12 Oct 2025 10:41:00 +0800</pubDate>
+      <title>突破FHE瓶颈，Lancelot架构实现加密状态下的鲁棒聚合计算，兼顾「隐私保护」与「鲁棒性」</title>
+      <link>https://mp.weixin.qq.com/s/O7CCA0uWW7XkEPbZXFpUeg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/O7CCA0uWW7XkEPbZXFpUeg</guid>
+      <pubDate>Mon, 20 Oct 2025 15:47:00 +0800</pubDate>
     </item>
     <item>
-      <title>风波再起，OpenAI被指通过警方向AI监管倡导者施压，马斯克锐评其「建立在谎言之上」</title>
-      <link>https://mp.weixin.qq.com/s/qy62DqGTAZI57FJYJyH1uA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/qy62DqGTAZI57FJYJyH1uA</guid>
-      <pubDate>Sat, 11 Oct 2025 16:05:00 +0800</pubDate>
+      <title>小红书RecSys 2025最佳论文提名背后：破解视频时长预测难题</title>
+      <link>https://mp.weixin.qq.com/s/PzKAvxDlyoI5CC6WG54icg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/PzKAvxDlyoI5CC6WG54icg</guid>
+      <pubDate>Mon, 20 Oct 2025 12:49:00 +0800</pubDate>
     </item>
     <item>
-      <title>NeurIPS 2025 Spotlight | PhysX-3D：面向真实物理世界的3D资产生成范式</title>
-      <link>https://mp.weixin.qq.com/s/Cdo2i96b6_JOaSKEigEsKA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Cdo2i96b6_JOaSKEigEsKA</guid>
-      <pubDate>Sat, 11 Oct 2025 16:05:00 +0800</pubDate>
+      <title>Codeforces难题不够刷？谢赛宁等造了个AI出题机，能生成原创编程题</title>
+      <link>https://mp.weixin.qq.com/s/nqK91K5aPaLAj3CN85EV5g</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/nqK91K5aPaLAj3CN85EV5g</guid>
+      <pubDate>Mon, 20 Oct 2025 12:49:00 +0800</pubDate>
     </item>
     <item>
-      <title>首家AIOS落地来自vivo：个人化智能复刻人类思维，手机还能这样用</title>
-      <link>https://mp.weixin.qq.com/s/tLvlD9A8PV5a5gY3FhyPcA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/tLvlD9A8PV5a5gY3FhyPcA</guid>
-      <pubDate>Sat, 11 Oct 2025 12:16:00 +0800</pubDate>
+      <title>SIGGRAPH Asia 2025 | OmniPart框架，让3D内容创作像拼搭积木一样简单</title>
+      <link>https://mp.weixin.qq.com/s/RkpM6U4yf0WOsnWy6wFnwQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/RkpM6U4yf0WOsnWy6wFnwQ</guid>
+      <pubDate>Mon, 20 Oct 2025 12:49:00 +0800</pubDate>
     </item>
     <item>
-      <title>陶哲轩：用了GPT-5 Pro后，小尺度、宏观尺度很赞，中尺度有点垮</title>
-      <link>https://mp.weixin.qq.com/s/Re5rAiw_ULG54p_dwvVDqA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Re5rAiw_ULG54p_dwvVDqA</guid>
-      <pubDate>Sat, 11 Oct 2025 12:16:00 +0800</pubDate>
+      <title>轻量高效，即插即用：Video-RAG为长视频理解带来新范式</title>
+      <link>https://mp.weixin.qq.com/s/eg_IsxFoS7_Y2KuTQlqsiA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/eg_IsxFoS7_Y2KuTQlqsiA</guid>
+      <pubDate>Mon, 20 Oct 2025 12:49:00 +0800</pubDate>
     </item>
     <item>
-      <title>读万卷书，大模型就能「看」懂视觉世界？Meta揭秘LLM视觉先验的起源</title>
-      <link>https://mp.weixin.qq.com/s/2z8ddeqOx35MI8OZqULG3w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2z8ddeqOx35MI8OZqULG3w</guid>
-      <pubDate>Sat, 11 Oct 2025 12:16:00 +0800</pubDate>
+      <title>Meta用40万个GPU小时做了一个实验，只为弄清强化学习Scaling Law</title>
+      <link>https://mp.weixin.qq.com/s/DPuKGb0DsJYids-dUVOl_Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/DPuKGb0DsJYids-dUVOl_Q</guid>
+      <pubDate>Sun, 19 Oct 2025 17:14:00 +0800</pubDate>
     </item>
     <item>
-      <title>微调已死？Agentic上下文工程登场，无需微调实现模型进化</title>
-      <link>https://mp.weixin.qq.com/s/f-1h0Q-QKOWghJb7Fmrvtw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/f-1h0Q-QKOWghJb7Fmrvtw</guid>
-      <pubDate>Sat, 11 Oct 2025 11:29:00 +0800</pubDate>
+      <title>长上下文窗口、Agent崛起，RAG已死？</title>
+      <link>https://mp.weixin.qq.com/s/TMhJ5lYdEo8beBnnRch3Jw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/TMhJ5lYdEo8beBnnRch3Jw</guid>
+      <pubDate>Sun, 19 Oct 2025 17:14:00 +0800</pubDate>
     </item>
     <item>
-      <title>Vision-Zero：零数据VLM自我进化！陈怡然团队提出零监督训练新范式</title>
-      <link>https://mp.weixin.qq.com/s/TRkETaG2y1gzcdbE-eHNxA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/TRkETaG2y1gzcdbE-eHNxA</guid>
-      <pubDate>Sat, 11 Oct 2025 11:29:00 +0800</pubDate>
+      <title>无需再训练即可增强性能！港大团队提出GPC框架，实现机器人「策略组合」</title>
+      <link>https://mp.weixin.qq.com/s/klk-nmh5xFQBooufoGwQhA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/klk-nmh5xFQBooufoGwQhA</guid>
+      <pubDate>Sun, 19 Oct 2025 17:14:00 +0800</pubDate>
     </item>
     <item>
-      <title>算力成本大降！马尔可夫思考机来了，LLM推理成本直接降为线性</title>
-      <link>https://mp.weixin.qq.com/s/bIY_2cs4UOv3_oYSRpu3XA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/bIY_2cs4UOv3_oYSRpu3XA</guid>
-      <pubDate>Fri, 10 Oct 2025 14:36:00 +0800</pubDate>
+      <title>OpenAI「解决」10道数学难题？哈萨比斯直呼「尴尬」，LeCun辛辣点评</title>
+      <link>https://mp.weixin.qq.com/s/vbmhoYdrUf5EGQyQ5WM5Og</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/vbmhoYdrUf5EGQyQ5WM5Og</guid>
+      <pubDate>Sun, 19 Oct 2025 11:47:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
