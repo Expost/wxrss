@@ -7,126 +7,126 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 13 Oct 2025 12:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 13:32:06 +0000</lastBuildDate>
     <item>
-      <title>SDC2025 精彩议题预告 | 不同芯片架构下的可信执行环境（TEE）安全漏洞研究</title>
-      <link>https://mp.weixin.qq.com/s/-rFClM5ZBqzRoRQSO2z7Kg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-rFClM5ZBqzRoRQSO2z7Kg</guid>
-      <pubDate>Mon, 13 Oct 2025 17:59:00 +0800</pubDate>
+      <title>SDC2025 精彩议题预告 | 跨向无人之境：智能架构的支付宝安全风险扫描实践</title>
+      <link>https://mp.weixin.qq.com/s/OCjCmJK5HHABNnfFqlgkQg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/OCjCmJK5HHABNnfFqlgkQg</guid>
+      <pubDate>Wed, 22 Oct 2025 20:57:00 +0800</pubDate>
     </item>
     <item>
-      <title>rondo木马文件逆向分析</title>
-      <link>https://mp.weixin.qq.com/s/qwP8qE5tav5MrXjC4HzRtw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/qwP8qE5tav5MrXjC4HzRtw</guid>
-      <pubDate>Mon, 13 Oct 2025 17:59:00 +0800</pubDate>
+      <title>静态程序分析之数据流分析(Foundations + LiveVar Analysis Code)续</title>
+      <link>https://mp.weixin.qq.com/s/w4iOERi3zcOLcsQg3goDug</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/w4iOERi3zcOLcsQg3goDug</guid>
+      <pubDate>Wed, 22 Oct 2025 20:57:00 +0800</pubDate>
     </item>
     <item>
-      <title>7-Zip曝两大高危漏洞，恶意ZIP文件可触发任意代码执行，25.00版已修复</title>
-      <link>https://mp.weixin.qq.com/s/Wp3FLO4U5yghEVtkPg46dQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Wp3FLO4U5yghEVtkPg46dQ</guid>
-      <pubDate>Mon, 13 Oct 2025 17:59:00 +0800</pubDate>
+      <title>SDC2025 倒计时1天！</title>
+      <link>https://mp.weixin.qq.com/s/SJo0Gt7yQw2rDHOK9JA2aQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/SJo0Gt7yQw2rDHOK9JA2aQ</guid>
+      <pubDate>Wed, 22 Oct 2025 20:57:00 +0800</pubDate>
     </item>
     <item>
-      <title>倒计时10天！SDC2025技术盛宴即将启幕</title>
-      <link>https://mp.weixin.qq.com/s/HynpKr1nlVK82f82meSCug</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/HynpKr1nlVK82f82meSCug</guid>
-      <pubDate>Mon, 13 Oct 2025 17:59:00 +0800</pubDate>
+      <title>SDC2025 精彩议题预告 | SCPGA：自认同CoT渐进式泛化攻击</title>
+      <link>https://mp.weixin.qq.com/s/TJUYycFONjX-H9le6McxDg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/TJUYycFONjX-H9le6McxDg</guid>
+      <pubDate>Tue, 21 Oct 2025 18:08:00 +0800</pubDate>
     </item>
     <item>
-      <title>智能时代·可信AI安全 | WiFi万能钥匙，助力第九届安全开发者峰会（SDC2025）</title>
-      <link>https://mp.weixin.qq.com/s/cjbidYRz8O-1rKdw0BgYmQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/cjbidYRz8O-1rKdw0BgYmQ</guid>
-      <pubDate>Sat, 11 Oct 2025 18:07:00 +0800</pubDate>
+      <title>tt x-gorgon分析</title>
+      <link>https://mp.weixin.qq.com/s/lDD12dqvanR7qR9pGVoMew</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/lDD12dqvanR7qR9pGVoMew</guid>
+      <pubDate>Tue, 21 Oct 2025 18:08:00 +0800</pubDate>
     </item>
     <item>
-      <title>DefCamp CTF 2025 onigirl 复盘详解</title>
-      <link>https://mp.weixin.qq.com/s/9CmpMWkAz_FcJzX7_Vqufw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/9CmpMWkAz_FcJzX7_Vqufw</guid>
-      <pubDate>Sat, 11 Oct 2025 18:07:00 +0800</pubDate>
+      <title>SDC2025 倒计时2天！</title>
+      <link>https://mp.weixin.qq.com/s/aHYtQT95CJDTTpZTAJYR2w</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/aHYtQT95CJDTTpZTAJYR2w</guid>
+      <pubDate>Tue, 21 Oct 2025 18:08:00 +0800</pubDate>
     </item>
     <item>
-      <title>GitHub Copilot 曝严重漏洞，攻击者可窃取私有仓库源代码</title>
-      <link>https://mp.weixin.qq.com/s/ORzVHLcMD4Humhww94zuaQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ORzVHLcMD4Humhww94zuaQ</guid>
-      <pubDate>Sat, 11 Oct 2025 18:07:00 +0800</pubDate>
+      <title>智能时代·可信AI安全 | OPPO，助力第九届安全开发者峰会（SDC2025）</title>
+      <link>https://mp.weixin.qq.com/s/qolQdXwsAzy5n8ywrWzXlw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/qolQdXwsAzy5n8ywrWzXlw</guid>
+      <pubDate>Mon, 20 Oct 2025 18:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>SDC2025 议题预告 | 仿真驱动的侧信道攻击新范式：让CPU消耗成为密码学安全的X光机</title>
-      <link>https://mp.weixin.qq.com/s/_FPsP1ylHee-MTCf1N7f9A</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/_FPsP1ylHee-MTCf1N7f9A</guid>
-      <pubDate>Fri, 10 Oct 2025 17:59:00 +0800</pubDate>
+      <title>倒计时3天！SDC2025 超全参会指南，手把手教你玩转现场～</title>
+      <link>https://mp.weixin.qq.com/s/nrJjpIHj4WBZl8g0IDqBIw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/nrJjpIHj4WBZl8g0IDqBIw</guid>
+      <pubDate>Mon, 20 Oct 2025 18:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>OLLVM扁平化还原—新角度：状态机</title>
-      <link>https://mp.weixin.qq.com/s/P2RzfKsbiTTm9xhcPcClcQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/P2RzfKsbiTTm9xhcPcClcQ</guid>
-      <pubDate>Fri, 10 Oct 2025 17:59:00 +0800</pubDate>
+      <title>基于Minifilter实现目录保护软件，自定义保护目录，用户可选择是否允许文件行为</title>
+      <link>https://mp.weixin.qq.com/s/XlIJUlwQEsVhyZjswT3Qhw</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/XlIJUlwQEsVhyZjswT3Qhw</guid>
+      <pubDate>Mon, 20 Oct 2025 18:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>联发科发布安全公告，修复Wi-Fi与GNSS芯片组多个高危漏洞</title>
-      <link>https://mp.weixin.qq.com/s/v7ThP8Dx_LX20SODg9XoHw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/v7ThP8Dx_LX20SODg9XoHw</guid>
-      <pubDate>Fri, 10 Oct 2025 17:59:00 +0800</pubDate>
+      <title>SDC2025 精彩议题预告 | LLM 与安全代码</title>
+      <link>https://mp.weixin.qq.com/s/JtSbDkzrijWLoVZmw3tvog</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/JtSbDkzrijWLoVZmw3tvog</guid>
+      <pubDate>Sun, 19 Oct 2025 18:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>微信公众平台</title>
-      <link>https://mp.weixin.qq.com/s/69OR79Pjs1dOXLTNWO88Lw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/69OR79Pjs1dOXLTNWO88Lw</guid>
-      <pubDate>Thu, 09 Oct 2025 18:00:00 +0800</pubDate>
+      <title>一道简单的RE迷宫题</title>
+      <link>https://mp.weixin.qq.com/s/pooRi0kg-w6YpVNUgWq8-A</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/pooRi0kg-w6YpVNUgWq8-A</guid>
+      <pubDate>Sun, 19 Oct 2025 18:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>AI安全新范式：京东JoySafety开源项目深度解析</title>
-      <link>https://mp.weixin.qq.com/s/BY977ULgJ7k3REIM_qn2aQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/BY977ULgJ7k3REIM_qn2aQ</guid>
-      <pubDate>Thu, 09 Oct 2025 18:00:00 +0800</pubDate>
+      <title>SDC2025 倒计时4天！</title>
+      <link>https://mp.weixin.qq.com/s/8zKUqjeVGOYV44nn7_-8MA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/8zKUqjeVGOYV44nn7_-8MA</guid>
+      <pubDate>Sun, 19 Oct 2025 18:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>勒索60万英镑、暗网发儿童照！Kido 托儿所攻击案两名17岁嫌疑人被英国警方逮捕</title>
-      <link>https://mp.weixin.qq.com/s/3mcWziUgEbf7O4t_-fhKCA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/3mcWziUgEbf7O4t_-fhKCA</guid>
-      <pubDate>Thu, 09 Oct 2025 18:00:00 +0800</pubDate>
+      <title>SDC2025 精彩议题预告 | ReCopilot：基于大模型的二进制逆向工程助手</title>
+      <link>https://mp.weixin.qq.com/s/-6X_Zx_RZblvovUpdno1aQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-6X_Zx_RZblvovUpdno1aQ</guid>
+      <pubDate>Sat, 18 Oct 2025 18:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>Frida编译调试与Hook技术实战：赠 android rat源码供学习</title>
-      <link>https://mp.weixin.qq.com/s/xKDWF6YgAPkVlUaNcXyvfg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/xKDWF6YgAPkVlUaNcXyvfg</guid>
-      <pubDate>Thu, 09 Oct 2025 18:00:00 +0800</pubDate>
+      <title>科锐软件逆向54期预科班、正式班开始火爆招生报名啦！！！</title>
+      <link>https://mp.weixin.qq.com/s/sBpn5EJv4gu7cKAOCXvHWQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/sBpn5EJv4gu7cKAOCXvHWQ</guid>
+      <pubDate>Sat, 18 Oct 2025 18:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>微信公众平台</title>
-      <link>https://mp.weixin.qq.com/s/ngkXYdpMEUJRwHwIKpkU2w</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ngkXYdpMEUJRwHwIKpkU2w</guid>
-      <pubDate>Wed, 08 Oct 2025 17:57:00 +0800</pubDate>
+      <title>SDC2025 倒计时5天！安全训练营，感兴趣的快快报名</title>
+      <link>https://mp.weixin.qq.com/s/zkD9869cg2Z05Q8ojtpUow</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/zkD9869cg2Z05Q8ojtpUow</guid>
+      <pubDate>Sat, 18 Oct 2025 18:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>Windows内核CVE-2019-1215分析与复现</title>
-      <link>https://mp.weixin.qq.com/s/lvWgylTWy9Rru90I2hOaEg</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/lvWgylTWy9Rru90I2hOaEg</guid>
-      <pubDate>Tue, 07 Oct 2025 18:00:00 +0800</pubDate>
+      <title>SDC2025 精彩议题预告 | 利用大模型辅助自动化挖掘BYOVD漏洞驱动</title>
+      <link>https://mp.weixin.qq.com/s/LVEtohaIsfRM53ZaVP8lbg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/LVEtohaIsfRM53ZaVP8lbg</guid>
+      <pubDate>Fri, 17 Oct 2025 18:05:00 +0800</pubDate>
     </item>
     <item>
-      <title>微信公众平台</title>
-      <link>https://mp.weixin.qq.com/s/EI6S0wQ-VTMRriWFqGU1Ag</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/EI6S0wQ-VTMRriWFqGU1Ag</guid>
-      <pubDate>Tue, 07 Oct 2025 18:00:00 +0800</pubDate>
+      <title>对pixel 2进行刷机并使用Magisk获取ROOT权限</title>
+      <link>https://mp.weixin.qq.com/s/NKuMAg39lwhL8kXsS4H7kA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/NKuMAg39lwhL8kXsS4H7kA</guid>
+      <pubDate>Fri, 17 Oct 2025 18:05:00 +0800</pubDate>
     </item>
     <item>
-      <title>2025中秋致谢 | 致深耕安全领域的伙伴，月圆情更浓，安全同共建！</title>
-      <link>https://mp.weixin.qq.com/s/2uq-f-vseFV2aDrWb-rZYw</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/2uq-f-vseFV2aDrWb-rZYw</guid>
-      <pubDate>Mon, 06 Oct 2025 17:59:00 +0800</pubDate>
+      <title>WatchGuard VPN现高危漏洞 未授权攻击者可接管设备</title>
+      <link>https://mp.weixin.qq.com/s/ezdsBqY8mt0ON7rPupx6zg</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/ezdsBqY8mt0ON7rPupx6zg</guid>
+      <pubDate>Fri, 17 Oct 2025 18:05:00 +0800</pubDate>
     </item>
     <item>
-      <title>加入看雪兼职讲师团：凭硬核实力发光，知识变现还能圈粉无数！</title>
-      <link>https://mp.weixin.qq.com/s/WTHwTUPx0o_UbTqOpidQlQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/WTHwTUPx0o_UbTqOpidQlQ</guid>
-      <pubDate>Sun, 05 Oct 2025 17:59:00 +0800</pubDate>
+      <title>SDC2025 倒计时6天！10月23日上海见</title>
+      <link>https://mp.weixin.qq.com/s/kd4b6_FJQBAd8RyndM6k1Q</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/kd4b6_FJQBAd8RyndM6k1Q</guid>
+      <pubDate>Fri, 17 Oct 2025 18:05:00 +0800</pubDate>
     </item>
     <item>
-      <title>AFL源码分析</title>
-      <link>https://mp.weixin.qq.com/s/-ZbwnsV49fDeebuLQX4qFA</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/-ZbwnsV49fDeebuLQX4qFA</guid>
-      <pubDate>Sun, 05 Oct 2025 17:59:00 +0800</pubDate>
+      <title>火热报名中！SDC2025安全训练营：软件安全 x IoT固件实战</title>
+      <link>https://mp.weixin.qq.com/s/Fq2yLI_h1WjM3qiBd6paoA</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/Fq2yLI_h1WjM3qiBd6paoA</guid>
+      <pubDate>Thu, 16 Oct 2025 18:04:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
