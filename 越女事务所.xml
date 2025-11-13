@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 12 Nov 2025 14:49:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 14:06:13 +0000</lastBuildDate>
     <item>
       <title>经济下行期，命很好的人</title>
       <link>https://mp.weixin.qq.com/s/PQkqVJu3kk6aAn9nYjstfQ</link>
@@ -43,6 +43,12 @@
       <link>https://mp.weixin.qq.com/s/-J9hsiFSo8-Ibss78DmLjQ</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/-J9hsiFSo8-Ibss78DmLjQ</guid>
       <pubDate>Sun, 02 Nov 2025 19:16:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>侮辱性极强</title>
+      <link>https://mp.weixin.qq.com/s/n3OSAGpHOp0obSQJAh4imQ</link>
+      <guid isPermaLink="false">https://mp.weixin.qq.com/s/n3OSAGpHOp0obSQJAh4imQ</guid>
+      <pubDate>Thu, 13 Nov 2025 19:52:00 +0800</pubDate>
     </item>
     <item>
       <title>今天请假不更新哈。我、我娃、我妈都生病了。 我今天带上了口罩，我妈还自讨苦吃带上了N95。娃指着我们的脸说：“姥姥也发烧了，妈妈也发烧了，我也感冒了，哈哈哈。”[发抖] （今晚不翻留言啦）</title>
@@ -121,12 +127,6 @@
       <link>https://mp.weixin.qq.com/s/fs3zUwKIrAXd0VmsAUGfMA</link>
       <guid isPermaLink="false">https://mp.weixin.qq.com/s/fs3zUwKIrAXd0VmsAUGfMA</guid>
       <pubDate>Mon, 20 Oct 2025 22:47:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>一屁股坏账...</title>
-      <link>https://mp.weixin.qq.com/s/V6RHiLPgHucrbAvDMvGgVQ</link>
-      <guid isPermaLink="false">https://mp.weixin.qq.com/s/V6RHiLPgHucrbAvDMvGgVQ</guid>
-      <pubDate>Sun, 19 Oct 2025 21:22:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
